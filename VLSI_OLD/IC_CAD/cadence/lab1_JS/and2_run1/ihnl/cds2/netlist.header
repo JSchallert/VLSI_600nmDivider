@@ -1,0 +1,19 @@
+// Library - lab1_JS, Cell - and2, View - schematic
+// LAST TIME SAVED: Feb 11 02:14:30 2019
+// NETLIST TIME: Feb 11 02:41:14 2019
+`timescale 1ns / 100ps 
+
+module and2 ( y, a, b );
+
+output  y;
+
+input  a, b;
+
+
+
+specify 
+    specparam CDS_LIBNAME  = "lab1_JS";
+    specparam CDS_CELLNAME = "and2";
+    specparam CDS_VIEWNAME = "schematic";
+endspecify
+

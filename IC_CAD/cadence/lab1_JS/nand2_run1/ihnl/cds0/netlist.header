@@ -1,0 +1,19 @@
+// Library - lab1_JS, Cell - nand2, View - cmos_sch
+// LAST TIME SAVED: Jan 23 15:18:53 2020
+// NETLIST TIME: Feb  2 18:25:19 2020
+`timescale 1ns / 100ps 
+
+module nand2 ( y, a, b );
+
+output  y;
+
+input  a, b;
+
+
+
+specify 
+    specparam CDS_LIBNAME  = "lab1_JS";
+    specparam CDS_CELLNAME = "nand2";
+    specparam CDS_VIEWNAME = "cmos_sch";
+endspecify
+

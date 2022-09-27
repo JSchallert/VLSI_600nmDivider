@@ -1,0 +1,114 @@
+Checking out Encounter license ...
+Virtuoso_Digital_Implem 10.1 license checkout succeeded.
+	Maximum number of instance allowed (1 x 50000).
+**ERROR: (ENCOAX-148):	Could not open shared library libfeoax22.so : liboaDesign.so: cannot open shared object file: No such file or directory
+
+**ERROR: (ENCOAX-148):	OA features will be disabled in this session.
+
+
+*******************************************************************
+*   Copyright (c)  Cadence Design Systems, Inc.  1996 - 2011.     *
+*                     All rights reserved.                        *
+*                                                                 *
+*                                                                 *
+*                                                                 *
+* This program contains confidential and trade secret information *
+* of Cadence Design Systems, Inc. and is protected by copyright   *
+* law and international treaties.  Any reproduction, use,         *
+* distribution or disclosure of this program or any portion of it,*
+* or any attempt to obtain a human-readable version of this       *
+* program, without the express, prior written consent of          *
+* Cadence Design Systems, Inc., is strictly prohibited.           *
+*                                                                 *
+*                 Cadence Design Systems, Inc.                    *
+*                    2655 Seely Avenue                            *
+*                   San Jose, CA 95134,  USA                      *
+*                                                                 *
+*                                                                 *
+*******************************************************************
+
+@(#)CDS: Encounter v10.12-s181_1 (32bit) 07/28/2011 22:56 (Linux 2.6)
+@(#)CDS: NanoRoute v10.12-s010 NR110720-1815/10_10_USR2-UB (database version 2.30, 124.2.1) {superthreading v1.15}
+@(#)CDS: CeltIC v10.12-s013_1 (32bit) 07/27/2011 04:13:10 (Linux 2.6.9-89.0.19.ELsmp)
+@(#)CDS: AAE 10.12-s001 (32bit) 07/28/2011 (Linux 2.6.9-89.0.19.ELsmp)
+@(#)CDS: CTE 10.12-s010_1 (32bit) Jul 18 2011 23:05:29 (Linux 2.6.9-89.0.19.ELsmp)
+@(#)CDS: CPE v10.12-s007
+--- Starting "Encounter v10.12-s181_1" on Mon Feb 24 03:38:11 2020 (mem=46.0M) ---
+--- Running on Tera.Eng.HMC.Edu (x86_64 w/Linux 3.10.0-957.5.1.el7.x86_64) ---
+This version was compiled on Thu Jul 28 22:56:00 PDT 2011.
+Set DBUPerIGU to 1000.
+Set net toggle Scale Factor to 1.00
+Set Shrink Factor to 1.00000
+<CMD> win
+*** Memory pool thread-safe mode activated.
+<CMD> encMessage warning 0
+Suppress "**WARN ..." messages.
+<CMD> encMessage debug 0
+<CMD> encMessage info 0
+Reading config file - controller_floorplan_final.enc.dat/controller.conf
+**WARN: (ENCLF-105):	The layer 'poly' specified in SAMENET spacing
+rule is neither a routing layer nor a cut layer. The rule is ignored.
+**WARN: (ENCLF-108):	There is no overlap layer defined in any lef file
+so you are unable to create rectilinear partition in a hierarchical flow.
+**WARN: (ENCSYC-2):	Timing is not defined for cell a2o1_1x.
+**WARN: (ENCSYC-2):	Timing is not defined for cell and2_1x.
+**WARN: (ENCSYC-2):	Timing is not defined for cell inv_1x.
+**WARN: (ENCSYC-2):	Timing is not defined for cell latch_c_1x.
+**WARN: (ENCSYC-2):	Timing is not defined for cell mux2_c_1x.
+**WARN: (ENCSYC-2):	Timing is not defined for cell nand2_1x.
+**WARN: (ENCSYC-2):	Timing is not defined for cell nand3_1x.
+**WARN: (ENCSYC-2):	Timing is not defined for cell nor2_1x.
+**WARN: (ENCSYC-2):	Timing is not defined for cell nor3_1x.
+**WARN: (ENCSYC-2):	Timing is not defined for cell or2_1x.
+*** End library_loading (cpu=0.00min, mem=0.0M, fe_cpu=0.39min, fe_mem=223.6M) ***
+Loading preference file controller_floorplan_final.enc.dat/enc.pref.tcl ...
+Loading mode file controller_floorplan_final.enc.dat/controller.mode ...
+loading place ...
+loading route ...
+**WARN: (ENCSYT-709):	The next major release of EDI (11.1) will use the
+Multi-Mode/Multi-Corner (MMMC) architecture exclusively for configuration and
+control of some software features. The current configuration will continue to
+work in this release. But for compatibility with the future releases you
+should migrate your design to an MMMC style configuration. You can refer to
+the What's New document for this release for additional information on the
+11.1 migration to MMMC. In addition, you can run restoreDesign with the
+-showEolWarnings option to identify specific command and configuration
+options that will no longer be supported.
+<CMD> setDrawView place
+<CMD> panCenter 218.380 253.260
+<CMD> panCenter 165.650 187.920
+<CMD> panCenter 120.400 170.670
+<CMD> panCenter 256.160 21.620
+<CMD> panCenter 87.030 149.740
+<CMD> panCenter 140.770 160.200
+<CMD> verifyConnectivity -type all -error 1000 -warning 50
+
+******** Start: VERIFY CONNECTIVITY ********
+Start Time: Mon Feb 24 03:40:17 2020
+
+Design Name: controller
+Database Units: 100
+Design Boundary: (0.0000, 0.0000) (309.4500, 222.0000)
+Error Limit = 1000; Warning Limit = 50
+Check all nets
+Time Elapsed: 0:00:00.0
+
+Begin Summary 
+  Found no problems or warnings.
+End Summary
+
+End Time: Mon Feb 24 03:40:17 2020
+******** End: VERIFY CONNECTIVITY ********
+  Verification Complete : 0 Viols.  0 Wrngs.
+  (CPU Time: 0:00:00.0  MEM: 0.008M)
+
+<CMD> global dbgLefDefOutVersion
+<CMD> set dbgLefDefOutVersion 5.5
+<CMD> defOut -floorplan -netlist -routing controller.def
+Writing DEF file 'controller.def', current time is Mon Feb 24 03:40:40 2020 ...
+unitPerMicron=100, dbgMicronPerDBU=0.010000, unitPerDBU=1.000000
+DEF file 'controller.def' is written, current time is Mon Feb 24 03:40:40 2020 ...
+<CMD> set dbgLefDefOutVersion NULL
+
+*** Memory Usage v#8 (Current mem = 226.891M, initial mem = 46.043M) ***
+--- Ending "Encounter" (totcpu=0:00:40.0, real=0:02:47, mem=226.9M) ---

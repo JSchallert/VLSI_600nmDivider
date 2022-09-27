@@ -1,0 +1,13 @@
+nor2_1x I9 ( alucontrol[1], net25, aluop[1]);
+nor2_1x I12 ( alucontrol[2], net24, net23);
+nor2_1x I1 ( net20, funct[2], funct[3]);
+nor2_1x I0 ( net19, funct[0], funct[1]);
+inv_1x I5 ( net24, aluop[0]);
+inv_1x I3 ( net21, funct[1]);
+inv_1x I2 ( net13, aluop[1]);
+nand2_1x I11 ( net23, net13, net21);
+nand2_1x I10 ( net25, net13, funct[2]);
+nand2_1x I8 ( alucontrol[0], net13, net22);
+nand2_1x I7 ( net22, net19, net20);
+
+endmodule

@@ -1,0 +1,27 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 09/24/2018 21:00 (ip-172-18-22-224) $
+\o Sub version:		sub-version  p015 
+\o Arguments:		-mpssession virtuoso39189 -mpshost tera.eng.hmc.edu 
+\o Working Directory:	tera.eng.hmc.edu:/hdd/home/jschallert/IC_CAD/cadence
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o Log file is "/hdd/home/jschallert/IC_CAD/cadence/libManager.log".
+\o Opening libManager window.
+\a nrSetCurrentWindow(cdsLibManager)
+\o changeWorkingDir("/hdd/home/jschallert/IC_CAD/cadence") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\o Loading customization file "./cdsLibMgr.il"
+\o Loading NCSU Library Manager customizations...done.
+\a nrResizeWindow(cdsLibManager list(983 433 803 640))
+\o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(623 31 803 640))
+\a nrResizeWindow(cdsLibManager list(623 76 803 595))
+\a nrResizeWindow(cdsLibManager list(712 296 803 595))
+\a cdsLibManager->libListBox->value = "NCSU_TechLib_tsmc02d"
+\a cdsLibManager->libLineEdit->value = "NCSU_TechLib_tsmc02d"
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\a cdsLibManager->fileExitButton->value = t
+\o libManager is exiting.
+\a exit(0)

@@ -1,0 +1,11 @@
+//
+// File created by:  irun
+// Do not modify this file
+
+s1::(10Feb2019:23:54:50):( ncverilog -l nc.log +access+r nand2.sv )
+s2::(11Feb2019:00:00:25):( ncverilog -l nc.log +access+r +gui nand2.sv )
+s3::(11Feb2019:00:08:59):( ncverilog -l nc.log +access+r +gui nand2.sv )
+s4::(11Feb2019:00:37:34):( ncverilog -l nc.log +access+r +gui nand2.sv )
+s5::(11Feb2019:00:54:16):( ncverilog -l nc.log +access+r +gui nand2.sv )
+s6::(02Feb2020:17:48:04):( ncverilog -l nc.log +access+r nand2.sv )
+s7::(02Feb2020:17:49:52):( ncverilog -l nc.log +access+r +gui nand2.sv )

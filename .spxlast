@@ -1,0 +1,12 @@
+sx_std_mask R:0.2:0.3:0.1
+sx_ov_sort alpha
+sx_ov_name org
+sx_last_dir /home/jschallert/PS5/
+sx_open_wv /home/jschallert/PS5/ps5.tr0
+sx_open_wv /home/jschallert/PS5/fo4-2.sw0
+sx_open_wv /home/jschallert/PS5/fo4.tr0
+sx_open_wp /home/jschallert/PS5
+sx_last_printer c3p0
+wv_geom 1095x670+520+91
+sx_def_jump_level 
+sx_tv_width 250

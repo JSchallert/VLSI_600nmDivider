@@ -1,0 +1,23 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 09/24/2018 21:00 (ip-172-18-22-224) $
+\o Sub version:		sub-version  p015 
+\o Arguments:		-mpssession virtuoso41334 -mpshost Tera.Eng.HMC.Edu 
+\o Working Directory:	Tera.Eng.HMC.Edu:/home/jschallert/IC_CAD/cadence/lab3_JS/lab3_JS
+\o 64-bit offsets
+\o changeWorkingDir("/home/jschallert/IC_CAD/cadence/lab3_JS/lab3_JS") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\a nrSetCurrentWindow(cdsLibManager)
+\o Qt version: 		5.9.1
+\o Log file is "/home/jschallert/IC_CAD/cadence/lab3_JS/lab3_JS/libManager.log".
+\o Opening libManager window.
+\a nrResizeWindow(cdsLibManager list(908 187 500 654))
+\o Loading customization file "./cdsLibMgr.il"
+\o Loading NCSU Library Manager customizations...done.
+\o Library Manager customization server connected.
+\a nrResizeWindow(cdsLibManager list(1114 147 500 654))
+\a cdsLibManager->libListBox->value = "HMC_Sheets_8ths"
+\a cdsLibManager->libLineEdit->value = "HMC_Sheets_8ths"
+\o MPS service: shutdown
+\o libManager is exiting.
+\a exit(0)

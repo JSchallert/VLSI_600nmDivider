@@ -1,0 +1,20 @@
+ncvlog: *W,DLNOHV: Unable to find an 'hdl.var' file to load in.
+TOOL:	ncvlog(64)	15.20-s069: Started on Feb 24, 2020 at 03:29:25 EST
+ncvlog
+    -use5x
+    -work __nclib
+    -view module
+    -logfile ncvlog.log
+    -cdslib /tmp/ihdl_cdslibb3084_3084
+    -messages
+    -nostdout
+    -nocopyright
+    -ESCAPEDNAME
+    /home/jschallert/IC_CAD/synth/controller_syn.v
+
+file: /home/jschallert/IC_CAD/synth/controller_syn.v
+	module __nclib.controller:module
+		errors: 0, warnings: 0
+	Total errors/warnings found outside modules and primitives:
+		errors: 0, warnings: 1
+TOOL:	ncvlog(64)	15.20-s069: Exiting on Feb 24, 2020 at 03:29:25 EST  (total: 00:00:00)

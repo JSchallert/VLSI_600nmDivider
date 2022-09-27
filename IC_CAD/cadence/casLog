@@ -1,0 +1,21 @@
+
+*** Checking layout cellview 'lab1_JS/or2/layout' against source cellview 'lab1_JS/or2/schematic'. - Mon Feb  3 10:50:13 2020 ***
+
+INFO (LX-1013): Instance terminal 'b' is missing from layout instance 'I2'.
+INFO (LX-1014): Instance terminal 'a' on layout instance 'I2' is either dangling or missing
+but should be connected to net 'a'.
+INFO (LX-1014): Instance terminal 'y' on layout instance 'I1' is either dangling or missing
+but should be connected to net 'y'.
+INFO (LX-1016): Instance terminal 'a' on layout instance 'I1' is connected to net 'a'
+but should be connected to the layout counterpart of the schematic net 'net2'.
+INFO (LX-1016): Instance terminal 'y' on layout instance 'I2' is connected to net 'y'
+but should be connected to the layout counterpart of the schematic net 'net2'.
+INFO (LX-1002): Layout instance 'I1' has master 'lab1_JS/nor2/layout' but is bound to
+schematic instance 'I1' for which the physical configuration view specifies layout master 
+'lab1_JS/inv/{layout}'.
+INFO (LX-1002): Layout instance 'I2' has master 'lab1_JS/inv/layout' but is bound to
+schematic instance 'I2' for which the physical configuration view specifies layout master 
+'lab1_JS/nor2/{layout}'.
+
+*** Check Against Source complete. ***
+

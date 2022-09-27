@@ -1,0 +1,43 @@
+systemVerilogAllCVIODataType = '(nil allCVs
+    (
+        (nil
+            libName    "controller_JS"
+            cellName   "nor2_1x"
+            viewName   "cmos_sch"
+            IODataType (
+            ( "y" ( nil  nil  nil  nil  nil ) )
+            ( "b" ( nil  nil  nil  nil  nil ) )
+            ( "a" ( nil  nil  nil  nil  nil ) )
+            )
+        )
+        (nil
+            libName    "controller_JS"
+            cellName   "inv_1x"
+            viewName   "cmos_sch"
+            IODataType (
+            ( "y" ( nil  nil  nil  nil  nil ) )
+            ( "a" ( nil  nil  nil  nil  nil ) )
+            )
+        )
+        (nil
+            libName    "controller_JS"
+            cellName   "nand2_1x"
+            viewName   "cmos_sch"
+            IODataType (
+            ( "y" ( nil  nil  nil  nil  nil ) )
+            ( "b" ( nil  nil  nil  nil  nil ) )
+            ( "a" ( nil  nil  nil  nil  nil ) )
+            )
+        )
+        (nil
+            libName    "controller_JS"
+            cellName   "aludec"
+            viewName   "schematic"
+            IODataType (
+            ( "alucontrol" ( nil  nil  nil  nil  nil ) )
+            ( "funct" ( nil  nil  nil  nil  nil ) )
+            ( "aluop" ( nil  nil  nil  nil  nil ) )
+            )
+        )
+    )
+)

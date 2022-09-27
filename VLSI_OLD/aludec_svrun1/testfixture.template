@@ -1,0 +1,30 @@
+
+`ifdef nil 
+
+`timescale 1ns / 100ps
+
+module test;
+
+
+
+
+wire [2:0]  alucontrol;
+
+reg [1:0]  aluop;
+reg [5:0]  funct;
+
+
+
+aludec top(alucontrol, aluop, funct); 
+ 
+
+`ifdef systemVerilog
+
+ //please enter any additional verilog stimulus in the /hdd/home/jschallert/aludec_svrun1/testfixture.sv file
+`include "/hdd/home/jschallert/aludec_svrun1/testfixture.sv"
+
+`endif
+
+endmodule 
+
+`endif 

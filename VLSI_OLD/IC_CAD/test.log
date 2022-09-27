@@ -1,0 +1,35 @@
+02/23/2019 17:06:04 (363867): Recheck started ....
+02/23/2019 17:06:04 (363867):   Actual recheck skipped due to recheck interval...
+02/23/2019 17:06:04 (363867): Re-check completed with status 0 (time 0).
+02/23/2019 17:06:12 (363867): Check-in started ....
+02/23/2019 17:06:12 (363867): Creating a new job ...
+02/23/2019 17:06:12 (363867): Validating server path: 5280@134.173.38.214:2222@theforce.eng.hmc.edu
+02/23/2019 17:06:12 (363867): Server path validation status: 0
+02/23/2019 17:06:12 (363867):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+02/23/2019 17:06:12 (363867):   Configuration of recheck interval minimum is 290.
+02/23/2019 17:06:12 (363867):   Configuration of 2000000000 maximum retry calls.
+02/23/2019 17:06:12 (363867):   Configuration of sleep time value of 0.
+02/23/2019 17:06:12 (363867):   Configuration of display specification is 'localhost:10.0'.
+02/23/2019 17:06:12 (363867): Storage of server list started...
+02/23/2019 17:06:12 (363867): Server list saved with status 0 (time 0).
+02/23/2019 17:06:12 (363867):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:10.0).
+02/23/2019 17:06:12 (363867):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+02/23/2019 17:06:12 (363867):   Using license server 134.173.38.214.
+02/23/2019 17:06:12 (363867): Job creation completed with status 0 (time 0).
+02/23/2019 17:06:12 (363867): Check-in of Incisive_Enterprise_Simulator completed with status 0 (time 0).
+02/23/2019 17:06:12 (363867): Exit started ....
+02/23/2019 17:06:12 (363867): Creating a new job ...
+02/23/2019 17:06:12 (363867): Validating server path: 5280@134.173.38.214:2222@theforce.eng.hmc.edu
+02/23/2019 17:06:12 (363867): Server path validation status: 0
+02/23/2019 17:06:12 (363867):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+02/23/2019 17:06:12 (363867):   Configuration of recheck interval minimum is 290.
+02/23/2019 17:06:12 (363867):   Configuration of 2000000000 maximum retry calls.
+02/23/2019 17:06:12 (363867):   Configuration of sleep time value of 0.
+02/23/2019 17:06:12 (363867):   Configuration of display specification is 'localhost:10.0'.
+02/23/2019 17:06:12 (363867): Storage of server list started...
+02/23/2019 17:06:12 (363867): Server list saved with status 0 (time 0).
+02/23/2019 17:06:12 (363867):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:10.0).
+02/23/2019 17:06:12 (363867):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+02/23/2019 17:06:12 (363867):   Using license server 134.173.38.214.
+02/23/2019 17:06:12 (363867): Job creation completed with status 0 (time 0).
+02/23/2019 17:06:12 (363867): Exit completed with status 0 (time 0).

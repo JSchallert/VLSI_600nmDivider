@@ -1,0 +1,19 @@
+
+********************************************************************************
+Product   : Virtuoso(R) DEF In 
+Program   : @(#)$CDS: defin version 6.1.8-64b 10/01/2018 19:51 (ip-172-18-22-52) $
+SubVersion: sub-version  IC6.1.8-64b.83 
+Started at: 24-Feb-2020  03:43:52
+User Name : jschallert
+Host Name : Tera.Eng.HMC.Edu
+Directory : /home/jschallert/IC_CAD/cadence/lab3_JS
+DB Version: 	20181001 (SJ)
+CADENCE Design Systems, Inc.
+********************************************************************************
+Running: defin -lib lab3_JS -libPath /home/jschallert/IC_CAD/cadence/lab3_JS -def "/home/jschallert/IC_CAD/soc/lab3_JS/controller.def" -cell controller -view layout
+WARNING: (OALEFDEF-50159): /home/jschallert/IC_CAD/soc/lab3_JS/controller.def(50-92) : VIA viagen21_1: A matching via rule M2_M1 is used for this via since there is no via rule specified. Use -useCustomVias option to create a custom via if the standard via created is not desirable.
+WARNING: (OALEFDEF-50159): /home/jschallert/IC_CAD/soc/lab3_JS/controller.def(92-102) : VIA viagen21_3: A matching via rule viagen21 is used for this via since there is no via rule specified. Use -useCustomVias option to create a custom via if the standard via created is not desirable.
+
+Elapsed Time: 1.0s
+
+defin translation completed (errors: 0, warnings: 2).

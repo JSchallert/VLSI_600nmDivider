@@ -1,0 +1,20 @@
+simVerilogNetlistFileList = '(
+    (("controller_JS" "aludec") 
+	("cds3/netlist" "cds3/map" "schematic")
+    ) 
+    (("controller_JS" "nand2_1x") 
+	("cds2/netlist" "cds2/map" "cmos_sch")
+    ) 
+    (("controller_JS" "inv_1x") 
+	("cds1/netlist" "cds1/map" "cmos_sch")
+    ) 
+    (("controller_JS" "nor2_1x") 
+	("cds0/netlist" "cds0/map" "cmos_sch")
+    )
+)
+simVerilogNetlistFileLibList = '("controller_JS")
+simVerilogNetlistFileCellList = '(("controller_JS" 
+	("nor2_1x" "inv_1x" "nand2_1x" "aludec")
+    )
+)
+hnlIncrementalDirectory = '"ihnl"

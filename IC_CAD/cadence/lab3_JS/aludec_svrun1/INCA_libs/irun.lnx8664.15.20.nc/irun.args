@@ -1,0 +1,21 @@
+//
+// File created by:  irun
+// Do not modify this file
+//
++delay_mode_path
++typdelays
+-l
+simout.tmp
+/hdd/home/jschallert/aludec_svrun1/testfixture.template
+-f
+/hdd/home/jschallert/aludec_svrun1/verilog.inpfiles
++nostdout
++nocopyright
+-vlog_ext
+.v,.V,.vp,.VP,.vs,.VS
+-sysv_ext
+.template,.sv,.SV,.svp,.SVP,.svi,.svh,.vlib,.VLIB
++svseed=random
++elaborate
+"+ncvlogargs+ -neverwarn -nostdout -nocopyright "
+"+ncelabargs+ -neg_tchk  -nonotifier  -sdf_NOCheck_celltype  -access +r  -pulse_e 100  -pulse_r 100  -neverwarn  -timescale 1ns/100ps -nostdout -nocopyright"

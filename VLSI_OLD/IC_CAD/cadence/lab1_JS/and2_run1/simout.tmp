@@ -1,0 +1,78 @@
+TOOL:	ncxlmode	15.20-s069: Started on Feb 11, 2019 at 02:41:52 PST
+ncxlmode
+	+delay_mode_path
+	+typdelays
+	-l
+	simout.tmp
+	-sv
+	/hdd/home/jschallert/IC_CAD/cadence/and2_run1/testfixture.template
+	-f /hdd/home/jschallert/IC_CAD/cadence/and2_run1/verilog.inpfiles
+		ihnl/cds0/netlist
+		ihnl/cds1/netlist
+		ihnl/cds2/netlist
+		hdlFilesDir/cds_globals.v
+	+nostdout
+	+nocopyright
+	+ncvlogargs+" -neverwarn -nostdout -nocopyright "
+	+ncelabargs+" -neg_tchk  -nonotifier  -sdf_NOCheck_celltype  -access +r  -pulse_e 100  -pulse_r 100  -neverwarn  -timescale 1ns/1ns -nostdout -nocopyright"
+	+ncsimargs+" -neverwarn  -nocopyright -nostdout -batch -exit "
+SOFTINCLUDE $SYSTEM_CDS_LIB_DIR/cds.lib
+|
+ncxlmode: *W,DLCVAR (/proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cds.lib,1): cds.lib Invalid environment variable ''.
+SOFTINCLUDE $SYSTEM_CDS_LIB_DIR/cds.lib
+|
+ncxlmode: *W,DLCVAR (/proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cds.lib,1): cds.lib Invalid environment variable ''.
+SOFTINCLUDE $SYSTEM_CDS_LIB_DIR/cds.lib
+|
+ncxlmode: *W,DLCVAR (/proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cds.lib,1): cds.lib Invalid environment variable ''.
+SOFTINCLUDE $SYSTEM_CDS_LIB_DIR/cds.lib
+|
+ncxlmode: *W,DLCVAR (/proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cds.lib,1): cds.lib Invalid environment variable ''.
+SOFTINCLUDE $SYSTEM_CDS_LIB_DIR/cds.lib
+|
+ncxlmode: *W,DLCVAR (/proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cds.lib,1): cds.lib Invalid environment variable ''.
+file: /hdd/home/jschallert/IC_CAD/cadence/and2_run1/testfixture.template
+	module worklib.test:template
+		errors: 0, warnings: 0
+file: ihnl/cds0/netlist
+	module worklib.inv:verilog
+		errors: 0, warnings: 2
+file: ihnl/cds1/netlist
+	module worklib.nand2:verilog
+		errors: 0, warnings: 4
+file: ihnl/cds2/netlist
+	module worklib.and2:verilog
+		errors: 0, warnings: 0
+file: hdlFilesDir/cds_globals.v
+	module worklib.cds_globals:v
+		errors: 0, warnings: 0
+	Total errors/warnings found outside modules and primitives:
+		errors: 0, warnings: 1
+SOFTINCLUDE $SYSTEM_CDS_LIB_DIR/cds.lib
+|
+ncxlmode: *W,DLCVAR (/proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cds.lib,1): cds.lib Invalid environment variable ''.
+SOFTINCLUDE $SYSTEM_CDS_LIB_DIR/cds.lib
+|
+ncxlmode: *W,DLCVAR (/proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cds.lib,1): cds.lib Invalid environment variable ''.
+		Caching library 'worklib' ....... Done
+	Elaborating the design hierarchy:
+	Building instance overlay tables: .................... Done
+	Generating native compiled code:
+		worklib.test:template <0x0b5a4d22>
+			streams:   1, words:   468
+	Building instance specific data structures.
+	Loading native compiled code:     .................... Done
+	Design hierarchy summary:
+		                   Instances  Unique
+		Modules:                   5       5
+		Primitives:                6       2
+		Registers:                 2       2
+		Scalar wires:              7       -
+		Initial blocks:            1       1
+		Simulation timescale:  100ps
+	Writing initial simulation snapshot: worklib.test:template
+Loading snapshot worklib.test:template .................... Done
+ncsim> source /cad/cds/INCISIV1520/tools/inca/files/ncsimrc
+ncsim> run
+ncsim> exit
+TOOL:	ncxlmode	15.20-s069: Exiting on Feb 11, 2019 at 02:41:53 PST  (total: 00:00:01)

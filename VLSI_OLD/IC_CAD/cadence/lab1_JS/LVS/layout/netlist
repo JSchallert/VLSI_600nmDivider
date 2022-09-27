@@ -1,0 +1,21 @@
+n 0 /7
+n 1 /6
+n 2 /5
+n 3 /4
+n 4 /3
+n 5 /2
+n 6 /1
+; pmos4 Instance /+5 = auLvs device Q0
+d pmos D G S B (p D S)
+i 0 pmos 3 4 6 6 " m 1 l 600e-9 w 2.7e-6 "
+; nmos4 Instance /+2 = auLvs device Q1
+d nmos D G S B (p D S)
+i 1 nmos 3 4 5 5 " m 1 l 600e-9 w 2.7e-6 "
+; nmos4 Instance /+1 = auLvs device Q2
+i 2 nmos 5 1 4 5 " m 1 l 600e-9 w 2.7e-6 "
+; nmos4 Instance /+0 = auLvs device Q3
+i 3 nmos 4 2 5 5 " m 1 l 600e-9 w 2.7e-6 "
+; pmos4 Instance /+4 = auLvs device Q4
+i 4 pmos 4 1 0 6 " m 1 l 600e-9 w 4.8e-6 "
+; pmos4 Instance /+3 = auLvs device Q5
+i 5 pmos 0 2 6 6 " m 1 l 600e-9 w 4.8e-6 "

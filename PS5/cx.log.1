@@ -1,0 +1,48 @@
+#Copyright (c) 1988-2016 Synopsys, Inc.
+##                                        
+#                            Custom WaveView ADV (R)
+#                                        
+#                  Version L-2016.06 for RHEL64 - May 19, 2016 
+#                                        
+#                    Copyright (c) 1988 - 2016 Synopsys, Inc.
+#   This software and the associated documentation are proprietary to Synopsys,
+# Inc. This software may only be used in accordance with the terms and conditions
+# of a written license agreement with Synopsys, Inc. All other use, reproduction,
+#            or distribution of this software is strictly prohibited.
+#
+#Launched at Mar 09 2020 02:57:39 (PID:55214)
+#
+cx_load_preference /cad/synopsys/CX/etc/.cxrc
+cx_select_window {Console} 
+cx_select_menu_item {Console} {} {File.Open Waveform File...} 
+cx_select_dialog {Console.Invoking WaveView} 
+#WaveView opened.
+wv_move_window WaveView 190 213
+wv_select_dialog FileDialog
+wv_set_text FileDialog.FileName {}
+wv_select_list_item FileDialog.FileList fo4-2.st0
+wv_select_list_item FileDialog.FileList fo4-2.sw0
+wv_press_button FileDialog.Ok
+wv_expand_tree_item MainWindow.hierview {D0:fo4-2.sw0}
+wv_select_tree_item MainWindow.hierview {D0:fo4-2.sw0}
+wv_select_tree_item MainWindow.hierview {D0:fo4-2.sw0/toplevel}
+wv_select_list_item MainWindow.sigview v(a)
+wv_drag_list_item MainWindow.sigview v(a)
+wv_drag_enter WV1
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(b)
+wv_drag_list_item MainWindow.sigview v(b)
+wv_drag_enter WV1
+wv_drag_to WV1 77 361
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(c)
+wv_drag_list_item MainWindow.sigview v(c)
+wv_drag_enter WV1
+wv_drag_to WV1 226 321
+wv_drop_on WV1
+wv_move_window WaveView 55 140
+wv_close_window WaveView
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+cx_select_window {Console} 
+#WaveView closed.

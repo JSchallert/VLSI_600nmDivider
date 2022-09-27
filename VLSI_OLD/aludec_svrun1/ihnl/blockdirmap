@@ -1,0 +1,6 @@
+CADENCE IHNL11144
+
+controller_JS nor2_1x cmos_sch nil physConfig_schematic_symbol controller_JS nor2_1x physConfig 1 cds0
+controller_JS inv_1x cmos_sch nil physConfig_schematic_symbol controller_JS inv_1x physConfig 1 cds1
+controller_JS nand2_1x cmos_sch nil physConfig_schematic_symbol controller_JS nand2_1x physConfig 1 cds2
+controller_JS aludec schematic nil physConfig_schematic_symbol controller_JS aludec physConfig 1 cds3

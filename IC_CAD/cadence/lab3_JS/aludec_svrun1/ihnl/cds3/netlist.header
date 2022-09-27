@@ -1,0 +1,26 @@
+// Library - controller_JS, Cell - aludec, View - schematic
+// LAST TIME SAVED: Mar  4 02:22:00 2019
+// NETLIST TIME: Mar  4 02:31:59 2019
+`timescale 1ns / 100ps 
+
+module aludec ( 
+output [2:0] alucontrol, 
+input [1:0] aluop, 
+input [5:0] funct );
+
+wire net13 ;
+wire net22 ;
+wire net24 ;
+wire net20 ;
+wire net23 ;
+wire net25 ;
+wire net21 ;
+wire net19 ;
+
+
+specify 
+    specparam CDS_LIBNAME  = "controller_JS";
+    specparam CDS_CELLNAME = "aludec";
+    specparam CDS_VIEWNAME = "schematic";
+endspecify
+

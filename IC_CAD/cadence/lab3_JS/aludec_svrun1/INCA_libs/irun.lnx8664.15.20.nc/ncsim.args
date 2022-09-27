@@ -1,0 +1,44 @@
+//
+// File created by:  irun
+// Do not modify this file
+//
++delay_mode_path
++typdelays
++nostdout
++nocopyright
++svseed=random
+"+ncvlogargs+ -neverwarn -nostdout -nocopyright "
+"+ncelabargs+ -neg_tchk  -nonotifier  -sdf_NOCheck_celltype  -access +r  -pulse_e 100  -pulse_r 100  -neverwarn  -timescale 1ns/100ps -nostdout -nocopyright"
+"+ncsimargs+ -neverwarn  -nocopyright -gui -input /hdd/home/jschallert/aludec_svrun1/.simTmpNCCmd "
++mpssession+virtuoso43715
++mpshost+tera.eng.hmc.edu
+-NOSTDOUT
+-NOCOPYRIGHT
+-SVSEED
+random
+-neverwarn
+-nocopyright
+-gui
+-input
+/hdd/home/jschallert/aludec_svrun1/.simTmpNCCmd
+-MPSSESSION
+virtuoso43715
+-MPSHOST
+tera.eng.hmc.edu
+-MESSAGES
++EMGRLOG
+simout.tmp
+-XLSTIME
+1551695528
+-XLKEEP
+-XLMODE
+./INCA_libs/irun.lnx8664.15.20.nc
+-RUNMODE
+-CDSLIB
+./INCA_libs/irun.lnx8664.15.20.nc/cds.lib
+-HDLVAR
+./INCA_libs/irun.lnx8664.15.20.nc/hdl.var
+-XLNAME
+irun
+-XLVERSION
+"TOOL:	irun(64)	15.20-s069"

@@ -1,0 +1,37 @@
+( ( nil
+  version "2.1"
+  mapType "incremental"
+  blockName "aludec"
+  repList "behavioral functional schematic cmos_sch"
+  stopList "behavioral functional"
+  globalList "vdd! gnd!"
+  hierDelim "."
+  hierPrefix "test.top"
+  globalHierPrefix "cds_globals."
+  netlistDir "/hdd/home/jschallert/aludec_svrun1"
+  busRef   "ORDERED"
+  netType   "BUS"
+  leftStr  "["
+  rangeStr  ":"
+  rightStr  "]"
+ )
+( defbus
+( "funct" 5 0  "funct" 5 0  )
+( "aluop" 1 0  "aluop" 1 0  )
+( "alucontrol" 2 0  "alucontrol" 2 0  )
+ )
+( net
+( "vdd!" "cds_globals.vdd_" )
+( "gnd!" "cds_globals.gnd_" )
+ )
+( model
+( "controller_JS/nand2_1x/cmos_sch" "nand2_1x" )
+( "controller_JS/inv_1x/cmos_sch" "inv_1x" )
+( "controller_JS/aludec/schematic" "aludec" )
+( "controller_JS/nor2_1x/cmos_sch" "nor2_1x" )
+ )
+( "nor2_1x" "ihnl/cds0/map" )
+( "inv_1x" "ihnl/cds1/map" )
+( "nand2_1x" "ihnl/cds2/map" )
+( "aludec" "ihnl/cds3/map" )
+ )

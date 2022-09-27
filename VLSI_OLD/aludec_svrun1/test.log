@@ -1,0 +1,320 @@
+03/04/2019 02:32:08 (811486 ncsim): Initialization started (12.04-s017)...
+03/04/2019 02:32:08 (811486): FLEXnet version 11.11.1.1 build 119913
+03/04/2019 02:32:08 (811486): Process ID 75308
+03/04/2019 02:32:08 (811486): Creating a new job ...
+03/04/2019 02:32:08 (811486): Validating server path: 5280@134.173.38.214:2222@theforce.eng.hmc.edu
+03/04/2019 02:32:08 (811486): Server path validation status: 0
+03/04/2019 02:32:08 (811486):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:32:08 (811486):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:32:08 (811486):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:32:08 (811486):   Configuration of sleep time value of 0.
+03/04/2019 02:32:08 (811486):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:32:08 (811486): Storage of server list started...
+03/04/2019 02:32:08 (811486): Server list saved with status 0 (time 0).
+03/04/2019 02:32:08 (811486):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:32:08 (811486):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:32:08 (811486):   Using license server 134.173.38.214.
+03/04/2019 02:32:08 (811486): Job creation completed with status 0 (time 0).
+03/04/2019 02:32:08 (811486): Creating a new job ...
+03/04/2019 02:32:08 (811486):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:32:08 (811486):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:32:08 (811486):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:32:08 (811486):   Configuration of sleep time value of 0.
+03/04/2019 02:32:08 (811486):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:32:08 (811486): Storage of server list started...
+03/04/2019 02:32:08 (811486): Server list saved with status 0 (time 0).
+03/04/2019 02:32:08 (811486):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:32:08 (811486):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:32:08 (811486):   Using license server 134.173.38.214.
+03/04/2019 02:32:08 (811486): Job creation completed with status 0 (time 0).
+03/04/2019 02:32:08 (811486): Creating a new job ...
+03/04/2019 02:32:08 (811486):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:32:08 (811486):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:32:08 (811486):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:32:08 (811486):   Configuration of sleep time value of 0.
+03/04/2019 02:32:08 (811486):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:32:08 (811486): Storage of server list started...
+03/04/2019 02:32:08 (811486): Server list saved with status 0 (time 0).
+03/04/2019 02:32:08 (811486):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:32:08 (811486):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:32:08 (811486):   Using license server 134.173.38.214.
+03/04/2019 02:32:08 (811486): Job creation completed with status 0 (time 0).
+03/04/2019 02:32:08 (811486): Creating a new job ...
+03/04/2019 02:32:08 (811486):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:32:08 (811486):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:32:08 (811486):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:32:08 (811486):   Configuration of sleep time value of 0.
+03/04/2019 02:32:08 (811486):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:32:08 (811486): Storage of server list started...
+03/04/2019 02:32:08 (811486): Server list saved with status 0 (time 0).
+03/04/2019 02:32:08 (811486):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:32:08 (811486):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:32:08 (811486):   Using license server 134.173.38.214.
+03/04/2019 02:32:08 (811486): Job creation completed with status 0 (time 0).
+03/04/2019 02:32:08 (811486): Creating a new job ...
+03/04/2019 02:32:08 (811486):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:32:08 (811486):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:32:08 (811486):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:32:08 (811486):   Configuration of sleep time value of 0.
+03/04/2019 02:32:08 (811486):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:32:08 (811486): Storage of server list started...
+03/04/2019 02:32:08 (811486): Server list saved with status 0 (time 0).
+03/04/2019 02:32:08 (811486):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:32:08 (811486):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:32:08 (811486):   Using license server 134.173.38.214.
+03/04/2019 02:32:08 (811486): Job creation completed with status 0 (time 0).
+03/04/2019 02:32:08 (811486): Initialization completed with status 0 (time 0).
+03/04/2019 02:32:08 (811486): Check-out started ....
+03/04/2019 02:32:08 (811486): Checking out 1 license(s) for Incisive_HDL_Simulator 15.200...
+03/04/2019 02:32:09 (811486): Storage of server list started...
+03/04/2019 02:32:09 (811486): Server list saved with status 0 (time 0).
+03/04/2019 02:32:09 (811486): Creating a new job ...
+03/04/2019 02:32:09 (811486): Validating server path: 5280@134.173.38.214:2222@theforce.eng.hmc.edu
+03/04/2019 02:32:09 (811486): Server path validation status: 0
+03/04/2019 02:32:09 (811486):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:32:09 (811486):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:32:09 (811486):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:32:09 (811486):   Configuration of sleep time value of 0.
+03/04/2019 02:32:09 (811486):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:32:09 (811486): Storage of server list started...
+03/04/2019 02:32:09 (811486): Server list saved with status 0 (time 0).
+03/04/2019 02:32:09 (811486):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:32:09 (811486):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:32:09 (811486):   Using license server 134.173.38.214.
+03/04/2019 02:32:09 (811486): Job creation completed with status 0 (time 0).
+03/04/2019 02:32:09 (811486): Check-out completed with status -5 (time 1).
+03/04/2019 02:32:09 (811486): Check-out started ....
+03/04/2019 02:32:09 (811486): Checking out 1 license(s) for Xcelium_Limited_Single_Core 16.000...
+03/04/2019 02:32:09 (811486): Storage of server list started...
+03/04/2019 02:32:09 (811486): Server list saved with status 0 (time 0).
+03/04/2019 02:32:09 (811486): Creating a new job ...
+03/04/2019 02:32:09 (811486): Validating server path: 5280@134.173.38.214:2222@theforce.eng.hmc.edu
+03/04/2019 02:32:09 (811486): Server path validation status: 0
+03/04/2019 02:32:09 (811486):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:32:09 (811486):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:32:09 (811486):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:32:09 (811486):   Configuration of sleep time value of 0.
+03/04/2019 02:32:09 (811486):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:32:09 (811486): Storage of server list started...
+03/04/2019 02:32:09 (811486): Server list saved with status 0 (time 0).
+03/04/2019 02:32:09 (811486):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:32:09 (811486):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:32:09 (811486):   Using license server 134.173.38.214.
+03/04/2019 02:32:09 (811486): Job creation completed with status 0 (time 0).
+03/04/2019 02:32:09 (811486): Check-out completed with status -5 (time 0).
+03/04/2019 02:32:09 (811486): Check-out (Increment) started ....
+03/04/2019 02:32:09 (811486): Checking out 1 license(s) for Incisive_Enterprise_Simulator 15.200...
+03/04/2019 02:32:09 (811486): Storage of server list started...
+03/04/2019 02:32:09 (811486): Server list saved with status 0 (time 0).
+03/04/2019 02:32:09 (811486):   (Checked out from file '5280@134.173.38.214',
+             line '15.2 15-dec-2019 20 5E6DA6C5A305175E70A7 ')
+03/04/2019 02:32:09 (811486): Check-out (Increment) completed with status 0 (time 0).
+03/04/2019 02:32:10 (911635 simvision.exe): Initialization started (12.04-s017)...
+03/04/2019 02:32:10 (911635): FLEXnet version 11.11.1.1 build 119913
+03/04/2019 02:32:10 (911635): Process ID 75316
+03/04/2019 02:32:10 (911635): Creating a new job ...
+03/04/2019 02:32:10 (911635): Validating server path: 5280@134.173.38.214:2222@theforce.eng.hmc.edu
+03/04/2019 02:32:10 (911635): Server path validation status: 0
+03/04/2019 02:32:10 (911635):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:32:10 (911635):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:32:10 (911635):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:32:10 (911635):   Configuration of sleep time value of 0.
+03/04/2019 02:32:10 (911635):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:32:10 (911635): Storage of server list started...
+03/04/2019 02:32:10 (911635): Server list saved with status 0 (time 0).
+03/04/2019 02:32:10 (911635):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:32:10 (911635):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:32:10 (911635):   Using license server 134.173.38.214.
+03/04/2019 02:32:10 (911635): Job creation completed with status 0 (time 0).
+03/04/2019 02:32:10 (911635): Creating a new job ...
+03/04/2019 02:32:10 (911635):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:32:10 (911635):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:32:10 (911635):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:32:10 (911635):   Configuration of sleep time value of 0.
+03/04/2019 02:32:10 (911635):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:32:10 (911635): Storage of server list started...
+03/04/2019 02:32:10 (911635): Server list saved with status 0 (time 0).
+03/04/2019 02:32:10 (911635):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:32:10 (911635):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:32:10 (911635):   Using license server 134.173.38.214.
+03/04/2019 02:32:10 (911635): Job creation completed with status 0 (time 0).
+03/04/2019 02:32:10 (911635): Creating a new job ...
+03/04/2019 02:32:10 (911635):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:32:10 (911635):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:32:10 (911635):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:32:10 (911635):   Configuration of sleep time value of 0.
+03/04/2019 02:32:10 (911635):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:32:10 (911635): Storage of server list started...
+03/04/2019 02:32:10 (911635): Server list saved with status 0 (time 0).
+03/04/2019 02:32:10 (911635):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:32:10 (911635):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:32:10 (911635):   Using license server 134.173.38.214.
+03/04/2019 02:32:10 (911635): Job creation completed with status 0 (time 0).
+03/04/2019 02:32:10 (911635): Creating a new job ...
+03/04/2019 02:32:10 (911635):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:32:10 (911635):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:32:10 (911635):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:32:10 (911635):   Configuration of sleep time value of 0.
+03/04/2019 02:32:10 (911635):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:32:10 (911635): Storage of server list started...
+03/04/2019 02:32:10 (911635): Server list saved with status 0 (time 0).
+03/04/2019 02:32:10 (911635):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:32:10 (911635):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:32:10 (911635):   Using license server 134.173.38.214.
+03/04/2019 02:32:10 (911635): Job creation completed with status 0 (time 0).
+03/04/2019 02:32:10 (911635): Creating a new job ...
+03/04/2019 02:32:10 (911635):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:32:10 (911635):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:32:10 (911635):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:32:10 (911635):   Configuration of sleep time value of 0.
+03/04/2019 02:32:10 (911635):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:32:10 (911635): Storage of server list started...
+03/04/2019 02:32:10 (911635): Server list saved with status 0 (time 0).
+03/04/2019 02:32:10 (911635):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:32:10 (911635):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:32:10 (911635):   Using license server 134.173.38.214.
+03/04/2019 02:32:10 (911635): Job creation completed with status 0 (time 0).
+03/04/2019 02:32:10 (911635): Initialization completed with status 0 (time 0).
+03/04/2019 02:32:10 (911635): Check-out started ....
+03/04/2019 02:32:10 (911635): Checking out 1 license(s) for Affirma_sim_analysis_env 15.200...
+03/04/2019 02:32:11 (911635): Storage of server list started...
+03/04/2019 02:32:11 (911635): Server list saved with status 0 (time 0).
+03/04/2019 02:32:11 (911635):   (Checked out from file '5280@134.173.38.214',
+             line '15.2 15-dec-2019 60 1E0D46F53A5E2F75D1D2 ')
+03/04/2019 02:32:11 (911635): Check-out completed with status 0 (time 1).
+03/04/2019 02:32:15 (911635): FeatureStatus started ....
+03/04/2019 02:32:15 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:15 (911635): FeatureStatus started ....
+03/04/2019 02:32:15 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:15 (911635): FeatureStatus started ....
+03/04/2019 02:32:15 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:15 (911635): FeatureStatus started ....
+03/04/2019 02:32:15 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:15 (911635): FeatureStatus started ....
+03/04/2019 02:32:15 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:15 (911635): FeatureStatus started ....
+03/04/2019 02:32:15 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:16 (911635): FeatureStatus started ....
+03/04/2019 02:32:16 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:17 (911635): FeatureStatus started ....
+03/04/2019 02:32:17 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:17 (911635): FeatureStatus started ....
+03/04/2019 02:32:17 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:20 (911635): FeatureStatus started ....
+03/04/2019 02:32:20 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:20 (911635): FeatureStatus started ....
+03/04/2019 02:32:20 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:20 (911635): FeatureStatus started ....
+03/04/2019 02:32:20 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:20 (911635): FeatureStatus started ....
+03/04/2019 02:32:20 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:20 (911635): FeatureStatus started ....
+03/04/2019 02:32:20 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:20 (911635): FeatureStatus started ....
+03/04/2019 02:32:20 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:21 (811486): Recheck started ....
+03/04/2019 02:32:21 (811486):   Checking feature Incisive_Enterprise_Simulator
+03/04/2019 02:32:21 (811486):   Time spent in server Recheck was 0.
+03/04/2019 02:32:21 (811486): Re-check completed with status 0 (time 0).
+03/04/2019 02:32:21 (811486): Recheck started ....
+03/04/2019 02:32:21 (811486):   Actual recheck skipped due to recheck interval...
+03/04/2019 02:32:21 (811486): Re-check completed with status 0 (time 0).
+03/04/2019 02:32:21 (811486): Recheck started ....
+03/04/2019 02:32:21 (811486):   Actual recheck skipped due to recheck interval...
+03/04/2019 02:32:21 (811486): Re-check completed with status 0 (time 0).
+03/04/2019 02:32:21 (811486): Recheck started ....
+03/04/2019 02:32:21 (811486):   Actual recheck skipped due to recheck interval...
+03/04/2019 02:32:21 (811486): Re-check completed with status 0 (time 0).
+03/04/2019 02:32:22 (911635): FeatureStatus started ....
+03/04/2019 02:32:22 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:22 (911635): FeatureStatus started ....
+03/04/2019 02:32:22 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:22 (911635): FeatureStatus started ....
+03/04/2019 02:32:22 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:22 (911635): FeatureStatus started ....
+03/04/2019 02:32:22 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:26 (911635): FeatureStatus started ....
+03/04/2019 02:32:26 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:26 (911635): FeatureStatus started ....
+03/04/2019 02:32:26 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:26 (911635): FeatureStatus started ....
+03/04/2019 02:32:26 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:26 (911635): FeatureStatus started ....
+03/04/2019 02:32:26 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:26 (911635): FeatureStatus started ....
+03/04/2019 02:32:26 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:26 (911635): FeatureStatus started ....
+03/04/2019 02:32:26 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:32:30 (911635): FeatureStatus started ....
+03/04/2019 02:32:30 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:34:25 (811486): Recheck started ....
+03/04/2019 02:34:25 (811486):   Actual recheck skipped due to recheck interval...
+03/04/2019 02:34:25 (811486): Re-check completed with status 0 (time 0).
+03/04/2019 02:34:25 (811486): Check-in started ....
+03/04/2019 02:34:25 (811486): Creating a new job ...
+03/04/2019 02:34:25 (811486): Validating server path: 5280@134.173.38.214:2222@theforce.eng.hmc.edu
+03/04/2019 02:34:25 (811486): Server path validation status: 0
+03/04/2019 02:34:25 (811486):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:34:25 (811486):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:34:25 (811486):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:34:25 (811486):   Configuration of sleep time value of 0.
+03/04/2019 02:34:25 (811486):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:34:25 (811486): Storage of server list started...
+03/04/2019 02:34:25 (811486): Server list saved with status 0 (time 0).
+03/04/2019 02:34:25 (811486):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:34:25 (811486):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:34:25 (811486):   Using license server 134.173.38.214.
+03/04/2019 02:34:25 (811486): Job creation completed with status 0 (time 0).
+03/04/2019 02:34:25 (811486): Check-in of Incisive_Enterprise_Simulator completed with status 0 (time 0).
+03/04/2019 02:34:25 (911635): Check-in started ....
+03/04/2019 02:34:25 (911635): Creating a new job ...
+03/04/2019 02:34:25 (911635): Validating server path: 5280@134.173.38.214:2222@theforce.eng.hmc.edu
+03/04/2019 02:34:25 (911635): Server path validation status: 0
+03/04/2019 02:34:25 (911635):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:34:25 (911635):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:34:25 (911635):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:34:25 (911635):   Configuration of sleep time value of 0.
+03/04/2019 02:34:25 (911635):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:34:25 (911635): Storage of server list started...
+03/04/2019 02:34:25 (911635): Server list saved with status 0 (time 0).
+03/04/2019 02:34:25 (911635):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:34:25 (911635):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:34:25 (911635):   Using license server 134.173.38.214.
+03/04/2019 02:34:25 (911635): Job creation completed with status 0 (time 0).
+03/04/2019 02:34:25 (911635): Check-in of Affirma_sim_analysis_env completed with status 0 (time 0).
+03/04/2019 02:34:25 (911635): FeatureStatus started ....
+03/04/2019 02:34:25 (911635): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+03/04/2019 02:34:25 (911635): Exit started ....
+03/04/2019 02:34:25 (911635): Creating a new job ...
+03/04/2019 02:34:25 (911635): Validating server path: 5280@134.173.38.214:2222@theforce.eng.hmc.edu
+03/04/2019 02:34:25 (911635): Server path validation status: 0
+03/04/2019 02:34:25 (911635):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:34:25 (911635):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:34:25 (911635):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:34:25 (911635):   Configuration of sleep time value of 0.
+03/04/2019 02:34:25 (911635):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:34:25 (911635): Storage of server list started...
+03/04/2019 02:34:25 (911635): Server list saved with status 0 (time 0).
+03/04/2019 02:34:25 (911635):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:34:25 (911635):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:34:25 (911635):   Using license server 134.173.38.214.
+03/04/2019 02:34:25 (911635): Job creation completed with status 0 (time 0).
+03/04/2019 02:34:25 (911635): Exit completed with status 0 (time 0).
+03/04/2019 02:34:25 (811486): Check-in started ....
+03/04/2019 02:34:25 (811486): Check-in of Incisive_Enterprise_Simulator completed with status 0 (time 0).
+03/04/2019 02:34:25 (811486): Exit started ....
+03/04/2019 02:34:25 (811486): Creating a new job ...
+03/04/2019 02:34:25 (811486): Validating server path: 5280@134.173.38.214:2222@theforce.eng.hmc.edu
+03/04/2019 02:34:25 (811486): Server path validation status: 0
+03/04/2019 02:34:25 (811486):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/04/2019 02:34:25 (811486):   Configuration of recheck interval minimum is 290.
+03/04/2019 02:34:25 (811486):   Configuration of 2000000000 maximum retry calls.
+03/04/2019 02:34:25 (811486):   Configuration of sleep time value of 0.
+03/04/2019 02:34:25 (811486):   Configuration of display specification is 'localhost:16.0'.
+03/04/2019 02:34:25 (811486): Storage of server list started...
+03/04/2019 02:34:25 (811486): Server list saved with status 0 (time 0).
+03/04/2019 02:34:25 (811486):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/04/2019 02:34:25 (811486):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/04/2019 02:34:25 (811486):   Using license server 134.173.38.214.
+03/04/2019 02:34:25 (811486): Job creation completed with status 0 (time 0).
+03/04/2019 02:34:25 (811486): Exit completed with status 0 (time 0).

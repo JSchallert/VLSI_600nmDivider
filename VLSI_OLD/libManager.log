@@ -1,0 +1,25 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 09/24/2018 21:00 (ip-172-18-22-224) $
+\o Sub version:		sub-version  p015 
+\o Arguments:		-mpssession virtuoso16379 -mpshost Tera.Eng.HMC.Edu 
+\o Working Directory:	Tera.Eng.HMC.Edu:/home/jschallert
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o Log file is "/home/jschallert/libManager.log".
+\o Opening libManager window.
+\a nrResizeWindow(cdsLibManager list(315 190 602 491))
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(323 221 602 491))
+\o changeWorkingDir("/home/jschallert") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\o Loading customization file "./cdsLibMgr.il"
+\o Loading NCSU Library Manager customizations...done.
+\o Library Manager customization server connected.
+\w Warning: The directory: '/hdd/home/jschallert/controller_JS' does not exist
+\w 	but was defined in libFile '/home/jschallert/cds.lib' for Lib 'controller_JS'.
+\a nrResizeWindow(cdsLibManager list(454 289 602 491))
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\o MPS service: shutdown
+\o libManager is exiting.
+\a exit(0)

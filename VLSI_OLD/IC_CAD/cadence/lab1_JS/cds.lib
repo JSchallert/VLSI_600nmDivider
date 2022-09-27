@@ -1,0 +1,6 @@
+INCLUDE /proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cds.lib
+#DEFINE muddlib10 /courses/e158/15/lib/muddlib10
+#DEFINE wordlib8 /courses/e158/15/lib/wordlib8
+#DEFINE mips8 /courses/e158/15/lib/mips8
+DEFINE HMC_Sheets_8ths /courses/e158/15/lib/oa/HMC_Sheets_8ths
+DEFINE lab1_JS /hdd/home/jschallert/IC_CAD/cadence/lab1_JS

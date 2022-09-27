@@ -1,0 +1,47 @@
+#Copyright (c) 1988-2016 Synopsys, Inc.
+##                                        
+#                            Custom WaveView ADV (R)
+#                                        
+#                  Version L-2016.06 for RHEL64 - May 19, 2016 
+#                                        
+#                    Copyright (c) 1988 - 2016 Synopsys, Inc.
+#   This software and the associated documentation are proprietary to Synopsys,
+# Inc. This software may only be used in accordance with the terms and conditions
+# of a written license agreement with Synopsys, Inc. All other use, reproduction,
+#            or distribution of this software is strictly prohibited.
+#
+#Launched at Mar 09 2020 02:45:31 (PID:54174)
+#
+cx_load_preference /cad/synopsys/CX/etc/.cxrc
+cx_select_window {Console} 
+cx_select_menu_item {Console} {} {File.Open Waveform File...} 
+cx_select_dialog {Console.Invoking WaveView} 
+#WaveView opened.
+wv_move_window WaveView 86 109
+wv_select_dialog FileDialog
+wv_set_text FileDialog.FileName {}
+wv_select_list_item FileDialog.FileList fo4-2.sw0
+wv_dclick_list_item FileDialog.FileList fo4-2.sw0
+wv_expand_tree_item MainWindow.hierview {D0:fo4-2.sw0}
+wv_select_tree_item MainWindow.hierview {D0:fo4-2.sw0}
+wv_select_tree_item MainWindow.hierview {D0:fo4-2.sw0/toplevel}
+wv_select_list_item MainWindow.sigview v(0)
+wv_dclick_list_item MainWindow.sigview v(0)
+wv_select_list_item MainWindow.sigview v(a)
+wv_dclick_list_item MainWindow.sigview v(a)
+wv_select_list_item MainWindow.sigview v(c)
+wv_dclick_list_item MainWindow.sigview v(c)
+wv_select_list_item MainWindow.sigview v(c)
+wv_dclick_list_item MainWindow.sigview v(c)
+wv_select_list_item MainWindow.sigview v(d)
+wv_dclick_list_item MainWindow.sigview v(d)
+wv_select_list_item MainWindow.sigview v(e)
+wv_dclick_list_item MainWindow.sigview v(e)
+wv_close_window WaveView
+wv_select_dialog Confirmation
+cx_select_window {Console} 
+wv_press_button Confirmation.Ok
+#WaveView closed.
+cx_select_dialog {Console.Confirmation} 
+#cx_press_button {Console.Confirmation} {} {Confirmation.OK} 
+#Custom WaveView ADV closed.

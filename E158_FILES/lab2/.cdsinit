@@ -1,0 +1,169 @@
+;;                        -*-Lisp-*-
+;;
+;; NCSU CDK Copyright (C) 2006 North Carolina State University
+;; Modified a little by Erik Brunvand, 2007
+;;
+
+(let 
+    ((LOCAL_CDK_DIR (getShellEnvVar "CDK_DIR")))
+  (if LOCAL_CDK_DIR
+      (if (not (boundp 'NCSU_CDK_LOADED))
+	  (let ()   ; CDK needs to be loaded, so load it.
+
+	    (setq NCSU_CDK_DIR LOCAL_CDK_DIR)
+	    (procedure (prependNCSUCDKInstallPath dir)
+		       (strcat NCSU_CDK_DIR "/" dir))
+	    
+	    (printf "Loading NCSU CDK 1.5.0 customizations...\n")
+	    (setq NCSU_newLayoutMenuLabels t)
+
+	    (putpropq (hiGetCIWindow) 96 "maxLayerPoolSize")
+	    (envSetVal "graphic" "drfPath" 'string
+		       (strcat NCSU_CDK_DIR "/cdssetup/display.drf"))
+	    
+;; NCSU CDK1.5 cdsenv file 
+	    (if (isFile (prependNCSUCDKInstallPath "cdssetup/cdsenv"))
+		(envLoadVals 
+		 ?envFile (prependNCSUCDKInstallPath "cdssetup/cdsenv")
+		 ?tool "ALL"))
+
+;##########################################################################
+;;; Added code to load the cdsenv in the class directory, if it exists
+;;; Erik Brunvand
+;##########################################################################
+	    ;; LOCAL_CADSETUP .cdsenv file
+	    let( (localSetup)
+	      printf("checking for LOCAL_CADSETUP cdsenv\n")
+	      if( (localSetup = getShellEnvVar("LOCAL_CADSETUP")) != nil then
+	         (if !boundp( 'localSetupEnvAlreadyLoaded ) &&
+	                (getShellEnvVar("PWD") != localSetup) && 
+	                isFile( strcat( localSetup "/cadence/.cdsenv" ) ) then
+ 	              localSetupEnvAlreadyLoaded = t
+		      printf("Loading %s/cadence/.cdsenv env file.\n" localSetup)
+		      (envLoadVals 
+		       ?envFile strcat( localSetup "/cadence/.cdsenv" )
+		       ?tool "ALL" )
+		  ) ; if boundp
+		); if localSetup
+             ); let localSetup
+
+	    
+;; User $HOME .cdsenv file
+	    (if (isFile "~/.cdsenv")
+		(envLoadVals 
+		 ?envFile "~/.cdsenv"
+		 ?tool "ALL"))
+
+	    (let
+		((configFileList (list  ; "aaConfig.il" 
+					; "dmConfig.il" 
+					; "dciConfig.il"
+					; "metConfig.il"
+					; "sysConfig.il" 
+					; "uiConfig.il" 
+					; "leConfig.il" 
+				  "schConfig.il"
+				  "streamIn.il"                   
+				  ))
+		 (path (strcat ". ~ "
+			       (prependNCSUCDKInstallPath "skill/config_files")))
+		 (saveSkillPath (getSkillPath))
+		 file )
+	      (setSkillPath path)
+	      (foreach file configFileList
+		       (if (isFile file)
+			   (loadi file)))
+	      (setSkillPath saveSkillPath))
+
+	    (let
+		((bindKeyFileList (list   
+				   "common_bindkeys.il"                
+				   ))
+		 (path (strcat ". ~ "
+			       (prependNCSUCDKInstallPath "cdssetup")))
+		 (saveSkillPath (getSkillPath))
+		 file )
+	      (setSkillPath path)
+	      ;(printf "path=%s, bindKeyFileList = %L\n" path bindKeyFileList)
+	      (foreach file bindKeyFileList
+		       (if (isFile file)
+			   (loadi file)))
+	      (setSkillPath saveSkillPath))
+	    
+	    (sstatus writeProtect nil)
+	    
+	    (let ((skillPathElements
+		   (list "." "~"
+			 (prependNCSUCDKInstallPath "skill")
+			 (prependNCSUCDKInstallPath "skill/cdf")
+			 (prependNCSUCDKInstallPath "skill/menus")
+			 (prependNCSUCDKInstallPath "skill/menus/artist")
+			 (prependNCSUCDKInstallPath "skill/menus/ciw")
+			 (prependNCSUCDKInstallPath "skill/menus/virtuoso")
+			 (prependNCSUCDKInstallPath "skill/misc")
+			 (prependNCSUCDKInstallPath "skill/pcells")
+			 (prependNCSUCDKInstallPath "techfile")))
+		  sPE)
+
+	      (foreach sPE skillPathElements
+		       (setSkillPath (cons sPE (getSkillPath)))))
+	    
+	    (if (isCallable 'awvSetOptionValue)
+		(let ()
+		  (awvSetOptionValue  "hcDisplay" "psb" )
+		  (awvSetOptionValue  "hcTmpDir"  "/tmp" )))
+	    
+	    (if  (not (boundp 'NCSU_skillAlreadyLoaded))
+		(let ()
+		  (setq NCSU_skillAlreadyLoaded t)
+		  (printf "Loading NCSU SKILL routines...\n")
+		  (load (prependNCSUCDKInstallPath "skill/loadSkill.il"))))
+	    	    
+;; New stuff for CDK1.5 - check it out.... 
+	    (asiSetEnvOptionVal  
+	     (asiGetTool 'spectreS) 
+	     'modelPath (strcat NCSU_CDK_DIR "/models/spectre/nom/"))
+	    (asiSetEnvOptionVal  
+	     (asiGetTool 'hspiceS) 
+	     'modelPath (strcat NCSU_CDK_DIR "/models/hspice/public/"))
+	    (envSetVal "graphic" "drfPath"  'string
+		       (strcat NCSU_CDK_DIR "/cdssetup/display.drf"))
+
+;##########################################################################
+;# Defaults for plot dialog boxes (Erik Brunvand)
+;##########################################################################
+	    (setq lePlotTemplate (prependNCSUCDKInstallPath "cdssetup/layoutPlotTemplate"))
+	    (setq schPlotTemplate (prependNCSUCDKInstallPath "cdssetup/schPlotTemplate" ))
+
+;##########################################################################
+;# Load the local LOCAL_CADSETUP .cdsinit file if it exists
+;# Erik Brunvand
+;##########################################################################
+	    let( (localSetup)
+	      printf("checking for LOCAL_CADSETUP cdsinit\n")
+	      if( (localSetup = getShellEnvVar("LOCAL_CADSETUP")) != nil then
+	         (if !boundp( 'localSetupInitAlreadyLoaded ) &&
+	                (getShellEnvVar("PWD") != localSetup) && 
+	                isFile( strcat( localSetup "/cadence/.cdsinit" ) ) then
+ 	              localSetupInitAlreadyLoaded = t
+		      printf("Loading %s/cadence/.cdsinit init file.\n" localSetup)
+		      loadi(strcat( localSetup "/cadence/.cdsinit" ) )
+		  ) ; if boundp
+		); if localSetup
+             ); let localSetup
+
+;##########################################################################
+;# Open the Library Manager, position is set by .Xdefaults file
+;##########################################################################
+	    (unless (getShellEnvVar "SKIP_CDSLIB_MANAGER")
+	      (ddsOpenLibManager))
+;; Old Message
+;;;;;;;;    (printf "Done loading NCSU_CDK customizations.\n")
+	    )
+	(printf "NCSU CDK already loaded.\n")
+	)
+;; you get to this "let" if NCSU_CDK_DIR is nil
+    (let ()
+      (printf "Environment variable CDK_DIR must be defined to use\n")
+      (printf "the NCSU CDK.  It is not defined in the calling environment\n")
+      (printf "so the NCSU customizations will not be performed!\n"))))

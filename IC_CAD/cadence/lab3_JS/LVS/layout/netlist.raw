@@ -1,0 +1,157 @@
+t 26 alucontrol<0> output
+t 24 alucontrol<1> output
+t 22 alucontrol<2> output
+t 25 aluop<0> input
+t 23 aluop<1> input
+t 20 funct<0> input
+t 19 funct<1> input
+t 17 funct<2> input
+t 27 funct<3> input
+t 18 gnd! inputOutput
+t 21 vdd! inputOutput
+
+n 0 /28
+n 1 /27
+n 2 /26
+n 3 /25
+n 4 /24
+n 5 /23
+n 6 /22
+n 7 /21
+n 8 /20
+n 9 /19
+n 10 /18
+n 11 /17
+n 12 /16
+n 13 /15
+n 14 /14
+n 15 /13
+n 16 /12
+n 17 /funct<2>
+n 18 /gnd!
+n 19 /funct<1>
+n 20 /funct<0>
+n 21 /vdd!
+n 22 /alucontrol<2>
+n 23 /aluop<1>
+n 24 /alucontrol<1>
+n 25 /aluop<0>
+n 26 /alucontrol<0>
+n 27 /funct<3>
+
+; pmos4 Instance /+37 = auLvs device Q0
+d pmos D G S B (p D S)
+i 0 pmos 24 23 1 21 " m 1 l 600e-9 w 4.8e-6 "
+
+; pmos4 Instance /+36 = auLvs device Q1
+i 1 pmos 22 14 0 21 " m 1 l 600e-9 w 4.8e-6 "
+
+; pmos4 Instance /+35 = auLvs device Q2
+i 2 pmos 1 11 21 21 " m 1 l 600e-9 w 4.8e-6 "
+
+; pmos4 Instance /+34 = auLvs device Q3
+i 3 pmos 0 16 21 21 " m 1 l 600e-9 w 4.8e-6 "
+
+; pmos4 Instance /+32 = auLvs device Q4
+i 4 pmos 10 27 2 21 " m 1 l 600e-9 w 4.8e-6 "
+
+; pmos4 Instance /+30 = auLvs device Q5
+i 5 pmos 2 17 21 21 " m 1 l 600e-9 w 4.8e-6 "
+
+; pmos4 Instance /+28 = auLvs device Q6
+i 6 pmos 12 19 3 21 " m 1 l 600e-9 w 4.8e-6 "
+
+; pmos4 Instance /+27 = auLvs device Q7
+i 7 pmos 3 20 21 21 " m 1 l 600e-9 w 4.8e-6 "
+
+; nmos4 Instance /+18 = auLvs device Q8
+d nmos D G S B (p D S)
+i 8 nmos 18 23 24 18 " m 1 l 600e-9 w 2.4e-6 "
+
+; nmos4 Instance /+17 = auLvs device Q9
+i 9 nmos 18 14 22 18 " m 1 l 600e-9 w 2.4e-6 "
+
+; nmos4 Instance /+16 = auLvs device Q10
+i 10 nmos 24 11 18 18 " m 1 l 600e-9 w 2.4e-6 "
+
+; nmos4 Instance /+15 = auLvs device Q11
+i 11 nmos 22 16 18 18 " m 1 l 600e-9 w 2.4e-6 "
+
+; nmos4 Instance /+14 = auLvs device Q12
+i 12 nmos 18 27 10 18 " m 1 l 600e-9 w 2.4e-6 "
+
+; nmos4 Instance /+11 = auLvs device Q13
+i 13 nmos 10 17 18 18 " m 1 l 600e-9 w 2.4e-6 "
+
+; nmos4 Instance /+10 = auLvs device Q14
+i 14 nmos 18 19 12 18 " m 1 l 600e-9 w 2.4e-6 "
+
+; nmos4 Instance /+7 = auLvs device Q15
+i 15 nmos 12 20 18 18 " m 1 l 600e-9 w 2.4e-6 "
+
+; nmos4 Instance /+13 = auLvs device Q16
+i 16 nmos 9 8 4 18 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos4 Instance /+12 = auLvs device Q17
+i 17 nmos 4 12 18 18 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos4 Instance /+9 = auLvs device Q18
+i 18 nmos 11 17 5 18 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos4 Instance /+8 = auLvs device Q19
+i 19 nmos 5 15 18 18 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos4 Instance /+5 = auLvs device Q20
+i 20 nmos 14 13 6 18 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos4 Instance /+4 = auLvs device Q21
+i 21 nmos 6 15 18 18 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos4 Instance /+2 = auLvs device Q22
+i 22 nmos 26 9 7 18 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos4 Instance /+1 = auLvs device Q23
+i 23 nmos 7 15 18 18 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos4 Instance /+6 = auLvs device Q24
+i 24 nmos 13 19 18 18 " m 1 l 600e-9 w 2.1e-6 "
+
+; nmos4 Instance /+3 = auLvs device Q25
+i 25 nmos 15 23 18 18 " m 1 l 600e-9 w 2.1e-6 "
+
+; nmos4 Instance /+0 = auLvs device Q26
+i 26 nmos 16 25 18 18 " m 1 l 600e-9 w 2.1e-6 "
+
+; pmos4 Instance /+33 = auLvs device Q27
+i 27 pmos 21 8 9 21 " m 1 l 600e-9 w 3.6e-6 "
+
+; pmos4 Instance /+31 = auLvs device Q28
+i 28 pmos 9 12 21 21 " m 1 l 600e-9 w 3.6e-6 "
+
+; pmos4 Instance /+29 = auLvs device Q29
+i 29 pmos 21 17 11 21 " m 1 l 600e-9 w 3.6e-6 "
+
+; pmos4 Instance /+26 = auLvs device Q30
+i 30 pmos 11 15 21 21 " m 1 l 600e-9 w 3.6e-6 "
+
+; pmos4 Instance /+25 = auLvs device Q31
+i 31 pmos 21 13 14 21 " m 1 l 600e-9 w 3.6e-6 "
+
+; pmos4 Instance /+23 = auLvs device Q32
+i 32 pmos 14 15 21 21 " m 1 l 600e-9 w 3.6e-6 "
+
+; pmos4 Instance /+21 = auLvs device Q33
+i 33 pmos 21 9 26 21 " m 1 l 600e-9 w 3.6e-6 "
+
+; pmos4 Instance /+20 = auLvs device Q34
+i 34 pmos 26 15 21 21 " m 1 l 600e-9 w 3.6e-6 "
+
+; pmos4 Instance /+24 = auLvs device Q35
+i 35 pmos 13 19 21 21 " m 1 l 600e-9 w 3e-6 "
+
+; pmos4 Instance /+22 = auLvs device Q36
+i 36 pmos 15 23 21 21 " m 1 l 600e-9 w 3e-6 "
+
+; pmos4 Instance /+19 = auLvs device Q37
+i 37 pmos 16 25 21 21 " m 1 l 600e-9 w 3e-6 "
+

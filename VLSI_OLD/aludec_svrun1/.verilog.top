@@ -1,0 +1,26 @@
+
+`timescale 1ns / 100ps
+
+module test;
+
+
+
+
+wire [2:0]  alucontrol;
+
+reg [1:0]  aluop;
+reg [5:0]  funct;
+wire net13 ;
+wire net22 ;
+wire net24 ;
+wire net20 ;
+
+     wire net23 ;
+wire net25 ;
+wire net21 ;
+wire net19 ;
+
+
+
+aludec top(alucontrol, aluop, funct); 
+ 

@@ -1,0 +1,60 @@
+****** HSPICE -- L-2016.06 linux64 (May 22 2016) ******
+ Input File: ps5.sp
+ lic:
+ lic: FLEXlm: v11.2.1
+ lic: USER:   jschallert           HOSTNAME: Tera.Eng.HMC.Edu
+ lic: HOSTID: 2a1105765df5         PID:      18125
+ lic: Using FLEXlm license file:
+ lic: 27020@134.173.38.214
+ lic: Checkout 1 hspice
+ lic: License/Maintenance for hspice will expire on 14-jul-2020/2019.06
+ lic: 1(in_use)/50(total) FLOATING license(s) on SERVER 27020@134.173.38.214
+ lic:
+ init: begin read circuit files,  cpu clock=  4.80E-01
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/ad
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/beha
+                         ve
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/bjt
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/burr
+                         _brn
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/coml
+                         inear
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/dio
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/fet
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/lin_
+                         tech
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/pci
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/sign
+                         et
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/ti
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/tlin
+                         e
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/xili
+                         nx
+       option runlvl
+       option scale =    3.000E-07
+       option post
+ init: end read circuit files,  cpu clock=  4.90E-01 peak memory=       197 mb
+ init: begin check errors,  cpu clock=  4.90E-01
+ init: end check errors,  cpu clock=  5.10E-01 peak memory=       198 mb
+ init: begin setup matrix, pivot=     0 cpu clock=  5.10E-01
+       establish matrix -- done,  cpu clock=  5.10E-01 peak memory=       198 mb
+       re-order matrix -- done,  cpu clock=  5.10E-01 peak memory=       198 mb
+ init: end setup matrix,  cpu clock=  5.20E-01 peak memory=       198 mb
+ dcop: begin dcop,  cpu clock=  5.20E-01
+ dcop: end dcop,  cpu clock=  5.30E-01 peak memory=       198 mb  tot_iter=       3
+ output: ps5.mt0
+ sweep: tran tran0    begin, stop_t=  1.00E-08 #sweeps=2001 cpu clock=  5.30E-01
+ tran: time= 1.0000E-09 tot_iter=      25 conv_iter=      11 cpu clock= 5.30E-01
+ tran: time= 2.1664E-09 tot_iter=      48 conv_iter=      21 cpu clock= 5.40E-01
+ tran: time= 3.1664E-09 tot_iter=      52 conv_iter=      23 cpu clock= 5.40E-01
+ tran: time= 4.1308E-09 tot_iter=      57 conv_iter=      25 cpu clock= 5.40E-01
+ tran: time= 5.0366E-09 tot_iter=      68 conv_iter=      29 cpu clock= 5.40E-01
+ tran: time= 6.0000E-09 tot_iter=      81 conv_iter=      34 cpu clock= 5.40E-01
+ tran: time= 7.0000E-09 tot_iter=     106 conv_iter=      44 cpu clock= 5.40E-01
+ tran: time= 8.2709E-09 tot_iter=     125 conv_iter=      53 cpu clock= 5.40E-01
+ tran: time= 9.1439E-09 tot_iter=     131 conv_iter=      55 cpu clock= 5.40E-01
+ tran: time= 1.0000E-08 tot_iter=     138 conv_iter=      58 cpu clock= 5.40E-01
+ sweep: tran tran0    end,  cpu clock=  5.40E-01 peak memory=       198 mb
+>info:         ***** hspice job concluded
+ lic: Release hspice token(s)

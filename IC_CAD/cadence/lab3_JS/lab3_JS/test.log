@@ -1,0 +1,288 @@
+03/01/2020 18:15:46 (538785-971533824 virtuoso): Initialization started (12.04-s027)...
+03/01/2020 18:15:46 (538785-971533824): FLEXnet version 11.11.1.1 build 119913
+03/01/2020 18:15:46 (538785-971533824): Process ID 41334
+03/01/2020 18:15:46 (538785-971533824): Using command line option -display for DISPLAY ((null))
+03/01/2020 18:15:46 (538785-971533824): Creating a new job ...
+03/01/2020 18:15:46 (538785-971533824): Validating server path: 5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu
+03/01/2020 18:15:46 (538785-971533824): Server path validation status: 0
+03/01/2020 18:15:46 (538785-971533824):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of sleep time value of 0.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:15:46 (538785-971533824):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:15:46 (538785-971533824):   (System spec would have been jschallert@Tera.Eng.HMC.Edu(/dev/pts/2) )
+03/01/2020 18:15:46 (538785-971533824): Job creation completed with status 0 (time 0).
+03/01/2020 18:15:46 (538785-971533824): Creating a new job ...
+03/01/2020 18:15:46 (538785-971533824):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of sleep time value of 0.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:15:46 (538785-971533824):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:15:46 (538785-971533824):   (System spec would have been jschallert@Tera.Eng.HMC.Edu(/dev/pts/2) )
+03/01/2020 18:15:46 (538785-971533824): Job creation completed with status 0 (time 0).
+03/01/2020 18:15:46 (538785-971533824): Creating a new job ...
+03/01/2020 18:15:46 (538785-971533824):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of sleep time value of 0.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:15:46 (538785-971533824):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:15:46 (538785-971533824):   (System spec would have been jschallert@Tera.Eng.HMC.Edu(/dev/pts/2) )
+03/01/2020 18:15:46 (538785-971533824): Job creation completed with status 0 (time 0).
+03/01/2020 18:15:46 (538785-971533824): Creating a new job ...
+03/01/2020 18:15:46 (538785-971533824):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of sleep time value of 0.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:15:46 (538785-971533824):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:15:46 (538785-971533824):   (System spec would have been jschallert@Tera.Eng.HMC.Edu(/dev/pts/2) )
+03/01/2020 18:15:46 (538785-971533824): Job creation completed with status 0 (time 0).
+03/01/2020 18:15:46 (538785-971533824): Creating a new job ...
+03/01/2020 18:15:46 (538785-971533824):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of sleep time value of 0.
+03/01/2020 18:15:46 (538785-971533824):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:15:46 (538785-971533824):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:15:46 (538785-971533824):   (System spec would have been jschallert@Tera.Eng.HMC.Edu(/dev/pts/2) )
+03/01/2020 18:15:46 (538785-971533824): Job creation completed with status 0 (time 0).
+03/01/2020 18:15:46 (538785-971533824): Initialization completed with status 0 (time 0).
+03/01/2020 18:15:52 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:52 (538785-971533824): FeatureStatus of 111 completed with status 1 (time 0).
+03/01/2020 18:15:52 (538785-971533824): Check-out started ....
+03/01/2020 18:15:52 (538785-971533824): Checking out 1 license(s) for 111 6.180...
+03/01/2020 18:15:52 (538785-971533824):   (Checked out from file '5821@tera.eng.hmc.edu',
+             line '6.18 15-dec-2020 380 8E9FA632C0C863958018 ')
+03/01/2020 18:15:52 (538785-971533824): Check-out completed with status 0 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of CICNG_812 completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of skillDev completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:56 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:57 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:57 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:57 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:57 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:57 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:57 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:57 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:57 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:57 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:57 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:57 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:57 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:57 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:57 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:15:59 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:16:02 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:16:02 (538785-971533824): FeatureStatus of CICNG_801 completed with status 1 (time 0).
+03/01/2020 18:16:08 (91576 libSelect): Initialization started (12.04-s027)...
+03/01/2020 18:16:08 (91576): FLEXnet version 11.11.1.1 build 119913
+03/01/2020 18:16:08 (91576): Process ID 41630
+03/01/2020 18:16:08 (91576): Creating a new job ...
+03/01/2020 18:16:08 (91576): Validating server path: 5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu
+03/01/2020 18:16:08 (91576): Server path validation status: 0
+03/01/2020 18:16:08 (91576):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:16:08 (91576):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:16:08 (91576):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:16:08 (91576):   Configuration of sleep time value of 0.
+03/01/2020 18:16:08 (91576):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:16:08 (91576):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:16:08 (91576):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+03/01/2020 18:16:08 (91576): Job creation completed with status 0 (time 0).
+03/01/2020 18:16:08 (91576): Creating a new job ...
+03/01/2020 18:16:08 (91576):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:16:08 (91576):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:16:08 (91576):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:16:08 (91576):   Configuration of sleep time value of 0.
+03/01/2020 18:16:08 (91576):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:16:08 (91576):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:16:08 (91576):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+03/01/2020 18:16:08 (91576): Job creation completed with status 0 (time 0).
+03/01/2020 18:16:08 (91576): Creating a new job ...
+03/01/2020 18:16:08 (91576):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:16:08 (91576):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:16:08 (91576):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:16:08 (91576):   Configuration of sleep time value of 0.
+03/01/2020 18:16:08 (91576):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:16:08 (91576):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:16:08 (91576):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+03/01/2020 18:16:08 (91576): Job creation completed with status 0 (time 0).
+03/01/2020 18:16:08 (91576): Creating a new job ...
+03/01/2020 18:16:08 (91576):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:16:08 (91576):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:16:08 (91576):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:16:08 (91576):   Configuration of sleep time value of 0.
+03/01/2020 18:16:08 (91576):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:16:08 (91576):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:16:08 (91576):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+03/01/2020 18:16:08 (91576): Job creation completed with status 0 (time 0).
+03/01/2020 18:16:08 (91576): Creating a new job ...
+03/01/2020 18:16:08 (91576):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:16:08 (91576):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:16:08 (91576):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:16:08 (91576):   Configuration of sleep time value of 0.
+03/01/2020 18:16:08 (91576):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:16:08 (91576):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:16:08 (91576):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+03/01/2020 18:16:08 (91576): Job creation completed with status 0 (time 0).
+03/01/2020 18:16:08 (91576): Initialization completed with status 0 (time 0).
+03/01/2020 18:16:08 (91576): FeatureStatus started ....
+03/01/2020 18:16:08 (91576): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:16:16 (975975 libManager): Initialization started (12.04-s027)...
+03/01/2020 18:16:16 (975975): FLEXnet version 11.11.1.1 build 119913
+03/01/2020 18:16:16 (975975): Process ID 41817
+03/01/2020 18:16:16 (975975): Creating a new job ...
+03/01/2020 18:16:16 (975975): Validating server path: 5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu
+03/01/2020 18:16:16 (975975): Server path validation status: 0
+03/01/2020 18:16:16 (975975):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:16:16 (975975):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:16:16 (975975):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:16:16 (975975):   Configuration of sleep time value of 0.
+03/01/2020 18:16:16 (975975):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:16:16 (975975):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:16:16 (975975):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+03/01/2020 18:16:16 (975975): Job creation completed with status 0 (time 0).
+03/01/2020 18:16:16 (975975): Creating a new job ...
+03/01/2020 18:16:16 (975975):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:16:16 (975975):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:16:16 (975975):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:16:16 (975975):   Configuration of sleep time value of 0.
+03/01/2020 18:16:16 (975975):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:16:16 (975975):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:16:16 (975975):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+03/01/2020 18:16:16 (975975): Job creation completed with status 0 (time 0).
+03/01/2020 18:16:16 (975975): Creating a new job ...
+03/01/2020 18:16:16 (975975):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:16:16 (975975):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:16:16 (975975):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:16:16 (975975):   Configuration of sleep time value of 0.
+03/01/2020 18:16:16 (975975):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:16:16 (975975):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:16:16 (975975):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+03/01/2020 18:16:16 (975975): Job creation completed with status 0 (time 0).
+03/01/2020 18:16:16 (975975): Creating a new job ...
+03/01/2020 18:16:16 (975975):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:16:16 (975975):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:16:16 (975975):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:16:16 (975975):   Configuration of sleep time value of 0.
+03/01/2020 18:16:16 (975975):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:16:16 (975975):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:16:16 (975975):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+03/01/2020 18:16:16 (975975): Job creation completed with status 0 (time 0).
+03/01/2020 18:16:16 (975975): Creating a new job ...
+03/01/2020 18:16:16 (975975):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:16:16 (975975):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:16:16 (975975):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:16:16 (975975):   Configuration of sleep time value of 0.
+03/01/2020 18:16:16 (975975):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:16:16 (975975):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:16:16 (975975):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+03/01/2020 18:16:16 (975975): Job creation completed with status 0 (time 0).
+03/01/2020 18:16:16 (975975): Initialization completed with status 0 (time 0).
+03/01/2020 18:16:16 (975975): FeatureStatus started ....
+03/01/2020 18:16:16 (975975): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:16:16 (538785-971533824): FeatureStatus started ....
+03/01/2020 18:16:16 (538785-971533824): FeatureStatus of debug completed with status 1 (time 0).
+03/01/2020 18:16:16 (538785-971533824): Recheck started ....
+03/01/2020 18:16:16 (538785-971533824):   Checking feature 111
+03/01/2020 18:16:16 (538785-971533824):   Time spent in server Recheck was 0.
+03/01/2020 18:16:16 (538785-971533824): Re-check completed with status 0 (time 0).
+03/01/2020 18:16:17 (538785-971533824): Recheck started ....
+03/01/2020 18:16:17 (538785-971533824):   Actual recheck skipped due to recheck interval...
+03/01/2020 18:16:17 (538785-971533824): Re-check completed with status 0 (time 0).
+03/01/2020 18:16:41 (538785-971533824): Recheck started ....
+03/01/2020 18:16:41 (538785-971533824):   Actual recheck skipped due to recheck interval...
+03/01/2020 18:16:41 (538785-971533824): Re-check completed with status 0 (time 0).
+03/01/2020 18:16:42 (538785-971533824): Recheck started ....
+03/01/2020 18:16:42 (538785-971533824):   Actual recheck skipped due to recheck interval...
+03/01/2020 18:16:42 (538785-971533824): Re-check completed with status 0 (time 0).
+03/01/2020 18:16:42 (91576): Exit started ....
+03/01/2020 18:16:42 (91576): Exit completed with status 0 (time 0).
+03/01/2020 18:16:43 (975975): Exit started ....
+03/01/2020 18:16:43 (975975): Exit completed with status 0 (time 0).
+03/01/2020 18:16:44 (538785-971533824): Exit started ....
+03/01/2020 18:16:44 (538785-971533824): Creating a new job ...
+03/01/2020 18:16:44 (538785-971533824): Validating server path: 5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu
+03/01/2020 18:16:44 (538785-971533824): Server path validation status: 0
+03/01/2020 18:16:44 (538785-971533824):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+03/01/2020 18:16:44 (538785-971533824):   Configuration of recheck interval minimum is 290.
+03/01/2020 18:16:44 (538785-971533824):   Configuration of 2000000000 maximum retry calls.
+03/01/2020 18:16:44 (538785-971533824):   Configuration of sleep time value of 0.
+03/01/2020 18:16:44 (538785-971533824):   Configuration of display specification is 'localhost:11.0'.
+03/01/2020 18:16:44 (538785-971533824):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+03/01/2020 18:16:45 (538785-971533824):   (System spec would have been jschallert@Tera.Eng.HMC.Edu(/dev/pts/2) )
+03/01/2020 18:16:45 (538785-971533824): Job creation completed with status 0 (time 1).
+03/01/2020 18:16:45 (538785-971533824): Check-in (Increment) of 111 completed with status 0 (time 1).
+03/01/2020 18:16:45 (538785-971533824): Exit completed with status 0 (time 1).

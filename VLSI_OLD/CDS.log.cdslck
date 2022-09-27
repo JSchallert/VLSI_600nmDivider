@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jschallert
+HostName                       Tera.Eng.HMC.Edu
+ProcessIdentifier              32344
+ProcessCreationTime_UTC        1579807875
+ProcessCreationTime_Readable   Thu Jan 23 14:31:15 2020 EST
+AppIdentifier                  /cad/cds/IC618/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       Set lock by hiiLockFile
+FilePathUsedToEditLock         /home/jschallert/CDS.log
+TimeEditLocked                 Thu Jan 23 14:31:15 2020 EST

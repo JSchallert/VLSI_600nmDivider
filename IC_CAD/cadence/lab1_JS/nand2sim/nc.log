@@ -1,0 +1,40 @@
+ncverilog: 15.20-s069: (c) Copyright 1995-2019 Cadence Design Systems, Inc.
+TOOL:	ncverilog	15.20-s069: Started on Feb 02, 2020 at 17:49:52 EST
+ncverilog
+	-l
+	nc.log
+	+access+r
+	+gui
+	nand2.sv
+ncsim: *W,DSEM2009: This SystemVerilog design is simulated as per IEEE 1800-2009 SystemVerilog simulation semantics. Use -disable_sem2009 option for turning off SV 2009 simulation semantics.
+
+-------------------------------------
+Relinquished control to SimVision...
+ncsim> 
+ncsim> source /cad/cds/INCISIV1520/tools/inca/files/ncsimrc
+ncsim> run
+Completed  4 tests with  0 errors.
+Simulation stopped via $stop(1) at time 81 NS + 0
+ncsim> run
+Completed  5 tests with  0 errors.
+Simulation stopped via $stop(1) at time 101 NS + 0
+ncsim> database -open waves -into waves.shm -default
+Created default SHM database waves
+ncsim> probe -create -shm testbench.dut.y testbench.dut.b testbench.dut.a
+Created probe 1
+ncsim> run
+Completed  6 tests with  0 errors.
+Simulation stopped via $stop(1) at time 121 NS + 0
+ncsim> run
+Completed  7 tests with  0 errors.
+Simulation stopped via $stop(1) at time 141 NS + 0
+ncsim> scope -set testbench.dut
+ncsim> reset
+ncsim: *W,DSEM2009: This SystemVerilog design is simulated as per IEEE 1800-2009 SystemVerilog simulation semantics. Use -disable_sem2009 option for turning off SV 2009 simulation semantics.
+Loaded snapshot worklib.testbench:sv
+ncsim> run
+Completed  4 tests with  0 errors.
+Simulation stopped via $stop(1) at time 81 NS + 0
+ncsim> ^C
+ncsim> exit
+TOOL:	ncverilog	15.20-s069: Exiting on Feb 02, 2020 at 18:07:47 EST  (total: 00:17:55)

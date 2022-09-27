@@ -1,0 +1,194 @@
+02/02/2020 18:51:05 (479085 ncsim): Initialization started (12.04-s017)...
+02/02/2020 18:51:05 (479085): FLEXnet version 11.11.1.1 build 119913
+02/02/2020 18:51:05 (479085): Process ID 16933
+02/02/2020 18:51:05 (479085): Creating a new job ...
+02/02/2020 18:51:05 (479085): Validating server path: 5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu
+02/02/2020 18:51:05 (479085): Server path validation status: 0
+02/02/2020 18:51:05 (479085):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+02/02/2020 18:51:05 (479085):   Configuration of recheck interval minimum is 290.
+02/02/2020 18:51:05 (479085):   Configuration of 2000000000 maximum retry calls.
+02/02/2020 18:51:05 (479085):   Configuration of sleep time value of 0.
+02/02/2020 18:51:05 (479085):   Configuration of display specification is 'localhost:11.0'.
+02/02/2020 18:51:05 (479085): Storage of server list started...
+02/02/2020 18:51:05 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:05 (479085):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+02/02/2020 18:51:05 (479085):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+02/02/2020 18:51:05 (479085):   Using license server tera.eng.hmc.edu.
+02/02/2020 18:51:05 (479085): Job creation completed with status 0 (time 0).
+02/02/2020 18:51:05 (479085): Creating a new job ...
+02/02/2020 18:51:05 (479085):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+02/02/2020 18:51:05 (479085):   Configuration of recheck interval minimum is 290.
+02/02/2020 18:51:05 (479085):   Configuration of 2000000000 maximum retry calls.
+02/02/2020 18:51:05 (479085):   Configuration of sleep time value of 0.
+02/02/2020 18:51:05 (479085):   Configuration of display specification is 'localhost:11.0'.
+02/02/2020 18:51:05 (479085): Storage of server list started...
+02/02/2020 18:51:05 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:05 (479085):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+02/02/2020 18:51:05 (479085):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+02/02/2020 18:51:05 (479085):   Using license server tera.eng.hmc.edu.
+02/02/2020 18:51:05 (479085): Job creation completed with status 0 (time 0).
+02/02/2020 18:51:05 (479085): Creating a new job ...
+02/02/2020 18:51:05 (479085):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+02/02/2020 18:51:05 (479085):   Configuration of recheck interval minimum is 290.
+02/02/2020 18:51:05 (479085):   Configuration of 2000000000 maximum retry calls.
+02/02/2020 18:51:05 (479085):   Configuration of sleep time value of 0.
+02/02/2020 18:51:05 (479085):   Configuration of display specification is 'localhost:11.0'.
+02/02/2020 18:51:05 (479085): Storage of server list started...
+02/02/2020 18:51:05 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:05 (479085):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+02/02/2020 18:51:05 (479085):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+02/02/2020 18:51:05 (479085):   Using license server tera.eng.hmc.edu.
+02/02/2020 18:51:05 (479085): Job creation completed with status 0 (time 0).
+02/02/2020 18:51:05 (479085): Creating a new job ...
+02/02/2020 18:51:05 (479085):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+02/02/2020 18:51:05 (479085):   Configuration of recheck interval minimum is 290.
+02/02/2020 18:51:05 (479085):   Configuration of 2000000000 maximum retry calls.
+02/02/2020 18:51:05 (479085):   Configuration of sleep time value of 0.
+02/02/2020 18:51:05 (479085):   Configuration of display specification is 'localhost:11.0'.
+02/02/2020 18:51:05 (479085): Storage of server list started...
+02/02/2020 18:51:05 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:05 (479085):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+02/02/2020 18:51:05 (479085):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+02/02/2020 18:51:05 (479085):   Using license server tera.eng.hmc.edu.
+02/02/2020 18:51:05 (479085): Job creation completed with status 0 (time 0).
+02/02/2020 18:51:05 (479085): Creating a new job ...
+02/02/2020 18:51:05 (479085):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+02/02/2020 18:51:05 (479085):   Configuration of recheck interval minimum is 290.
+02/02/2020 18:51:05 (479085):   Configuration of 2000000000 maximum retry calls.
+02/02/2020 18:51:05 (479085):   Configuration of sleep time value of 0.
+02/02/2020 18:51:05 (479085):   Configuration of display specification is 'localhost:11.0'.
+02/02/2020 18:51:05 (479085): Storage of server list started...
+02/02/2020 18:51:05 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:05 (479085):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+02/02/2020 18:51:05 (479085):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+02/02/2020 18:51:05 (479085):   Using license server tera.eng.hmc.edu.
+02/02/2020 18:51:05 (479085): Job creation completed with status 0 (time 0).
+02/02/2020 18:51:05 (479085): Initialization completed with status 0 (time 0).
+02/02/2020 18:51:05 (479085): Check-out started ....
+02/02/2020 18:51:05 (479085): Checking out 1 license(s) for Incisive_HDL_Simulator 15.200...
+02/02/2020 18:51:05 (479085): Storage of server list started...
+02/02/2020 18:51:05 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:05 (479085): Creating a new job ...
+02/02/2020 18:51:05 (479085): Validating server path: 5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu
+02/02/2020 18:51:05 (479085): Server path validation status: 0
+02/02/2020 18:51:05 (479085):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+02/02/2020 18:51:05 (479085):   Configuration of recheck interval minimum is 290.
+02/02/2020 18:51:05 (479085):   Configuration of 2000000000 maximum retry calls.
+02/02/2020 18:51:05 (479085):   Configuration of sleep time value of 0.
+02/02/2020 18:51:05 (479085):   Configuration of display specification is 'localhost:11.0'.
+02/02/2020 18:51:05 (479085): Storage of server list started...
+02/02/2020 18:51:05 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:05 (479085):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+02/02/2020 18:51:05 (479085):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+02/02/2020 18:51:05 (479085):   Using license server tera.eng.hmc.edu.
+02/02/2020 18:51:05 (479085): Job creation completed with status 0 (time 0).
+02/02/2020 18:51:05 (479085): Check-out completed with status -5 (time 0).
+02/02/2020 18:51:05 (479085): Check-out started ....
+02/02/2020 18:51:05 (479085): Checking out 1 license(s) for Xcelium_Limited_Single_Core 16.000...
+02/02/2020 18:51:05 (479085): Storage of server list started...
+02/02/2020 18:51:05 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:05 (479085): Creating a new job ...
+02/02/2020 18:51:05 (479085): Validating server path: 5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu
+02/02/2020 18:51:05 (479085): Server path validation status: 0
+02/02/2020 18:51:05 (479085):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+02/02/2020 18:51:05 (479085):   Configuration of recheck interval minimum is 290.
+02/02/2020 18:51:05 (479085):   Configuration of 2000000000 maximum retry calls.
+02/02/2020 18:51:05 (479085):   Configuration of sleep time value of 0.
+02/02/2020 18:51:05 (479085):   Configuration of display specification is 'localhost:11.0'.
+02/02/2020 18:51:05 (479085): Storage of server list started...
+02/02/2020 18:51:05 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:05 (479085):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+02/02/2020 18:51:05 (479085):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+02/02/2020 18:51:05 (479085):   Using license server tera.eng.hmc.edu.
+02/02/2020 18:51:05 (479085): Job creation completed with status 0 (time 0).
+02/02/2020 18:51:05 (479085): Check-out completed with status -5 (time 0).
+02/02/2020 18:51:05 (479085): Check-out (Increment) started ....
+02/02/2020 18:51:05 (479085): Checking out 1 license(s) for Incisive_Enterprise_Simulator 15.200...
+02/02/2020 18:51:05 (479085): Storage of server list started...
+02/02/2020 18:51:05 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:05 (479085): Creating a new job ...
+02/02/2020 18:51:05 (479085): Validating server path: 5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu
+02/02/2020 18:51:05 (479085): Server path validation status: 0
+02/02/2020 18:51:05 (479085):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+02/02/2020 18:51:05 (479085):   Configuration of recheck interval minimum is 290.
+02/02/2020 18:51:05 (479085):   Configuration of 2000000000 maximum retry calls.
+02/02/2020 18:51:05 (479085):   Configuration of sleep time value of 0.
+02/02/2020 18:51:05 (479085):   Configuration of display specification is 'localhost:11.0'.
+02/02/2020 18:51:05 (479085): Storage of server list started...
+02/02/2020 18:51:05 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:05 (479085):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+02/02/2020 18:51:05 (479085):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+02/02/2020 18:51:05 (479085):   Using license server tera.eng.hmc.edu.
+02/02/2020 18:51:05 (479085): Job creation completed with status 0 (time 0).
+02/02/2020 18:51:05 (479085): Check-out (Increment) completed with status -5 (time 0).
+02/02/2020 18:51:05 (479085): Check-out started ....
+02/02/2020 18:51:05 (479085): Checking out 1 license(s) for Incisive_Enterprise_Verifier 15.200...
+02/02/2020 18:51:05 (479085): Storage of server list started...
+02/02/2020 18:51:05 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:05 (479085): Creating a new job ...
+02/02/2020 18:51:05 (479085): Validating server path: 5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu
+02/02/2020 18:51:05 (479085): Server path validation status: 0
+02/02/2020 18:51:05 (479085):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+02/02/2020 18:51:05 (479085):   Configuration of recheck interval minimum is 290.
+02/02/2020 18:51:05 (479085):   Configuration of 2000000000 maximum retry calls.
+02/02/2020 18:51:05 (479085):   Configuration of sleep time value of 0.
+02/02/2020 18:51:05 (479085):   Configuration of display specification is 'localhost:11.0'.
+02/02/2020 18:51:05 (479085): Storage of server list started...
+02/02/2020 18:51:05 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:05 (479085):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+02/02/2020 18:51:05 (479085):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+02/02/2020 18:51:05 (479085):   Using license server tera.eng.hmc.edu.
+02/02/2020 18:51:05 (479085): Job creation completed with status 0 (time 0).
+02/02/2020 18:51:05 (479085): Check-out completed with status -5 (time 0).
+02/02/2020 18:51:05 (479085): Check-out started ....
+02/02/2020 18:51:05 (479085): Checking out 1 license(s) for Xcelium_Single_Core 16.000...
+02/02/2020 18:51:05 (479085): Storage of server list started...
+02/02/2020 18:51:05 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:05 (479085):   (Checked out from file '5821@tera.eng.hmc.edu',
+             line '19.0 15-dec-2020 20 6E2F7692287BC4332CA7 ')
+02/02/2020 18:51:05 (479085): Check-out completed with status 0 (time 0).
+02/02/2020 18:51:06 (479085): Recheck started ....
+02/02/2020 18:51:06 (479085):   Checking feature Xcelium_Single_Core
+02/02/2020 18:51:06 (479085):   Time spent in server Recheck was 0.
+02/02/2020 18:51:06 (479085): Re-check completed with status 0 (time 0).
+02/02/2020 18:51:06 (479085): Recheck started ....
+02/02/2020 18:51:06 (479085):   Actual recheck skipped due to recheck interval...
+02/02/2020 18:51:06 (479085): Re-check completed with status 0 (time 0).
+02/02/2020 18:51:06 (479085): Recheck started ....
+02/02/2020 18:51:06 (479085):   Actual recheck skipped due to recheck interval...
+02/02/2020 18:51:06 (479085): Re-check completed with status 0 (time 0).
+02/02/2020 18:51:06 (479085): Recheck started ....
+02/02/2020 18:51:06 (479085):   Actual recheck skipped due to recheck interval...
+02/02/2020 18:51:06 (479085): Re-check completed with status 0 (time 0).
+02/02/2020 18:51:06 (479085): Check-in started ....
+02/02/2020 18:51:06 (479085): Creating a new job ...
+02/02/2020 18:51:06 (479085): Validating server path: 5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu
+02/02/2020 18:51:06 (479085): Server path validation status: 0
+02/02/2020 18:51:06 (479085):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+02/02/2020 18:51:06 (479085):   Configuration of recheck interval minimum is 290.
+02/02/2020 18:51:06 (479085):   Configuration of 2000000000 maximum retry calls.
+02/02/2020 18:51:06 (479085):   Configuration of sleep time value of 0.
+02/02/2020 18:51:06 (479085):   Configuration of display specification is 'localhost:11.0'.
+02/02/2020 18:51:06 (479085): Storage of server list started...
+02/02/2020 18:51:06 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:06 (479085):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+02/02/2020 18:51:06 (479085):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+02/02/2020 18:51:06 (479085):   Using license server tera.eng.hmc.edu.
+02/02/2020 18:51:06 (479085): Job creation completed with status 0 (time 0).
+02/02/2020 18:51:06 (479085): Check-in of Xcelium_Single_Core completed with status 0 (time 0).
+02/02/2020 18:51:06 (479085): Exit started ....
+02/02/2020 18:51:06 (479085): Creating a new job ...
+02/02/2020 18:51:06 (479085): Validating server path: 5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu
+02/02/2020 18:51:06 (479085): Server path validation status: 0
+02/02/2020 18:51:06 (479085):   Configuration of license path is '5821@tera.eng.hmc.edu:2222@theforce.eng.hmc.edu'.
+02/02/2020 18:51:06 (479085):   Configuration of recheck interval minimum is 290.
+02/02/2020 18:51:06 (479085):   Configuration of 2000000000 maximum retry calls.
+02/02/2020 18:51:06 (479085):   Configuration of sleep time value of 0.
+02/02/2020 18:51:06 (479085):   Configuration of display specification is 'localhost:11.0'.
+02/02/2020 18:51:06 (479085): Storage of server list started...
+02/02/2020 18:51:06 (479085): Server list saved with status 0 (time 0).
+02/02/2020 18:51:06 (479085):   Licenses will be checked out using jschallert@Tera.Eng.HMC.Edu(localhost:11.0).
+02/02/2020 18:51:06 (479085):   (System spec would have been jschallert@Tera.Eng.HMC.Edu() )
+02/02/2020 18:51:06 (479085):   Using license server tera.eng.hmc.edu.
+02/02/2020 18:51:06 (479085): Job creation completed with status 0 (time 0).
+02/02/2020 18:51:06 (479085): Exit completed with status 0 (time 0).

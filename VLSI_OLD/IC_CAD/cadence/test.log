@@ -1,0 +1,288 @@
+02/23/2019 17:06:03 (363867): Recheck started ....
+02/23/2019 17:06:03 (363867):   Actual recheck skipped due to recheck interval...
+02/23/2019 17:06:03 (363867): Re-check completed with status 0 (time 0).
+03/03/2019 22:57:46 (945620-1776393824 virtuoso): Initialization started (12.04-s027)...
+03/03/2019 22:57:46 (945620-1776393824): FLEXnet version 11.11.1.1 build 119913
+03/03/2019 22:57:46 (945620-1776393824): Process ID 39189
+03/03/2019 22:57:46 (945620-1776393824): Using command line option -display for DISPLAY ((null))
+03/03/2019 22:57:46 (945620-1776393824): Creating a new job ...
+03/03/2019 22:57:46 (945620-1776393824): Validating server path: 5280@134.173.38.214:2222@theforce.eng.hmc.edu
+03/03/2019 22:57:46 (945620-1776393824): Server path validation status: 0
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of sleep time value of 0.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:57:46 (945620-1776393824):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:57:46 (945620-1776393824):   (System spec would have been jschallert@tera.eng.hmc.edu(/dev/pts/42) )
+03/03/2019 22:57:46 (945620-1776393824): Job creation completed with status 0 (time 0).
+03/03/2019 22:57:46 (945620-1776393824): Creating a new job ...
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of sleep time value of 0.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:57:46 (945620-1776393824):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:57:46 (945620-1776393824):   (System spec would have been jschallert@tera.eng.hmc.edu(/dev/pts/42) )
+03/03/2019 22:57:46 (945620-1776393824): Job creation completed with status 0 (time 0).
+03/03/2019 22:57:46 (945620-1776393824): Creating a new job ...
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of sleep time value of 0.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:57:46 (945620-1776393824):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:57:46 (945620-1776393824):   (System spec would have been jschallert@tera.eng.hmc.edu(/dev/pts/42) )
+03/03/2019 22:57:46 (945620-1776393824): Job creation completed with status 0 (time 0).
+03/03/2019 22:57:46 (945620-1776393824): Creating a new job ...
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of sleep time value of 0.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:57:46 (945620-1776393824):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:57:46 (945620-1776393824):   (System spec would have been jschallert@tera.eng.hmc.edu(/dev/pts/42) )
+03/03/2019 22:57:46 (945620-1776393824): Job creation completed with status 0 (time 0).
+03/03/2019 22:57:46 (945620-1776393824): Creating a new job ...
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of sleep time value of 0.
+03/03/2019 22:57:46 (945620-1776393824):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:57:46 (945620-1776393824):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:57:46 (945620-1776393824):   (System spec would have been jschallert@tera.eng.hmc.edu(/dev/pts/42) )
+03/03/2019 22:57:46 (945620-1776393824): Job creation completed with status 0 (time 0).
+03/03/2019 22:57:46 (945620-1776393824): Initialization completed with status 0 (time 0).
+03/03/2019 22:57:49 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:49 (945620-1776393824): FeatureStatus of 111 completed with status 1 (time 0).
+03/03/2019 22:57:49 (945620-1776393824): Check-out started ....
+03/03/2019 22:57:49 (945620-1776393824): Checking out 1 license(s) for 111 6.180...
+03/03/2019 22:57:49 (945620-1776393824):   (Checked out from file '5280@134.173.38.214',
+             line '6.18 15-dec-2019 340 5E7DD6B58FE54C02AF6F ')
+03/03/2019 22:57:49 (945620-1776393824): Check-out completed with status 0 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of CICNG_812 completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of skillDev completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:51 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:52 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:52 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:52 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:52 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:52 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:52 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:52 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:52 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:52 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:52 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:52 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:52 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:52 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:52 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:53 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:53 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:53 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:53 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:53 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:53 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:53 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:53 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:53 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:53 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:53 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:53 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:57:53 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:57:53 (945620-1776393824): FeatureStatus of CICNG_801 completed with status 1 (time 0).
+03/03/2019 22:57:56 (413868 libSelect): Initialization started (12.04-s027)...
+03/03/2019 22:57:56 (413868): FLEXnet version 11.11.1.1 build 119913
+03/03/2019 22:57:56 (413868): Process ID 39436
+03/03/2019 22:57:56 (413868): Creating a new job ...
+03/03/2019 22:57:56 (413868): Validating server path: 5280@134.173.38.214:2222@theforce.eng.hmc.edu
+03/03/2019 22:57:56 (413868): Server path validation status: 0
+03/03/2019 22:57:56 (413868):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:57:56 (413868):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:57:56 (413868):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:57:56 (413868):   Configuration of sleep time value of 0.
+03/03/2019 22:57:56 (413868):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:57:56 (413868):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:57:56 (413868):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/03/2019 22:57:56 (413868): Job creation completed with status 0 (time 0).
+03/03/2019 22:57:56 (413868): Creating a new job ...
+03/03/2019 22:57:56 (413868):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:57:56 (413868):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:57:56 (413868):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:57:56 (413868):   Configuration of sleep time value of 0.
+03/03/2019 22:57:56 (413868):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:57:56 (413868):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:57:56 (413868):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/03/2019 22:57:56 (413868): Job creation completed with status 0 (time 0).
+03/03/2019 22:57:56 (413868): Creating a new job ...
+03/03/2019 22:57:56 (413868):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:57:56 (413868):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:57:56 (413868):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:57:56 (413868):   Configuration of sleep time value of 0.
+03/03/2019 22:57:56 (413868):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:57:56 (413868):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:57:56 (413868):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/03/2019 22:57:56 (413868): Job creation completed with status 0 (time 0).
+03/03/2019 22:57:56 (413868): Creating a new job ...
+03/03/2019 22:57:56 (413868):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:57:56 (413868):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:57:56 (413868):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:57:56 (413868):   Configuration of sleep time value of 0.
+03/03/2019 22:57:56 (413868):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:57:56 (413868):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:57:56 (413868):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/03/2019 22:57:56 (413868): Job creation completed with status 0 (time 0).
+03/03/2019 22:57:56 (413868): Creating a new job ...
+03/03/2019 22:57:56 (413868):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:57:56 (413868):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:57:56 (413868):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:57:56 (413868):   Configuration of sleep time value of 0.
+03/03/2019 22:57:56 (413868):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:57:56 (413868):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:57:56 (413868):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/03/2019 22:57:56 (413868): Job creation completed with status 0 (time 0).
+03/03/2019 22:57:56 (413868): Initialization completed with status 0 (time 0).
+03/03/2019 22:57:56 (413868): FeatureStatus started ....
+03/03/2019 22:57:56 (413868): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:58:01 (164377 libManager): Initialization started (12.04-s027)...
+03/03/2019 22:58:01 (164377): FLEXnet version 11.11.1.1 build 119913
+03/03/2019 22:58:01 (164377): Process ID 39593
+03/03/2019 22:58:01 (164377): Creating a new job ...
+03/03/2019 22:58:01 (164377): Validating server path: 5280@134.173.38.214:2222@theforce.eng.hmc.edu
+03/03/2019 22:58:01 (164377): Server path validation status: 0
+03/03/2019 22:58:01 (164377):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:58:01 (164377):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:58:01 (164377):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:58:01 (164377):   Configuration of sleep time value of 0.
+03/03/2019 22:58:01 (164377):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:58:01 (164377):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:58:01 (164377):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/03/2019 22:58:01 (164377): Job creation completed with status 0 (time 0).
+03/03/2019 22:58:01 (164377): Creating a new job ...
+03/03/2019 22:58:01 (164377):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:58:01 (164377):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:58:01 (164377):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:58:01 (164377):   Configuration of sleep time value of 0.
+03/03/2019 22:58:01 (164377):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:58:01 (164377):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:58:01 (164377):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/03/2019 22:58:01 (164377): Job creation completed with status 0 (time 0).
+03/03/2019 22:58:01 (164377): Creating a new job ...
+03/03/2019 22:58:01 (164377):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:58:01 (164377):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:58:01 (164377):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:58:01 (164377):   Configuration of sleep time value of 0.
+03/03/2019 22:58:01 (164377):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:58:01 (164377):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:58:01 (164377):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/03/2019 22:58:01 (164377): Job creation completed with status 0 (time 0).
+03/03/2019 22:58:01 (164377): Creating a new job ...
+03/03/2019 22:58:01 (164377):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:58:01 (164377):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:58:01 (164377):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:58:01 (164377):   Configuration of sleep time value of 0.
+03/03/2019 22:58:01 (164377):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:58:01 (164377):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:58:01 (164377):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/03/2019 22:58:01 (164377): Job creation completed with status 0 (time 0).
+03/03/2019 22:58:01 (164377): Creating a new job ...
+03/03/2019 22:58:01 (164377):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 22:58:01 (164377):   Configuration of recheck interval minimum is 290.
+03/03/2019 22:58:01 (164377):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 22:58:01 (164377):   Configuration of sleep time value of 0.
+03/03/2019 22:58:01 (164377):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 22:58:01 (164377):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 22:58:01 (164377):   (System spec would have been jschallert@tera.eng.hmc.edu() )
+03/03/2019 22:58:01 (164377): Job creation completed with status 0 (time 0).
+03/03/2019 22:58:01 (164377): Initialization completed with status 0 (time 0).
+03/03/2019 22:58:01 (164377): FeatureStatus started ....
+03/03/2019 22:58:01 (164377): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:58:01 (945620-1776393824): FeatureStatus started ....
+03/03/2019 22:58:01 (945620-1776393824): FeatureStatus of debug completed with status 1 (time 0).
+03/03/2019 22:58:01 (945620-1776393824): Recheck started ....
+03/03/2019 22:58:01 (945620-1776393824):   Checking feature 111
+03/03/2019 22:58:01 (945620-1776393824):   Time spent in server Recheck was 0.
+03/03/2019 22:58:01 (945620-1776393824): Re-check completed with status 0 (time 0).
+03/03/2019 23:00:27 (164377): Exit started ....
+03/03/2019 23:00:27 (164377): Exit completed with status 0 (time 0).
+03/03/2019 23:00:30 (945620-1776393824): Recheck started ....
+03/03/2019 23:00:30 (945620-1776393824):   Actual recheck skipped due to recheck interval...
+03/03/2019 23:00:30 (945620-1776393824): Re-check completed with status 0 (time 0).
+03/03/2019 23:00:31 (945620-1776393824): Recheck started ....
+03/03/2019 23:00:31 (945620-1776393824):   Actual recheck skipped due to recheck interval...
+03/03/2019 23:00:31 (945620-1776393824): Re-check completed with status 0 (time 0).
+03/03/2019 23:00:31 (413868): Exit started ....
+03/03/2019 23:00:31 (413868): Exit completed with status 0 (time 0).
+03/03/2019 23:00:32 (945620-1776393824): Exit started ....
+03/03/2019 23:00:32 (945620-1776393824): Creating a new job ...
+03/03/2019 23:00:32 (945620-1776393824): Validating server path: 5280@134.173.38.214:2222@theforce.eng.hmc.edu
+03/03/2019 23:00:32 (945620-1776393824): Server path validation status: 0
+03/03/2019 23:00:32 (945620-1776393824):   Configuration of license path is '5280@134.173.38.214:2222@theforce.eng.hmc.edu'.
+03/03/2019 23:00:32 (945620-1776393824):   Configuration of recheck interval minimum is 290.
+03/03/2019 23:00:32 (945620-1776393824):   Configuration of 2000000000 maximum retry calls.
+03/03/2019 23:00:32 (945620-1776393824):   Configuration of sleep time value of 0.
+03/03/2019 23:00:32 (945620-1776393824):   Configuration of display specification is 'localhost:16.0'.
+03/03/2019 23:00:32 (945620-1776393824):   Licenses will be checked out using jschallert@tera.eng.hmc.edu(localhost:16.0).
+03/03/2019 23:00:32 (945620-1776393824):   (System spec would have been jschallert@tera.eng.hmc.edu(/dev/pts/42) )
+03/03/2019 23:00:32 (945620-1776393824): Job creation completed with status 0 (time 0).
+03/03/2019 23:00:32 (945620-1776393824): Check-in (Increment) of 111 completed with status 0 (time 0).
+03/03/2019 23:00:32 (945620-1776393824): Exit completed with status 0 (time 0).

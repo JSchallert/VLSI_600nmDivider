@@ -1,0 +1,48 @@
+****** HSPICE -- L-2016.06 linux64 (May 22 2016) ******
+ Input File: fo4-2.sp
+ lic:
+ lic: FLEXlm: v11.2.1
+ lic: USER:   jschallert           HOSTNAME: Tera.Eng.HMC.Edu
+ lic: HOSTID: 2a1105765df5         PID:      54596
+ lic: Using FLEXlm license file:
+ lic: 27020@134.173.38.214
+ lic: Checkout 1 hspice
+ lic: License/Maintenance for hspice will expire on 14-jul-2020/2019.06
+ lic: 1(in_use)/50(total) FLOATING license(s) on SERVER 27020@134.173.38.214
+ lic:
+ init: begin read circuit files,  cpu clock=  2.30E-01
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/ad
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/beha
+                         ve
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/bjt
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/burr
+                         _brn
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/coml
+                         inear
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/dio
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/fet
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/lin_
+                         tech
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/pci
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/sign
+                         et
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/ti
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/tlin
+                         e
+       option search = /cad/synopsys/hspice_L-2016.06/hspice/parts/xili
+                         nx
+       option runlvl
+       option scale =    3.000E-07
+       option post
+ init: end read circuit files,  cpu clock=  2.40E-01 peak memory=       197 mb
+ init: begin check errors,  cpu clock=  2.40E-01
+ init: end check errors,  cpu clock=  2.60E-01 peak memory=       198 mb
+ init: begin setup matrix, pivot=     0 cpu clock=  2.60E-01
+       establish matrix -- done,  cpu clock=  2.60E-01 peak memory=       198 mb
+       re-order matrix -- done,  cpu clock=  2.60E-01 peak memory=       198 mb
+ init: end setup matrix,  cpu clock=  2.70E-01 peak memory=       198 mb
+ output: fo4-2.ms0
+ sweep: dc dc0    begin, #sweeps=  67 cpu clock=  2.80E-01
+ sweep: dc dc0    end,  cpu clock=  2.90E-01 peak memory=       198 mb
+>info:         ***** hspice job concluded
+ lic: Release hspice token(s)

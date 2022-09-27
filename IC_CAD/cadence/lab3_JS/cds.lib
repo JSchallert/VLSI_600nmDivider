@@ -1,0 +1,15 @@
+# File Created by  at Sat Feb 23 23:40:53 2019
+# assisted by CdsLibEditor
+INCLUDE /proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cds.lib
+#DEFINE muddlib10 /courses/e158/15/lib/muddlib10
+#DEFINE wordlib8 /courses/e158/15/lib/wordlib8
+#DEFINE mips8 /courses/e158/15/lib/mips8
+DEFINE HMC_Sheets_8ths /courses/e158/15/lib/oa/HMC_Sheets_8ths
+DEFINE muddlib11 muddlib11
+DEFINE mips8 mips8
+DEFINE wordlib8 wordlib8
+#Removed by ddDeleteObj: DEFINE controller_xx /hdd/home/jschallert/controller_xx
+DEFINE controller_JS /hdd/home/jschallert/controller_JS
+DEFINE controller_JS /home/jschallert/IC_CAD/cadence/lab3_JS/controller_JS
+DEFINE controller_JS /home/jschallert/IC_CAD/cadence/lab3_JS/controller_JS
+DEFINE lab3_JS /home/jschallert/IC_CAD/cadence/lab3_JS/lab3_JS

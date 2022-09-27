@@ -1,0 +1,44 @@
+
+Design          Type    Object                  New Name
+--------------------------------------------------------------------------------
+controller      cell    cl/flagreg1/f/slave/q_reg[0] cl_flagreg1_f_slave_q_reg_0_
+controller      cell    cl/condreg/f/master/q_reg[0] cl_condreg_f_master_q_reg_0_
+controller      cell    cl/condreg/f/slave/q_reg[0] cl_condreg_f_slave_q_reg_0_
+controller      cell    cl/flagreg0/f/master/q_reg[0] cl_flagreg0_f_master_q_reg_0_
+controller      cell    cl/flagreg0/f/slave/q_reg[0] cl_flagreg0_f_slave_q_reg_0_
+controller      cell    cl/flagreg1/f/master/q_reg[0] cl_flagreg1_f_master_q_reg_0_
+controller      cell    dec/fsm/statereg/f/slave/q_reg[3] dec_fsm_statereg_f_slave_q_reg_3_
+controller      cell    dec/fsm/statereg/f/master/q_reg[2] dec_fsm_statereg_f_master_q_reg_2_
+controller      cell    dec/fsm/statereg/f/slave/q_reg[2] dec_fsm_statereg_f_slave_q_reg_2_
+controller      cell    dec/fsm/statereg/f/master/q_reg[1] dec_fsm_statereg_f_master_q_reg_1_
+controller      cell    dec/fsm/statereg/f/slave/q_reg[1] dec_fsm_statereg_f_slave_q_reg_1_
+controller      cell    dec/fsm/statereg/f/master/q_reg[0] dec_fsm_statereg_f_master_q_reg_0_
+controller      cell    dec/fsm/statereg/f/slave/q_reg[0] dec_fsm_statereg_f_slave_q_reg_0_
+controller      cell    dec/fsm/statereg/f/master/q_reg[3] dec_fsm_statereg_f_master_q_reg_3_
+controller      net     Funct[0]                Funct
+controller      net     cl/Flags                cl_Flags
+controller      net     cl/Flags[1]             cl_Flags[1]
+controller      net     cl/Flags[0]             cl_Flags[0]
+controller      net     dec/fsm/state           dec_fsm_state
+controller      net     dec/fsm/state[3]        dec_fsm_state[3]
+controller      net     dec/fsm/state[2]        dec_fsm_state[2]
+controller      net     dec/fsm/state[1]        dec_fsm_state[1]
+controller      net     dec/fsm/state[0]        dec_fsm_state[0]
+controller      net     dec/fsm/statereg/d2     dec_fsm_statereg_d2
+controller      net     dec/fsm/statereg/d2[3]  dec_fsm_statereg_d2[3]
+controller      net     dec/fsm/statereg/d2[2]  dec_fsm_statereg_d2[2]
+controller      net     dec/fsm/statereg/d2[1]  dec_fsm_statereg_d2[1]
+controller      net     dec/fsm/statereg/d2[0]  dec_fsm_statereg_d2[0]
+controller      net     dec/fsm/statereg/f/mid  dec_fsm_statereg_f_mid
+controller      net     dec/fsm/statereg/f/mid[3] dec_fsm_statereg_f_mid[3]
+controller      net     dec/fsm/statereg/f/mid[2] dec_fsm_statereg_f_mid[2]
+controller      net     dec/fsm/statereg/f/mid[1] dec_fsm_statereg_f_mid[1]
+controller      net     dec/fsm/statereg/f/mid[0] dec_fsm_statereg_f_mid[0]
+controller      net     cl/CondExDelayed        cl_CondExDelayed
+controller      net     cl/flagreg1/d2[0]       cl_flagreg1_d2_0_
+controller      net     cl/condreg/d2[0]        cl_condreg_d2_0_
+controller      net     cl/flagreg0/d2[0]       cl_flagreg0_d2_0_
+controller      net     cl/flagreg1/f/mid[0]    cl_flagreg1_f_mid_0_
+controller      net     cl/condreg/f/mid[0]     cl_condreg_f_mid_0_
+controller      net     cl/flagreg0/f/mid[0]    cl_flagreg0_f_mid_0_
+1

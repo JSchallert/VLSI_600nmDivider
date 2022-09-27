@@ -1,0 +1,790 @@
+\# Program start time:     UTC 2020.01.23 19:31:20.623
+\# Local time: EST (UTC-05:00) 2020.01.23 14:31:20.623
+\o Program:		@(#)$CDS: virtuoso version 6.1.8-64b 10/01/2018 20:02 (ip-172-18-22-57) $
+\o Hierarchy:		/cad/cds/IC618/tools.lnx86/dfII/
+\o Sub version:		sub-version  IC6.1.8-64b.83  (64-bit addresses)
+\# Command line:	/cad/cds/IC618/tools/dfII/bin/64bit/virtuoso
+\# Host name (type):	Tera.Eng.HMC.Edu (x86_64)
+\# Operating system:	Linux 3.10.0-957.5.1.el7.x86_64 #1 SMP Fri Feb 1 14:54:57 UTC 2019
+\# Linux /etc/issue:	\S
+\# Linux /etc/issue:	Kernel \r on an \m
+\# X display name (WxH):	localhost:12.0 (4114x1249)
+\# Available geometry:			TL(0:0) BR(4113:1248)
+\# X server:			Colin Harrison
+\# Depth of Visual (Root):	24 (24)
+\# Number of Planes Used:	24
+\# X version:		11.0 (vendor release 60900031)
+\# X resource pool:	base 0xa00000, mask 0x1fffff (2097151), shift 0
+\# 			current id 0x0, current max 0x1ffffa (2097146)
+\# Max data seg size:	     unlimited
+\# Max process size:	     unlimited
+\# Initial sbrk value:	        500 MB
+\# Available memory:	     86,733 MB
+\# System memory:	     99,203 MB
+\# Maximum memory size:	     98,846 MB
+\# Max mem available:	     86,875 MB
+\# Initial memory used:	        142 MB
+\#        process size:	      1,294 MB
+\# Thread usage limits (effective/default):	maxthreads 4096/4096 maxload 56.00/56.00
+\# Qt version:		5.9.1
+\# Window Manager:	other
+\# User Name:		jschallert
+\o Working Directory:	Tera.Eng.HMC.Edu:/home/jschallert/IC_CAD/cadence
+\# Process Id:		32344
+\o 
+\o COPYRIGHT (C) 1992-2018  CADENCE DESIGN SYSTEMS INC.  ALL RIGHTS RESERVED.
+\o           (C) 1992-2018  UNIX SYSTEMS Laboratories INC.,
+\o                          Reproduced with permission.
+\o 
+\o This Cadence Design Systems program and online documentation are
+\o proprietary/confidential information and may be disclosed/used only
+\o as authorized in a license agreement controlling such use and disclosure.
+\o 
+\o           RESTRICTED RIGHTS NOTICE (SHORT FORM)
+\o Use/reproduction/disclosure is subject to restriction
+\o set forth at FAR 1252.227-19 or its equivalent.
+\w Qt Warning: QXcbConnection: XCB error: 170 (Unknown), sequence: 172, resource id: 90, major code: 146 (Unknown), minor code: 20
+\o INFO (DB-120008): oaSocket connection timeout value was set to 1 seconds.
+\# Memory report: using         307 MB, process size 1,465 MB at UTC 2020.01.23 19:31:22.026
+\o Loading geView.cxt 
+\o Loading menuBuilder.cxt 
+\o Loading schView.cxt 
+\o Loading selectSv.cxt 
+\o Loading wireEdit.cxt 
+\o Loading pte2.cxt 
+\o Loading xlUI.cxt 
+\o Loading auCore.cxt 
+\o Loading vhdl.cxt 
+\o Loading seismic.cxt 
+\o Loading ci.cxt 
+\o Loading layers.cxt 
+\o Loading ams.cxt 
+\o Loading cli.cxt 
+\o Loading cle.cxt 
+\o Virtuoso Framework License (111) was checked out successfully. Total checkout time was 0.05s.
+\w *WARNING* The directory: '/courses/e158/20/lib/oa/HMC_Sheets_8ths' does not exist
+\w 	but was defined in libFile '/home/jschallert/IC_CAD/cadence/cds.lib' for Lib 'HMC_Sheets_8ths'.
+\o Loading NCSU CDK 1.6.0 beta customizations...
+\o loading vars from /proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cdsenv for tool adle
+\o loading vars from /proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cdsenv for tool asimenv
+\o loading vars from /proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cdsenv for tool ddserv
+\o loading vars from /proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cdsenv for tool layout
+\o loading vars from /proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cdsenv for tool schematic
+\o loading vars from /proj/ncsu/ncsu-cdk-1.6.0.beta/cdssetup/cdsenv for tool ui
+\o Loading NCSU SKILL routines...
+\# Available memory:         86,647 MB at UTC 2020.01.23 19:31:30.319
+\# Memory report: Maximum memory size now 87,024 MB at UTC 2020.01.23 19:31:30.319
+\# Thread usage report: 59 active threads, active load 1.00 at UTC 2020.01.23 19:31:30.319
+\o libManager Qt Warning: QXcbConnection: XCB error: 1 (BadRequest), sequence: 170, resource id: 90, major code: 146 (Unknown), minor code: 31
+\o libManager Qt Warning: failed to get the primary output of the screen
+\o libManager Qt Warning: QXcbConnection: XCB error: 170 (Unknown), sequence: 172, resource id: 90, major code: 146 (Unknown), minor code: 20
+\o libManager Qt Warning: QXcbConnection: XCB error: 1 (BadRequest), sequence: 170, resource id: 90, major code: 146 (Unknown), minor code: 31
+\o libManager Qt Warning: failed to get the primary output of the screen
+\w *WARNING* The directory: '/courses/e158/20/lib/oa/HMC_Sheets_8ths' does not exist
+\w 	but was defined in libFile '/home/jschallert/IC_CAD/cadence/cds.lib' for Lib 'HMC_Sheets_8ths'.
+\o Done loading NCSU_CDK customizations.
+\p > 
+\o Loading pe.cxt 
+\w *WARNING* could not load font "-*-courier-medium-r-*-*-12-*", using font "fixed"
+\o libManager Qt Warning: QXcbConnection: XCB error: 170 (Unknown), sequence: 172, resource id: 90, major code: 146 (Unknown), minor code: 20
+\a _treeSetOpcGUI(t)
+\r t
+\a hiResizeWindow(window(1) list(55:273 850:466))
+\r t
+\o  
+\o Library Manager new cellview request for library "lab1_JS".
+\i deNew('(nil libName "lab1_JS"))
+\w *WARNING* The directory: '/courses/e158/20/lib/oa/HMC_Sheets_8ths' does not exist
+\w 	but was defined in libFile '/home/jschallert/IC_CAD/cadence/cds.lib' for Lib 'HMC_Sheets_8ths'.
+\p > 
+\a hiiSetCurrentForm('deNewForm)
+\r t
+\a deNewForm->deCellName->value="nand2"
+\r "nand2"
+\a deNewForm->deViewName->value="cmos_sch"
+\r "cmos_sch"
+\a deNewForm->appName->value="Schematics XL"
+\r "Schematics XL"
+\a deNewForm->saveApp->value= t
+\r t
+\a hiFormDone(deNewForm)
+\# Displaying modal dbox "deDBox", title "Tool Name"
+\p > 
+\a hiDBoxCancel(deDBox)
+\r t
+\o (DEBASE-100016): Setting default application for view type "schematic" to "Schematics XL"
+\r t
+\a hiFormDone(deNewForm)
+\# Displaying modal dbox "deDBox", title "Tool Name"
+\p > 
+\a hiDBoxOK(deDBox)
+\r t
+\o (DEBASE-100016): Setting default application for view type "schematic" to "Schematics XL"
+\r t
+\w *WARNING* The directory: '/courses/e158/20/lib/oa/HMC_Sheets_8ths' does not exist
+\w 	but was defined in libFile '/home/jschallert/IC_CAD/cadence/cds.lib' for Lib 'HMC_Sheets_8ths'.
+\o Getting schematic propert bagLoading schematic.cxt 
+\o Loading ddui.cxt 
+\o Loading vb.cxt 
+\o Loading cfde.cxt 
+\o Loading nt.cxt 
+\o Loading oi.cxt 
+\o Loading see.cxt 
+\o Loading treeAssistant.cxt 
+\o Loading asst.cxt 
+\a _ciAssistantReplay_newAssistantByName(dwindow('ciProspector1) "Rapid Analog Prototype")
+\r t
+\o Loading le.cxt 
+\w *WARNING* could not load font "-*-helvetica-medium-r-*-*-12-*", using font "fixed"
+\w *WARNING* Font name -*-helvetica-medium-r-*-*-12-* is invalid 
+\w *WARNING* Font name -*-helvetica-medium-r-*-*-12-* is invalid 
+\w *WARNING* Font name -*-helvetica-medium-r-*-*-12-* is invalid 
+\o Loading drdEdit.cxt 
+\# Memory report: using         412 MB, process size 1,577 MB at UTC 2020.01.23 19:40:26.186
+\o Loading te.cxt 
+\o Loading schHDL.cxt 
+\a _treeNavActivateOpc(dwindow('treeAssistant1) "")
+\r t
+\o Loading hsm.cxt 
+\o Loading lx.cxt 
+\o Loading lce.cxt 
+\w *WARNING* Font name -*-helvetica-medium-r-*-*-12-* is invalid 
+\w *WARNING* Font name -*-helvetica-medium-r-*-*-12-* is invalid 
+\w *WARNING* Font name -*-helvetica-medium-r-*-*-12-* is invalid 
+\o Loading rte.cxt 
+\o Loading oasis.cxt 
+\o Loading simui.cxt 
+\a when(dwindow('oiAssistant1) hiMapWindow(dwindow('oiAssistant1)))
+\r t
+\a when(dwindow('treeAssistant1) hiMapWindow(dwindow('treeAssistant1)))
+\r t
+\# Thread usage report: 57 active threads, active load 1.00 at UTC 2020.01.23 19:40:29.788
+\a hiResizeWindow(swindow(1) list(887:275 1787:975))
+\r t
+\a hiResizeWindow(window(1) list(1:210 959:698))
+\r t
+\a hiResizeWindow(window(1) list(1:210 959:392))
+\r t
+\a hiResizeWindow(window(1) list(1:210 959:508))
+\r t
+\a hiResizeWindow(swindow(1) list(997:378 1897:1078))
+\r t
+\a hiResizeWindow(window(1) list(1:210 501:532))
+\r t
+\a hiResizeWindow(swindow(1) list(503:210 1919:1218))
+\r t
+\a hiZoomOutAtMouse()
+\i 0.25:0.3125
+\r t
+\a hiZoomOutAtMouse()
+\i 0.3125:0.3125
+\r t
+\a hiZoomOutAtMouse()
+\i 0.25:0.3125
+\r t
+\a hiZoomOutAtMouse()
+\i 0.25:0.3125
+\r t
+\a hiZoomInAtMouse()
+\i 0.25:0.375
+\r t
+\a hiZoomInAtMouse()
+\i 0.25:0.375
+\r t
+\i nil
+\i nil
+\i nil
+\i nil
+\i nil
+\i nil
+\a schHiCreateInst()
+\p > 
+\a hiResizeWindow(window(3) list(8:-85 228:329))
+\r t
+\a hiiSetCurrentForm('schCreateInstForm)
+\r t
+\a schCreateInstForm->libraryName->value="UofU_Analog_Parts"
+\r "UofU_Analog_Parts"
+\a schCreateInstForm->cellName->value="nmos"
+\o Loading cdf.cxt 
+\r "nmos"
+\a schCreateInstForm->w->value="3.6u M"
+\r "3.6u M"
+\a hiSetCurrentWindow(window(2))
+\r t
+\a hiZoomInAtMouse()
+\i 11.75:-3.3125
+\r t
+\a hiZoomInAtMouse()
+\i 11.75:-3.3125
+\r t
+\a hiZoomInAtMouse()
+\i 11.75:-3.3125
+\r t
+\a hiZoomInAtMouse()
+\i 11.5625:-3.4375
+\r t
+\a mouseAddPt(t)
+\i 11.51875:-3.25
+\r t
+\a hiZoomOutAtMouse()
+\i 11.5:-3.25
+\r t
+\a hiZoomOutAtMouse()
+\i 11.5625:-3.375
+\r t
+\a hiZoomInAtMouse()
+\i 11.5625:-3.6875
+\r t
+\a hiZoomInAtMouse()
+\i 11.5625:-3.6875
+\r t
+\a mouseAddPt(t)
+\i 11.49375:-3.75
+\r t
+\a hiZoomOutAtMouse()
+\i 11.5625:-3.5625
+\r t
+\a hiZoomOutAtMouse()
+\i 11.5625:-3.5
+\r t
+\a hiZoomIn()
+\i 11.875:-2.75
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i 10.9375:-3.375
+\r t
+\r t
+\a hiZoomInAtMouse()
+\i 11.5:-2.875
+\r t
+\a hiZoomInAtMouse()
+\i 11.5:-2.875
+\r t
+\a hiZoomInAtMouse()
+\i 11.5:-2.875
+\r t
+\a hiZoomInAtMouse()
+\i 11.5:-2.875
+\r t
+\a hiZoomOutAtMouse()
+\i 11.5:-2.875
+\r t
+\a hiZoomOutAtMouse()
+\i 11.5:-2.875
+\r t
+\a hiZoomOutAtMouse()
+\i 11.5:-2.875
+\r t
+\a hiZoomOutAtMouse()
+\i 11.5625:-2.9375
+\r t
+\a hiZoomOutAtMouse()
+\i 11.5625:-2.9375
+\r t
+\a hiZoomOutAtMouse()
+\i 11.5625:-3
+\r t
+\a hiZoomOutAtMouse()
+\i 11.5:-3
+\r t
+\a hiZoomOutAtMouse()
+\i 11.5625:-2.9375
+\r t
+\a hiZoomOutAtMouse()
+\i 11.625:-3
+\r t
+\a hiZoomInAtMouse()
+\i 13.1875:-0.25
+\r t
+\a hiZoomInAtMouse()
+\i 13.875:-1.0625
+\r t
+\a hiZoomOutAtMouse()
+\i 12.1875:-3.375
+\r t
+\a hiZoomInAtMouse()
+\i 12.125:-3.75
+\r t
+\a hiZoomInAtMouse()
+\i 12.125:-3.75
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a schHiCreateInst()
+\p > 
+\a hiResizeWindow(window(3) list(8:-117 228:329))
+\r t
+\a schCreateInstForm->cellName->value="pmos"
+\r "pmos"
+\a schCreateInstForm->w->value="3.6u M"
+\r "3.6u M"
+\a mouseAddPt(t)
+\i 11.4875:-2.56875
+\r t
+\a mouseAddPt(t)
+\i 10.88125:-2.5375
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a schDirectEdit(1)
+\i 10.9375:-2.5625
+\i 10.9375:-2.5625
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i 10.875:-2.5625
+\r t
+\r nil
+\a showClickInfo()
+\i 12.375:-2.3125
+\r window:2
+\a hiZoomInAtMouse()
+\i 11.5:-2.875
+\r t
+\a hiZoomInAtMouse()
+\i 11.5:-2.875
+\r t
+\a hiZoomOutAtMouse()
+\i 11.5:-2.875
+\r t
+\a hiZoomOutAtMouse()
+\i 11.5:-2.9375
+\r t
+\a hiResizeWindow(window(3) list(396:328 616:774))
+\r t
+\a hiCloseWindow(window(3))
+\r t
+\a showClickInfo()
+\i 11.125:-2.1875
+\r window:2
+\a schHiCreateInst()
+\p > 
+\a hiResizeWindow(window(4) list(8:-85 228:329))
+\r t
+\a schCreateInstForm->cellName->value="gnd"
+\r "gnd"
+\a hiSetCurrentWindow(window(2))
+\r t
+\a mouseAddPt(t)
+\i 11.75:-4.08125
+\r t
+\a schCreateInstForm->cellName->value="vdd"
+\r "vdd"
+\a mouseAddPt(t)
+\i 11.45:-2.11875
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a hiZoomOutAtMouse()
+\i 12.3125:-2.3125
+\r t
+\a hiZoomOutAtMouse()
+\i 12.3125:-2.3125
+\r t
+\a hiResizeWindow(window(4) list(61:250 281:664))
+\r t
+\a hiCloseWindow(window(4))
+\r t
+\a hiZoomInAtMouse()
+\i 11.6875:-2.75
+\r t
+\a hiZoomInAtMouse()
+\i 11.75:-2.75
+\r t
+\a hiZoomOutAtMouse()
+\i 11.75:-2.75
+\r t
+\a hiZoomInAtMouse()
+\i 12:-2.625
+\r t
+\a hiDynamicPanGrabbing()
+\i 12.25:-2.6125
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i 12.25:-2.6125
+\a hiZoomIn(window(2) list(9.6:-4.475 13.625:-1.6125))
+\r t
+\r t
+\r t
+\a showClickInfo()
+\i 12.8125:-3.375
+\r window:2
+\a _schHiSaveAs()
+\p > 
+\a hiiSetCurrentForm('_schHiSaveAsForm)
+\r t
+\a hiFormCancel(_schHiSaveAsForm)
+\r t
+\r t
+\a schHiCheckAndSave()
+\o INFO (SCH-1170): Extracting "nand2 cmos_sch"
+\o Warning: Pin "G" on instance "M1": floating input.
+\o Warning: Pin "S" on instance "M1": floating input/output.
+\o Warning: Pin "D" on instance "M1": floating input/output.
+\o Warning: Pin "G" on instance "M0": floating input.
+\o Warning: Pin "S" on instance "M0": floating input/output.
+\o Warning: Pin "D" on instance "M0": floating input/output.
+\o Warning: Pin "G" on instance "M3": floating input.
+\o Warning: Pin "S" on instance "M3": floating input/output.
+\o Warning: Pin "D" on instance "M3": floating input/output.
+\o Warning: Pin "G" on instance "M2": floating input.
+\o Warning: Pin "S" on instance "M2": floating input/output.
+\o Warning: Pin "D" on instance "M2": floating input/output.
+\o INFO (SCH-1172): There were 0 errors and 12 warnings found in "lab1_JS nand2 cmos_sch".
+\# Displaying modal dbox "_schCheckDBox", title "Schematic Check"
+\p > 
+\a hiDBoxOK(_schCheckDBox)
+\r t
+\o Getting schematic propert bagGetting schematic propert bagINFO (SCH-1181): "lab1_JS nand2 cmos_sch" saved.
+\r t
+\a schHiCreatePin()
+\p > 
+\a hiiSetCurrentForm('schCreatePinForm)
+\r t
+\a schCreatePinForm->terminalName->value="a b"
+\r "a b"
+\a mouseAddPt(t)
+\i 10.26875:-3.64375
+\r t
+\a mouseAddPt(t)
+\i 10.2375:-3.26875
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a schDirectEdit(1)
+\i 10.1875:-3.625
+\i 10.1875:-3.625
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i 10.1875:-3.75
+\r t
+\r nil
+\a showClickInfo()
+\i 10.8125:-3.75
+\r window:2
+\a hiCloseWindow(getCurrentWindow())
+\# Displaying modal dbox "geDBox", title "Save Changes"
+\p > 
+\a hiDBoxCancel(geDBox t)
+\r Getting schematic propert bagt
+\w *WARNING* (DEBASE-102130): Close or Return in window:2 aborted.
+\r Getting schematic propert bagGetting schematic propert bagnil
+\a schHiCreateWire(0.0)
+\p > 
+\a mouseAddPt(t)
+\i 10.25625:-3.25625
+\r t
+\a mouseAddPt(t)
+\i 11.50625:-3.25625
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a schHiCreateWire(0.0)
+\p > 
+\a mouseAddPt(t)
+\i 10.24375:-3.75
+\r t
+\a mouseAddPt(t)
+\i 11.5:-3.75
+\r t
+\a mouseAddPt(t)
+\i 11.75625:-3.5625
+\r t
+\a mouseAddPt(t)
+\i 11.7375:-3.45
+\r t
+\a mouseAddPt(t)
+\i 11.75625:-3.075
+\r t
+\a mouseAddPt(t)
+\i 11.75:-2.75625
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a showClickInfo()
+\i 11.5:-3.25
+\r window:2
+\a showClickInfo()
+\i 11.5:-3.4375
+\r window:2
+\a _schHiSaveAs()
+\p > 
+\a hiiSetCurrentForm('_schHiSaveAsForm)
+\r t
+\a hiFormCancel(_schHiSaveAsForm)
+\r t
+\r t
+\a _schHiSave()
+\o Getting schematic propert bagGetting schematic propert bagINFO (SCH-1117): "nand2 cmos_sch" saved.
+\r t
+\a schHiCheckAndSave()
+\o INFO (SCH-1170): Extracting "nand2 cmos_sch"
+\o Warning: Pin "S" on instance "M1": floating input/output.
+\o Warning: Pin "G" on instance "M3": floating input.
+\o Warning: Pin "S" on instance "M3": floating input/output.
+\o Warning: Pin "D" on instance "M3": floating input/output.
+\o Warning: Pin "G" on instance "M2": floating input.
+\o Warning: Pin "S" on instance "M2": floating input/output.
+\o INFO (SCH-1172): There were 0 errors and 6 warnings found in "lab1_JS nand2 cmos_sch".
+\# Displaying modal dbox "_schCheckDBox", title "Schematic Check"
+\p > 
+\a hiDBoxOK(_schCheckDBox)
+\r t
+\o Getting schematic propert bagGetting schematic propert bagINFO (SCH-1181): "lab1_JS nand2 cmos_sch" saved.
+\r t
+\a schHiStretch()
+\p > 
+\a hiiSetCurrentForm('schStretchForm)
+\r t
+\a hiiToggleEnterForm(schStretchForm) 
+\r t
+\a schHiCreateWire(0.0)
+\r t
+\a mouseAddPt(t)
+\i 11.7375:-3.925
+\r t
+\a mouseAddPt(t)
+\i 11.74375:-4.08125
+\r t
+\a mouseAddPt(t)
+\i 11.75625:-2.38125
+\r t
+\a mouseAddPt(t)
+\i 11.44375:-2.125
+\r t
+\a mouseAddPt(t)
+\i 11.04375:-2.375
+\r t
+\a mouseAddPt(t)
+\i 11.43125:-2.325
+\r t
+\a mouseAddPt(t)
+\i 10.81875:-2.5625
+\r t
+\a mouseAddPt(t)
+\i 10.45625:-3.75
+\r t
+\a mouseAddPt(t)
+\i 11.39375:-3.24375
+\r t
+\a mouseAddPt(t)
+\i 11.49375:-2.5625
+\r t
+\a mouseAddPt(t)
+\i 11.04375:-2.75625
+\r t
+\a mouseAddPt(t)
+\i 11.75:-2.88125
+\r t
+\a schHiCheckAndSave()
+\o INFO (SCH-1170): Extracting "nand2 cmos_sch"
+\o INFO (SCH-1426): Schematic check completed with no errors.
+\o Getting schematic propert bagGetting schematic propert bagINFO (SCH-1181): "lab1_JS nand2 cmos_sch" saved.
+\r t
+\a mouseAddPt(t)
+\i 11.74375:-2.88125
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a showClickInfo()
+\i 12.375:-2.9375
+\r window:2
+\a schHiCreatePin()
+\p > 
+\a hiiSetCurrentForm('schCreatePinForm)
+\r t
+\a schCreatePinForm->terminalName->value="y"
+\r "y"
+\a schCreatePinForm->direction->value="output"
+\r "output"
+\a mouseAddPt(t)
+\i 12.13125:-2.88125
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a schHiCreateWire(0.0)
+\p > 
+\a mouseAddPt(t)
+\i 11.75:-2.89375
+\r t
+\a mouseAddPt(t)
+\i 12.19375:-2.9
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a showClickInfo()
+\i 12.625:-2.9375
+\r window:2
+\a schDirectEdit(1)
+\i 11:-2.5625
+\i 11:-2.5625
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i 10.875:-2.5625
+\r t
+\r nil
+\a schDirectEdit(1)
+\i 10.6875:-2.875
+\i 10.6875:-2.875
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i 10.5:-2.875
+\r t
+\r nil
+\a schExtendSelectPt()
+\i 11.6875:-2.75
+\r nil
+\a schHiMousePopUp()
+\i 11.75:-2.875
+\i 11.75:-2.875
+\i 11.75:-2.875
+\i 11.75:-2.875
+\i 11.75:-2.875
+\i 11.75:-2.875
+\i 11.75:-2.875
+\i 11.75:-2.875
+\i 11.75:-2.875
+\i 11.75:-2.875
+\r t
+\a _ciBrowserReplay_changeSetting(dwindow('ciManager1) "HeaderSize/Parameters" "45")
+\r t
+\a hiPopupDown(schWirePopUp)
+\r t
+\a schHiCreateWireLabel()
+\p > 
+\a hiiSetCurrentForm('schCreateWireLabelForm)
+\r t
+\a schCreateWireLabelForm->label->value="y"
+\r "y"
+\a hiiToggleEnterForm(schCreateWireLabelForm)
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a showClickInfo()
+\i 12.625:-3.375
+\r window:2
+\a schHiCreateInst()
+\p > 
+\a hiResizeWindow(window(5) list(8:-85 228:329))
+\r t
+\a hiiSetCurrentForm('schCreateInstForm)
+\r t
+\a hiiToggleEnterForm(schCreateInstForm) 
+\r t
+\a hiResizeWindow(window(5) list(8:-101 228:329))
+\r t
+\a hiSetCurrentWindow(window(2))
+\r t
+\a schCmdOption()
+\r t
+\a hiCloseWindow(window(5))
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a schHiCreateWireLabel()
+\p > 
+\a hiiSetCurrentForm('schCreateWireLabelForm)
+\r t
+\a schCreateWireLabelForm->label->value="mid"
+\r "mid"
+\a mouseAddPt(t)
+\i 11.7375:-3.48125
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a schHiCheckAndSave()
+\o INFO (SCH-1170): Extracting "nand2 cmos_sch"
+\o Warning: Solder dot on cross over at ( 11.7500, -2.8750 ).
+\o INFO (SCH-1172): There were 0 errors and 1 warning found in "lab1_JS nand2 cmos_sch".
+\# Displaying modal dbox "_schCheckDBox", title "Schematic Check"
+\p > 
+\a hiDBoxOK(_schCheckDBox)
+\r t
+\o Getting schematic propert bagGetting schematic propert bagINFO (SCH-1181): "lab1_JS nand2 cmos_sch" saved.
+\r t
+\a schHiSRC("editOptions")
+\p > 
+\a hiiSetCurrentForm('schSRCForm)
+\r t
+\a schSRCForm->tabField->value=2
+\r 2
+\a schSRCForm->tabField->page2->solderOnCrossover->value="ignored"
+\r "ignored"
+\a _hiFormApplyCB(schSRCForm)
+\r t
+\a hiFormDone(schSRCForm)
+\r t
+\r nil
+\a schHiCheckAndSave()
+\o INFO (SCH-1170): Extracting "nand2 cmos_sch"
+\o INFO (SCH-1426): Schematic check completed with no errors.
+\o Getting schematic propert bagGetting schematic propert bagINFO (SCH-1181): "lab1_JS nand2 cmos_sch" saved.
+\r t
+\a hiZoomOutAtMouse()
+\i 12.8125:-3.1875
+\r t
+\a hiZoomOutAtMouse()
+\i 13.375:-3.9375
+\r t
+\a hiZoomOutAtMouse()
+\i 11.75:-3.6875
+\r t
+\a hiZoomOutAtMouse()
+\i 12.0625:-2.9375
+\r t
+\a hiZoomOutAtMouse()
+\i 11.875:-2
+\r t
+\a hiZoomInAtMouse()
+\i 14.375:-2.875
+\r t
+\a hiZoomInAtMouse()
+\i 14.4375:-2.9375
+\r t
+\a hiZoomInAtMouse()
+\i 14.4375:-3.25
+\r t
+\a hiZoomInAtMouse()
+\i 14.375:-3.375
+\r t
+\a hiZoomInAtMouse()
+\i 10.75:-3.0625
+\r t
+\a hiDynamicPanGrabbing()
+\i 11.0375:-3.1625
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i 11.0375:-3.1625
+\a hiZoomIn(window(2) list(9.36875:-4.55625 13.35:-1.6875))
+\r t
+\r t
+\r t
+\a hiZoomOutAtMouse()
+\i 11.0625:-3.1875
+\r t
+\a showClickInfo()
+\i 13.8125:-1.5625
+\r window:2
+\a hiCloseWindow(swindow(1))
+\o Getting schematic propert bagLoading cph.cxt 
+\r t
+\a hiQuit()
+\# Displaying modal dbox "hiQuitDBox", title "Quit"
+\p > 
+\a hiDBoxOK(hiQuitDBox)
+\r t
+\o 
+\# Memory report: on exit            449 MB, process size 1,615 MB at UTC 2020.01.23 20:42:58.144
+\# Memory report: peak usage         454 MB, process size 1,619 MB

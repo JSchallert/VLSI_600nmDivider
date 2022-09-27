@@ -1,0 +1,218 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 09/24/2018 21:00 (ip-172-18-22-224) $
+\o Sub version:		sub-version  p015 
+\o Arguments:		-mpssession virtuoso42055 -mpshost Tera.Eng.HMC.Edu 
+\o Working Directory:	Tera.Eng.HMC.Edu:/home/jschallert/IC_CAD/cadence/lab3_JS
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o Log file is "/home/jschallert/IC_CAD/cadence/lab3_JS/libManager.log".
+\o Opening libManager window.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(1122 178 500 654))
+\o changeWorkingDir("/home/jschallert/IC_CAD/cadence/lab3_JS") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\o Loading customization file "./cdsLibMgr.il"
+\o Library Manager customization server connected.
+\w Warning: LIB controller_JS from File /home/jschallert/IC_CAD/cadence/lab3_JS/cds.lib Line 13 redefines
+\w LIB controller_JS from the same file (defined earlier.)
+\w Warning: LIB controller_JS from File /home/jschallert/IC_CAD/cadence/lab3_JS/cds.lib Line 14 redefines
+\w LIB controller_JS from the same file (defined earlier.)
+\a cdsLibManager->libListBox->value = "muddlib11"
+\a cdsLibManager->libLineEdit->value = "muddlib11"
+\a cdsLibManager->cellListBox->value = "flop_dp_1x"
+\a cdsLibManager->cellLineEdit->value = "flop_dp_1x"
+\a cdsLibManager->cellListBox->value = "flopen_dp_1x"
+\a cdsLibManager->cellLineEdit->value = "flopen_dp_1x"
+\a cdsLibManager->cellListBox->value = "fulladder"
+\a cdsLibManager->cellLineEdit->value = "fulladder"
+\a cdsLibManager->cellListBox->value = "flopenr_dp_1x"
+\a cdsLibManager->cellLineEdit->value = "flopenr_dp_1x"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 3 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: LIB controller_JS from File /home/jschallert/IC_CAD/cadence/lab3_JS/cds.lib Line 13 redefines
+\w LIB controller_JS from the same file (defined earlier.)
+\w Warning: LIB controller_JS from File /home/jschallert/IC_CAD/cadence/lab3_JS/cds.lib Line 14 redefines
+\w LIB controller_JS from the same file (defined earlier.)
+\a cdsLibManager->libListBox->value = "muddlib11"
+\a cdsLibManager->libLineEdit->value = "muddlib11"
+\a cdsLibManager->cellListBox->value = "flopenr_dp_1x"
+\a cdsLibManager->cellLineEdit->value = "flopenr_dp_1x"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "inv_1x"
+\a cdsLibManager->cellLineEdit->value = "inv_1x"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 7 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "nand3_1x"
+\a cdsLibManager->cellLineEdit->value = "nand3_1x"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 28 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: LIB controller_JS from File /home/jschallert/IC_CAD/cadence/lab3_JS/cds.lib Line 13 redefines
+\w LIB controller_JS from the same file (defined earlier.)
+\w Warning: LIB controller_JS from File /home/jschallert/IC_CAD/cadence/lab3_JS/cds.lib Line 14 redefines
+\w LIB controller_JS from the same file (defined earlier.)
+\a cdsLibManager->libListBox->value = "muddlib11"
+\a cdsLibManager->libLineEdit->value = "muddlib11"
+\a cdsLibManager->cellListBox->value = "nand3_1x"
+\a cdsLibManager->cellLineEdit->value = "nand3_1x"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 7 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "nand2_2x"
+\a cdsLibManager->cellLineEdit->value = "nand2_2x"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->cellListBox->value = "nand2_1x"
+\a cdsLibManager->cellLineEdit->value = "nand2_1x"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 7 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "mux2_c_1x"
+\a cdsLibManager->cellLineEdit->value = "mux2_c_1x"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->cellListBox->value = "mux2_dp_1x"
+\a cdsLibManager->cellLineEdit->value = "mux2_dp_1x"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->cellListBox->value = "mux2_c_1x"
+\a cdsLibManager->cellLineEdit->value = "mux2_c_1x"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->cellListBox->value = "mux2_dp_1x"
+\a cdsLibManager->cellLineEdit->value = "mux2_dp_1x"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->cellListBox->value = "mux3_dp_1x"
+\a cdsLibManager->cellLineEdit->value = "mux3_dp_1x"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->cellListBox->value = "mux2_c_1x"
+\a cdsLibManager->cellLineEdit->value = "mux2_c_1x"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->cellListBox->value = "mux2_dp_1x"
+\a cdsLibManager->cellLineEdit->value = "mux2_dp_1x"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "mux2_dp_1x"
+\a cdsLibManager->cellLineEdit->value = "mux2_dp_1x"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 23 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: LIB controller_JS from File /home/jschallert/IC_CAD/cadence/lab3_JS/cds.lib Line 13 redefines
+\w LIB controller_JS from the same file (defined earlier.)
+\w Warning: LIB controller_JS from File /home/jschallert/IC_CAD/cadence/lab3_JS/cds.lib Line 14 redefines
+\w LIB controller_JS from the same file (defined earlier.)
+\a cdsLibManager->libListBox->value = "muddlib11"
+\a cdsLibManager->libLineEdit->value = "muddlib11"
+\a cdsLibManager->cellListBox->value = "mux2_dp_1x"
+\a cdsLibManager->cellLineEdit->value = "mux2_dp_1x"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 3 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "fulladder"
+\a cdsLibManager->cellLineEdit->value = "fulladder"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 7 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\o MPS service: shutdown
+\o libManager is exiting.
+\a exit(0)

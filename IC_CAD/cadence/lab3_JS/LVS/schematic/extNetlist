@@ -1,0 +1,156 @@
+t 17 aluop<1> input
+t 16 aluop<0> input
+t 3 funct<3> input
+t 8 funct<2> input
+t 10 funct<1> input
+t 11 funct<0> input
+t 5 alucontrol<2> output
+t 6 alucontrol<1> output
+t 14 alucontrol<0> output
+
+n 1 vdd!
+n 0 gnd!
+n 2 /net21
+n 3 /funct<3>
+n 4 /net10
+n 5 /alucontrol<2>
+n 6 /alucontrol<1>
+n 7 /net18
+n 8 /funct<2>
+n 9 /net22
+n 10 /funct<1>
+n 11 /funct<0>
+n 12 /net17
+n 13 /net16
+n 14 /alucontrol<0>
+n 15 /net19
+n 16 /aluop<0>
+n 17 /aluop<1>
+n 18 /net20
+
+; pmos Instance /I2/M1 = auLvs device Q0
+d pmos D G S B (p D S)
+i 0 pmos 15 10 1 1 " m 1 l 600e-9 w 3e-6 "
+
+; nmos Instance /I2/M0 = auLvs device Q1
+d nmos D G S B (p D S)
+i 1 nmos 15 10 0 0 " m 1 l 600e-9 w 2.1e-6 "
+
+; pmos Instance /I1/M1 = auLvs device Q2
+i 2 pmos 4 17 1 1 " m 1 l 600e-9 w 3e-6 "
+
+; nmos Instance /I1/M0 = auLvs device Q3
+i 3 nmos 4 17 0 0 " m 1 l 600e-9 w 2.1e-6 "
+
+; pmos Instance /I0/M1 = auLvs device Q4
+i 4 pmos 7 16 1 1 " m 1 l 600e-9 w 3e-6 "
+
+; nmos Instance /I0/M0 = auLvs device Q5
+i 5 nmos 7 16 0 0 " m 1 l 600e-9 w 2.1e-6 "
+n 31 /I10/mid
+
+; pmos Instance /I10/M2 = auLvs device Q6
+i 6 pmos 6 17 31 1 " m 1 l 600e-9 w 4.8e-6 "
+
+; pmos Instance /I10/M3 = auLvs device Q7
+i 7 pmos 31 9 1 1 " m 1 l 600e-9 w 4.8e-6 "
+
+; nmos Instance /I10/M0 = auLvs device Q8
+i 8 nmos 6 17 0 0 " m 1 l 600e-9 w 2.4e-6 "
+
+; nmos Instance /I10/M1 = auLvs device Q9
+i 9 nmos 6 9 0 0 " m 1 l 600e-9 w 2.4e-6 "
+n 35 /I9/mid
+
+; pmos Instance /I9/M2 = auLvs device Q10
+i 10 pmos 5 2 35 1 " m 1 l 600e-9 w 4.8e-6 "
+
+; pmos Instance /I9/M3 = auLvs device Q11
+i 11 pmos 35 7 1 1 " m 1 l 600e-9 w 4.8e-6 "
+
+; nmos Instance /I9/M0 = auLvs device Q12
+i 12 nmos 5 2 0 0 " m 1 l 600e-9 w 2.4e-6 "
+
+; nmos Instance /I9/M1 = auLvs device Q13
+i 13 nmos 5 7 0 0 " m 1 l 600e-9 w 2.4e-6 "
+n 39 /I4/mid
+
+; pmos Instance /I4/M2 = auLvs device Q14
+i 14 pmos 13 3 39 1 " m 1 l 600e-9 w 4.8e-6 "
+
+; pmos Instance /I4/M3 = auLvs device Q15
+i 15 pmos 39 8 1 1 " m 1 l 600e-9 w 4.8e-6 "
+
+; nmos Instance /I4/M0 = auLvs device Q16
+i 16 nmos 13 3 0 0 " m 1 l 600e-9 w 2.4e-6 "
+
+; nmos Instance /I4/M1 = auLvs device Q17
+i 17 nmos 13 8 0 0 " m 1 l 600e-9 w 2.4e-6 "
+n 43 /I3/mid
+
+; pmos Instance /I3/M2 = auLvs device Q18
+i 18 pmos 12 10 43 1 " m 1 l 600e-9 w 4.8e-6 "
+
+; pmos Instance /I3/M3 = auLvs device Q19
+i 19 pmos 43 11 1 1 " m 1 l 600e-9 w 4.8e-6 "
+
+; nmos Instance /I3/M0 = auLvs device Q20
+i 20 nmos 12 10 0 0 " m 1 l 600e-9 w 2.4e-6 "
+
+; nmos Instance /I3/M1 = auLvs device Q21
+i 21 nmos 12 11 0 0 " m 1 l 600e-9 w 2.4e-6 "
+n 48 /I8/mid
+
+; pmos Instance /I8/M2 = auLvs device Q22
+i 22 pmos 9 8 1 1 " m 1 l 600e-9 w 3.6e-6 "
+
+; pmos Instance /I8/M3 = auLvs device Q23
+i 23 pmos 9 4 1 1 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos Instance /I8/M0 = auLvs device Q24
+i 24 nmos 9 8 48 0 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos Instance /I8/M1 = auLvs device Q25
+i 25 nmos 48 4 0 0 " m 1 l 600e-9 w 3.6e-6 "
+n 52 /I7/mid
+
+; pmos Instance /I7/M2 = auLvs device Q26
+i 26 pmos 2 15 1 1 " m 1 l 600e-9 w 3.6e-6 "
+
+; pmos Instance /I7/M3 = auLvs device Q27
+i 27 pmos 2 4 1 1 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos Instance /I7/M0 = auLvs device Q28
+i 28 nmos 2 15 52 0 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos Instance /I7/M1 = auLvs device Q29
+i 29 nmos 52 4 0 0 " m 1 l 600e-9 w 3.6e-6 "
+n 56 /I6/mid
+
+; pmos Instance /I6/M2 = auLvs device Q30
+i 30 pmos 14 18 1 1 " m 1 l 600e-9 w 3.6e-6 "
+
+; pmos Instance /I6/M3 = auLvs device Q31
+i 31 pmos 14 4 1 1 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos Instance /I6/M0 = auLvs device Q32
+i 32 nmos 14 18 56 0 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos Instance /I6/M1 = auLvs device Q33
+i 33 nmos 56 4 0 0 " m 1 l 600e-9 w 3.6e-6 "
+n 60 /I5/mid
+
+; pmos Instance /I5/M2 = auLvs device Q34
+i 34 pmos 18 13 1 1 " m 1 l 600e-9 w 3.6e-6 "
+
+; pmos Instance /I5/M3 = auLvs device Q35
+i 35 pmos 18 12 1 1 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos Instance /I5/M0 = auLvs device Q36
+i 36 nmos 18 13 60 0 " m 1 l 600e-9 w 3.6e-6 "
+
+; nmos Instance /I5/M1 = auLvs device Q37
+i 37 nmos 60 12 0 0 " m 1 l 600e-9 w 3.6e-6 "
+t 0 gnd! global
+t 1 vdd! global
+

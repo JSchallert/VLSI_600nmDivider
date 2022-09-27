@@ -1,0 +1,293 @@
+#Copyright (c) 1988-2016 Synopsys, Inc.
+##                                        
+#                            Custom WaveView ADV (R)
+#                                        
+#                  Version L-2016.06 for RHEL64 - May 19, 2016 
+#                                        
+#                    Copyright (c) 1988 - 2016 Synopsys, Inc.
+#   This software and the associated documentation are proprietary to Synopsys,
+# Inc. This software may only be used in accordance with the terms and conditions
+# of a written license agreement with Synopsys, Inc. All other use, reproduction,
+#            or distribution of this software is strictly prohibited.
+#
+#Launched at Mar 09 2020 03:54:25 (PID:2631)
+#
+cx_load_preference /cad/synopsys/CX/etc/.cxrc
+cx_select_window {Console} 
+cx_select_menu_item {Console} {} {File.Open Waveform File...} 
+cx_select_dialog {Console.Invoking WaveView} 
+#WaveView opened.
+wv_move_window WaveView 112 135
+wv_select_dialog FileDialog
+wv_set_text FileDialog.FileName {}
+wv_select_list_item FileDialog.FileList ps5.tr0
+wv_press_button FileDialog.Ok
+wv_expand_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0/toplevel}
+wv_select_list_item MainWindow.sigview v(0)
+wv_select_list_item MainWindow.sigview v(a)
+wv_move_window WaveView 5 106
+wv_select_list_item MainWindow.sigview v(d)
+wv_drag_list_item MainWindow.sigview v(d)
+wv_drag_enter WV1
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(c)
+wv_drag_list_item MainWindow.sigview v(c)
+wv_drag_enter WV1
+wv_drag_to WV1 9 378
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(b)
+wv_drag_list_item MainWindow.sigview v(b)
+wv_drag_enter WV1
+wv_drag_to WV1 17 355
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(a)
+wv_drag_list_item MainWindow.sigview v(a)
+wv_drag_enter WV1
+wv_drag_to WV1 1 345
+wv_drop_on WV1
+wv_move_window WaveView 599 145
+wv_move_window WaveView 568 152
+wv_close_window WaveView
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+#WaveView closed.
+cx_select_window {Console} 
+cx_select_menu_item {Console} {} {File.Open Waveform File...} 
+cx_select_dialog {Console.Invoking WaveView} 
+#WaveView opened.
+wv_move_window WaveView 86 109
+wv_select_dialog FileDialog
+wv_set_text FileDialog.FileName {}
+wv_select_list_item FileDialog.FileList ps5.tr0
+wv_press_button FileDialog.Ok
+wv_expand_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0/toplevel}
+wv_select_list_item MainWindow.sigview v(a)
+wv_dclick_list_item MainWindow.sigview v(a)
+wv_select_list_item MainWindow.sigview v(b)
+wv_dclick_list_item MainWindow.sigview v(b)
+wv_select_list_item MainWindow.sigview v(c)
+wv_dclick_list_item MainWindow.sigview v(c)
+wv_select_list_item MainWindow.sigview v(d)
+wv_dclick_list_item MainWindow.sigview v(d)
+wv_select_list_item MainWindow.sigview v(0)
+wv_dclick_list_item MainWindow.sigview v(0)
+wv_close_window WaveView
+wv_select_dialog Confirmation
+cx_select_window {Console} 
+wv_press_button Confirmation.Ok
+#WaveView closed.
+cx_select_menu_item {Console} {} {File.Open Waveform File...} 
+cx_select_dialog {Console.Invoking WaveView} 
+#WaveView opened.
+wv_move_window WaveView 138 161
+wv_select_dialog FileDialog
+wv_set_text FileDialog.FileName {}
+wv_select_list_item FileDialog.FileList ps5.tr0
+wv_dclick_list_item FileDialog.FileList ps5.tr0
+wv_expand_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0/toplevel}
+wv_select_list_item MainWindow.sigview v(a)
+wv_dclick_list_item MainWindow.sigview v(a)
+wv_select_list_item MainWindow.sigview v(c)
+wv_dclick_list_item MainWindow.sigview v(c)
+wv_select_list_item MainWindow.sigview v(b)
+wv_dclick_list_item MainWindow.sigview v(b)
+wv_select_list_item MainWindow.sigview v(d)
+wv_dclick_list_item MainWindow.sigview v(d)
+wv_select_panel WV1.PANEL1:1 8.67052e-09 2.02632
+wv_drag_item_to WV1 727 94
+wv_zoom WV1.PANEL1:1 8.67052e-09 2.02632 8.56936e-09 -1.99737
+wv_tree_context_menu MainWindow.hierview {D0:ps5.tr0/toplevel}
+wv_select_context_menu_item {Close This File}
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+wv_select_menu_item {File} {Update Waveform Files}
+wv_close_window WaveView
+wv_select_dialog Confirmation
+cx_select_window {Console} 
+wv_press_button Confirmation.Ok
+#WaveView closed.
+cx_select_menu_item {Console} {} {File.Open Waveform File...} 
+cx_select_dialog {Console.Invoking WaveView} 
+#WaveView opened.
+wv_move_window WaveView 164 187
+wv_select_dialog FileDialog
+wv_set_text FileDialog.FileName {}
+wv_select_list_item FileDialog.FileList ps5.tr0
+wv_dclick_list_item FileDialog.FileList ps5.tr0
+wv_expand_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0/toplevel}
+wv_select_list_item MainWindow.sigview v(0)
+wv_drag_list_item MainWindow.sigview v(0)
+wv_select_list_item MainWindow.sigview v(b)
+wv_drag_list_item MainWindow.sigview v(b)
+wv_select_list_item MainWindow.sigview v(a)
+wv_drag_list_item MainWindow.sigview v(a)
+wv_drag_enter WV1
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(b)
+wv_drag_list_item MainWindow.sigview v(b)
+wv_drag_enter WV1
+wv_drag_to WV1 100 371
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(c)
+wv_drag_list_item MainWindow.sigview v(c)
+wv_drag_enter WV1
+wv_drag_to WV1 34 386
+wv_drop_on WV1
+wv_close_window WaveView
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+#WaveView closed.
+cx_select_menu_item {Console} {} {File.Open Waveform File...} 
+cx_select_dialog {Console.Invoking WaveView} 
+#WaveView opened.
+wv_move_window WaveView 190 213
+wv_select_dialog FileDialog
+wv_set_text FileDialog.FileName {}
+wv_select_list_item FileDialog.FileList ps5.tr0
+wv_dclick_list_item FileDialog.FileList ps5.tr0
+wv_expand_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0/toplevel}
+wv_select_list_item MainWindow.sigview v(0)
+wv_drag_list_item MainWindow.sigview v(0)
+wv_drag_enter WV1
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(a)
+wv_drag_list_item MainWindow.sigview v(a)
+wv_drag_enter WV1
+wv_drag_to WV1 26 352
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(b)
+wv_drag_list_item MainWindow.sigview v(b)
+wv_drag_enter WV1
+wv_drag_to WV1 26 356
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(c)
+wv_drag_list_item MainWindow.sigview v(c)
+wv_drag_enter WV1
+wv_drag_to WV1 23 375
+wv_drop_on WV1
+wv_close_window WaveView
+wv_select_dialog Confirmation
+cx_select_window {Console} 
+wv_press_button Confirmation.Ok
+#WaveView closed.
+cx_select_menu_item {Console} {} {File.Open Waveform File...} 
+cx_select_dialog {Console.Invoking WaveView} 
+#WaveView opened.
+wv_move_window WaveView 242 265
+wv_select_dialog FileDialog
+wv_set_text FileDialog.FileName {}
+wv_select_list_item FileDialog.FileList ps5.tr0
+wv_dclick_list_item FileDialog.FileList ps5.tr0
+wv_expand_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0/toplevel}
+wv_select_list_item MainWindow.sigview v(b)
+wv_drag_list_item MainWindow.sigview v(b)
+wv_drag_enter WV1
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(c)
+wv_drag_list_item MainWindow.sigview v(c)
+wv_drag_enter WV1
+wv_drag_to WV1 44 358
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(d)
+wv_drag_list_item MainWindow.sigview v(d)
+wv_drag_enter WV1
+wv_drag_to WV1 51 372
+wv_drop_on WV1
+wv_close_window WaveView
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+#WaveView closed.
+cx_select_menu_item {Console} {} {File.Open Waveform File...} 
+cx_select_dialog {Console.Invoking WaveView} 
+#WaveView opened.
+wv_move_window WaveView 86 109
+wv_select_dialog FileDialog
+wv_set_text FileDialog.FileName {}
+wv_select_list_item FileDialog.FileList ps5.tr0
+wv_press_button FileDialog.Ok
+wv_expand_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0/toplevel}
+wv_select_list_item MainWindow.sigview v(a)
+wv_drag_list_item MainWindow.sigview v(a)
+wv_drag_enter WV1
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(b)
+wv_drag_list_item MainWindow.sigview v(b)
+wv_drag_enter WV1
+wv_drag_to WV1 17 373
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(c)
+wv_drag_list_item MainWindow.sigview v(c)
+wv_drag_enter WV1
+wv_drag_to WV1 0 383
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(d)
+wv_drag_list_item MainWindow.sigview v(d)
+wv_drag_enter WV1
+wv_drag_to WV1 1 394
+wv_drop_on WV1
+wv_close_window WaveView
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+#WaveView closed.
+cx_select_window {Console} 
+cx_select_toolbar_item {Console} {} {Import a New Design} 
+cx_select_dialog {Import Design} 
+cx_press_button {Import Design} {} {file_browser} 
+cx_select_dialog {Load Netlist File} 
+cx_close_dialog {Load Netlist File} 
+cx_press_button {Import Design} {} {import.Cancel} 
+cx_select_window {Console} 
+cx_select_menu_item {Console} {} {File.Open Waveform File...} 
+cx_select_dialog {Console.Invoking WaveView} 
+#WaveView opened.
+wv_move_window WaveView 190 213
+wv_select_dialog FileDialog
+wv_set_text FileDialog.FileName {}
+wv_select_list_item FileDialog.FileList ps5.tr0
+wv_press_button FileDialog.Ok
+wv_expand_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0}
+wv_select_tree_item MainWindow.hierview {D0:ps5.tr0/toplevel}
+wv_select_list_item MainWindow.sigview v(a)
+wv_drag_list_item MainWindow.sigview v(a)
+wv_drag_enter WV1
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(b)
+wv_drag_list_item MainWindow.sigview v(b)
+wv_drag_enter WV1
+wv_drag_to WV1 26 352
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(c)
+wv_drag_list_item MainWindow.sigview v(c)
+wv_drag_enter WV1
+wv_drag_to WV1 71 386
+wv_drop_on WV1
+wv_select_list_item MainWindow.sigview v(d)
+wv_drag_list_item MainWindow.sigview v(d)
+wv_drag_enter WV1
+wv_drag_to WV1 278 351
+wv_drop_on WV1
+wv_close_window WaveView
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+#WaveView closed.
+cx_select_window {Console} 
+cx_close_window {Console} 
+cx_select_dialog {Console.Confirmation} 
+#cx_press_button {Console.Confirmation} {} {Confirmation.OK} 
+#Custom WaveView ADV closed.

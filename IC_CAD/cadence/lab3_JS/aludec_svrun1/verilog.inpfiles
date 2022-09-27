@@ -1,0 +1,20 @@
+// Verilog HDL and netlist files of
+// "controller_JS aludec schematic"
+
+// Netlisted models
+
+// netlist file - controller_JS, nor2_1x, cmos_sch.
+ihnl/cds0/netlist.sv
+// netlist file - controller_JS, inv_1x, cmos_sch.
+ihnl/cds1/netlist.sv
+// netlist file - controller_JS, nand2_1x, cmos_sch.
+ihnl/cds2/netlist.sv
+// netlist file - controller_JS, aludec, schematic.
+ihnl/cds3/netlist.sv
+
+
+// End HDL models
+
+// globals file 
+hdlFilesDir/cds_globals.v
+

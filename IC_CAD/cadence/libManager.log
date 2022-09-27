@@ -1,0 +1,20 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 09/24/2018 21:00 (ip-172-18-22-224) $
+\o Sub version:		sub-version  p015 
+\o Arguments:		-mpssession virtuoso46185 -mpshost Tera.Eng.HMC.Edu 
+\o Working Directory:	Tera.Eng.HMC.Edu:/home/jschallert/IC_CAD/cadence
+\o 64-bit offsets
+\o changeWorkingDir("/home/jschallert/IC_CAD/cadence") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\a nrSetCurrentWindow(cdsLibManager)
+\o Qt version: 		5.9.1
+\o Log file is "/home/jschallert/IC_CAD/cadence/libManager.log".
+\o Opening libManager window.
+\a nrResizeWindow(cdsLibManager list(3334 178 500 654))
+\o Loading customization file "./cdsLibMgr.il"
+\o Loading NCSU Library Manager customizations...done.
+\o Library Manager customization server connected.
+\w Warning: The directory: '/courses/e158/20/lib/oa/HMC_Sheets_8ths' does not exist
+\w 	but was defined in libFile '/home/jschallert/IC_CAD/cadence/cds.lib' for Lib 'HMC_Sheets_8ths'.
+\a nrResizeWindow(cdsLibManager list(1239 147 500 654))

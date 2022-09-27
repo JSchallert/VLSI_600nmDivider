@@ -1,0 +1,4 @@
+("controller_JS" "nand2_1x" "cmos_sch") (("I7" ("controller_JS" "aludec" "schematic")) ("I8" ("controller_JS" "aludec" "schematic")) ("I10" ("controller_JS" "aludec" "schematic")) ("I11" ("controller_JS" "aludec" "schematic")))
+("controller_JS" "nor2_1x" "cmos_sch") (("I0" ("controller_JS" "aludec" "schematic")) ("I1" ("controller_JS" "aludec" "schematic")) ("I12" ("controller_JS" "aludec" "schematic")) ("I9" ("controller_JS" "aludec" "schematic")))
+("controller_JS" "aludec" "schematic") nil
+("controller_JS" "inv_1x" "cmos_sch") (("I2" ("controller_JS" "aludec" "schematic")) ("I3" ("controller_JS" "aludec" "schematic")) ("I5" ("controller_JS" "aludec" "schematic")))

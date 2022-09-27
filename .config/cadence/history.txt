@@ -1,0 +1,5 @@
+Mon Feb 24 05:58:31 2020~@$^*/cad/cds/IC618/doc/vlehelp/vlehelpTOC.html#~@$^*Virtuoso Layout Suite L User Guide <sup><font size="1" color="#A9A9A9">[ IC6.18 ]</font></sup>
+Mon Feb 24 05:58:30 2020~@$^*/cad/cds/IC618/doc/vlehelp/vlehelpTOC.html#~@$^*Layout <sup><font size="1" color="#A9A9A9">[ IC6.18 ]</font></sup>
+Mon Feb 24 05:56:09 2020~@$^*/cad/cds/IC618/doc/vlehelp/chap6.html#createInstance~@$^*Creating Instances <sup><font size="1" color="#A9A9A9">[ IC6.18 ]</font></sup>
+Mon Feb 24 05:56:07 2020~@$^*/cad/cds/IC618/doc/vlehelp/chap6.html#createInstance~@$^*Instance <sup><font size="1" color="#A9A9A9">[ IC6.18 ]</font></sup>
+Mon Feb 3 05:35:30 2020~@$^*/cad/cds/IC618/doc/comphelp/chap7.html#983611~@$^*Snapping to Grid <sup><font size="1" color="#A9A9A9">[ IC6.18 ]</font></sup>

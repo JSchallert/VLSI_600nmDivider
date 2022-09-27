@@ -1,0 +1,4 @@
+inv I0 ( y, net7);
+nand2 I1 ( net7, a, b);
+
+endmodule

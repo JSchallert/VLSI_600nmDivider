@@ -1,0 +1,102 @@
+@(#)$CDS: LVS version 6.1.8-64b 10/01/2018 19:50 (ip-172-18-22-57) $
+
+Command line: /cad/cds/IC618/tools.lnx86/dfII/bin/64bit/LVS -dir /home/jschallert/IC_CAD/cadence/lab3_JS/LVS -l -s -x/home/jschallert/IC_CAD/cadence/lab3_JS/LVS/xref.out -f -t /home/jschallert/IC_CAD/cadence/lab3_JS/LVS/layout /home/jschallert/IC_CAD/cadence/lab3_JS/LVS/schematic
+Like matching is enabled.
+Net swapping is enabled.
+Creating cross reference file /home/jschallert/IC_CAD/cadence/lab3_JS/LVS/xref.out.
+Fixed device checking is enabled.
+Using terminal names as correspondence points.
+Compiling Diva LVS rules...
+
+    Net-list summary for /home/jschallert/IC_CAD/cadence/lab3_JS/LVS/layout/netlist
+       count
+        28              nets
+        11              terminals
+        19              pmos
+        19              nmos
+
+    Net-list summary for /home/jschallert/IC_CAD/cadence/lab3_JS/LVS/schematic/netlist
+       count
+        27              nets
+        11              terminals
+        19              pmos
+        19              nmos
+
+
+    Terminal correspondence points
+    N26       N14       alucontrol<0>
+    N24       N6        alucontrol<1>
+    N22       N5        alucontrol<2>
+    N25       N16       aluop<0>
+    N23       N17       aluop<1>
+    N20       N11       funct<0>
+    N19       N10       funct<1>
+    N17       N8        funct<2>
+    N27       N3        funct<3>
+    N18       N0        gnd!
+    N21       N1        vdd!
+
+Devices in the rules but not in the netlist:
+        cap nfet pfet nmos4 pmos4
+
+1 net-list ambiguity was resolved by random selection.
+
+The net-lists failed to match.
+
+                             layout  schematic
+                                instances
+        un-matched              0       0      
+        rewired                 0       0      
+        size errors             0       0      
+        pruned                  0       0      
+        active                  38      38     
+        total                   38      38     
+
+                                  nets
+        un-matched              0       0      
+        merged                  1       0      
+        pruned                  0       0      
+        active                  28      27     
+        total                   28      27     
+
+                                terminals
+        un-matched              0       0      
+        matched but
+        different type          0       0      
+        total                   11      11     
+
+
+Probe files from /home/jschallert/IC_CAD/cadence/lab3_JS/LVS/schematic
+
+devbad.out:
+
+netbad.out:
+
+mergenet.out:
+
+termbad.out:
+
+prunenet.out:
+
+prunedev.out:
+
+audit.out:
+
+
+Probe files from /home/jschallert/IC_CAD/cadence/lab3_JS/LVS/layout
+
+devbad.out:
+
+netbad.out:
+
+mergenet.out:
+N /18
+? Net /18 merged with /20
+
+termbad.out:
+
+prunenet.out:
+
+prunedev.out:
+
+audit.out:

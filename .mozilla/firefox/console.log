@@ -1,0 +1,278 @@
+
+*** Console log: 2020-03-08 22:04:46 ***
+1583719480855	addons.xpi	WARN	Add-on langpack-lij@firefox.mozilla.org is not correctly signed.
+1583719480907	addons.xpi	WARN	Add-on langpack-el@firefox.mozilla.org is not correctly signed.
+1583719480908	addons.xpi	WARN	Add-on langpack-el@firefox.mozilla.org is not correctly signed.
+1583719480960	addons.xpi	WARN	Add-on langpack-gd@firefox.mozilla.org is not correctly signed.
+1583719480960	addons.xpi	WARN	Add-on langpack-gd@firefox.mozilla.org is not correctly signed.
+1583719481010	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1583719481010	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1583719481058	addons.xpi	WARN	Add-on langpack-ga-IE@firefox.mozilla.org is not correctly signed.
+1583719481059	addons.xpi	WARN	Add-on langpack-ga-IE@firefox.mozilla.org is not correctly signed.
+1583719481059	addons.xpi	WARN	File entry /usr/lib64/firefox/distribution/extensions/langpack-ga@firefox.mozilla.org.xpi contains an add-on with an incorrect ID
+1583719481083	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1583719481083	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1583719481136	addons.xpi	WARN	Add-on langpack-lt@firefox.mozilla.org is not correctly signed.
+1583719481136	addons.xpi	WARN	Add-on langpack-lt@firefox.mozilla.org is not correctly signed.
+1583719481183	addons.xpi	WARN	Add-on langpack-eo@firefox.mozilla.org is not correctly signed.
+1583719481184	addons.xpi	WARN	Add-on langpack-eo@firefox.mozilla.org is not correctly signed.
+1583719481232	addons.xpi	WARN	Add-on langpack-gl@firefox.mozilla.org is not correctly signed.
+1583719481232	addons.xpi	WARN	Add-on langpack-gl@firefox.mozilla.org is not correctly signed.
+1583719481278	addons.xpi	WARN	Add-on langpack-es-AR@firefox.mozilla.org is not correctly signed.
+1583719481278	addons.xpi	WARN	Add-on langpack-es-AR@firefox.mozilla.org is not correctly signed.
+1583719481329	addons.xpi	WARN	Add-on langpack-es-CL@firefox.mozilla.org is not correctly signed.
+1583719481329	addons.xpi	WARN	Add-on langpack-es-CL@firefox.mozilla.org is not correctly signed.
+1583719481382	addons.xpi	WARN	Add-on langpack-gn@firefox.mozilla.org is not correctly signed.
+1583719481382	addons.xpi	WARN	Add-on langpack-gn@firefox.mozilla.org is not correctly signed.
+1583719481436	addons.xpi	WARN	Add-on langpack-es-ES@firefox.mozilla.org is not correctly signed.
+1583719481436	addons.xpi	WARN	Add-on langpack-es-ES@firefox.mozilla.org is not correctly signed.
+1583719481498	addons.xpi	WARN	Add-on langpack-gu-IN@firefox.mozilla.org is not correctly signed.
+1583719481498	addons.xpi	WARN	Add-on langpack-gu-IN@firefox.mozilla.org is not correctly signed.
+1583719481559	addons.xpi	WARN	Add-on langpack-es-MX@firefox.mozilla.org is not correctly signed.
+1583719481559	addons.xpi	WARN	Add-on langpack-es-MX@firefox.mozilla.org is not correctly signed.
+1583719481615	addons.xpi	WARN	Add-on langpack-lv@firefox.mozilla.org is not correctly signed.
+1583719481615	addons.xpi	WARN	Add-on langpack-lv@firefox.mozilla.org is not correctly signed.
+1583719481671	addons.xpi	WARN	Add-on langpack-es-AR@firefox.mozilla.org is not correctly signed.
+1583719481671	addons.xpi	WARN	Add-on langpack-es-AR@firefox.mozilla.org is not correctly signed.
+1583719481671	addons.xpi	WARN	File entry /usr/lib64/firefox/distribution/extensions/langpack-es@firefox.mozilla.org.xpi contains an add-on with an incorrect ID
+1583719481698	addons.xpi	WARN	Add-on langpack-mai@firefox.mozilla.org is not correctly signed.
+1583719481699	addons.xpi	WARN	Add-on langpack-mai@firefox.mozilla.org is not correctly signed.
+1583719481755	addons.xpi	WARN	Add-on langpack-et@firefox.mozilla.org is not correctly signed.
+1583719481755	addons.xpi	WARN	Add-on langpack-et@firefox.mozilla.org is not correctly signed.
+1583719481820	addons.xpi	WARN	Add-on langpack-mk@firefox.mozilla.org is not correctly signed.
+1583719481820	addons.xpi	WARN	Add-on langpack-mk@firefox.mozilla.org is not correctly signed.
+1583719481867	addons.xpi	WARN	Add-on langpack-eu@firefox.mozilla.org is not correctly signed.
+1583719481867	addons.xpi	WARN	Add-on langpack-eu@firefox.mozilla.org is not correctly signed.
+1583719481915	addons.xpi	WARN	Add-on langpack-ml@firefox.mozilla.org is not correctly signed.
+1583719481915	addons.xpi	WARN	Add-on langpack-ml@firefox.mozilla.org is not correctly signed.
+1583719481963	addons.xpi	WARN	Add-on langpack-fa@firefox.mozilla.org is not correctly signed.
+1583719481963	addons.xpi	WARN	Add-on langpack-fa@firefox.mozilla.org is not correctly signed.
+1583719482010	addons.xpi	WARN	Add-on langpack-hi-IN@firefox.mozilla.org is not correctly signed.
+1583719482010	addons.xpi	WARN	Add-on langpack-hi-IN@firefox.mozilla.org is not correctly signed.
+1583719482011	addons.xpi	WARN	File entry /usr/lib64/firefox/distribution/extensions/langpack-hi@firefox.mozilla.org.xpi contains an add-on with an incorrect ID
+1583719482034	addons.xpi	WARN	Add-on langpack-mr@firefox.mozilla.org is not correctly signed.
+1583719482034	addons.xpi	WARN	Add-on langpack-mr@firefox.mozilla.org is not correctly signed.
+1583719482087	addons.xpi	WARN	Add-on langpack-hr@firefox.mozilla.org is not correctly signed.
+1583719482087	addons.xpi	WARN	Add-on langpack-hr@firefox.mozilla.org is not correctly signed.
+1583719482135	addons.xpi	WARN	Add-on langpack-hy-AM@firefox.mozilla.org is not correctly signed.
+1583719482135	addons.xpi	WARN	Add-on langpack-hy-AM@firefox.mozilla.org is not correctly signed.
+1583719482185	addons.xpi	WARN	Add-on langpack-hsb@firefox.mozilla.org is not correctly signed.
+1583719482185	addons.xpi	WARN	Add-on langpack-hsb@firefox.mozilla.org is not correctly signed.
+1583719482232	addons.xpi	WARN	Add-on langpack-ms@firefox.mozilla.org is not correctly signed.
+1583719482232	addons.xpi	WARN	Add-on langpack-ms@firefox.mozilla.org is not correctly signed.
+1583719482286	addons.xpi	WARN	Add-on langpack-hu@firefox.mozilla.org is not correctly signed.
+1583719482286	addons.xpi	WARN	Add-on langpack-hu@firefox.mozilla.org is not correctly signed.
+1583719482333	addons.xpi	WARN	Add-on langpack-my@firefox.mozilla.org is not correctly signed.
+1583719482333	addons.xpi	WARN	Add-on langpack-my@firefox.mozilla.org is not correctly signed.
+1583719482376	addons.xpi	WARN	Add-on langpack-nb-NO@firefox.mozilla.org is not correctly signed.
+1583719482377	addons.xpi	WARN	Add-on langpack-nb-NO@firefox.mozilla.org is not correctly signed.
+1583719482423	addons.xpi	WARN	Add-on langpack-nb-NO@firefox.mozilla.org is not correctly signed.
+1583719482423	addons.xpi	WARN	Add-on langpack-nb-NO@firefox.mozilla.org is not correctly signed.
+1583719482423	addons.xpi	WARN	File entry /usr/lib64/firefox/distribution/extensions/langpack-nb@firefox.mozilla.org.xpi contains an add-on with an incorrect ID
+1583719482443	addons.xpi	WARN	Add-on langpack-ne-NP@firefox.mozilla.org is not correctly signed.
+1583719482443	addons.xpi	WARN	Add-on langpack-ne-NP@firefox.mozilla.org is not correctly signed.
+1583719482489	addons.xpi	WARN	Add-on langpack-nl@firefox.mozilla.org is not correctly signed.
+1583719482489	addons.xpi	WARN	Add-on langpack-nl@firefox.mozilla.org is not correctly signed.
+1583719482536	addons.xpi	WARN	Add-on langpack-nn-NO@firefox.mozilla.org is not correctly signed.
+1583719482536	addons.xpi	WARN	Add-on langpack-nn-NO@firefox.mozilla.org is not correctly signed.
+1583719482582	addons.xpi	WARN	Add-on langpack-nn-NO@firefox.mozilla.org is not correctly signed.
+1583719482582	addons.xpi	WARN	Add-on langpack-nn-NO@firefox.mozilla.org is not correctly signed.
+1583719482583	addons.xpi	WARN	File entry /usr/lib64/firefox/distribution/extensions/langpack-nn@firefox.mozilla.org.xpi contains an add-on with an incorrect ID
+1583719482605	addons.xpi	WARN	Add-on langpack-oc@firefox.mozilla.org is not correctly signed.
+1583719482606	addons.xpi	WARN	Add-on langpack-oc@firefox.mozilla.org is not correctly signed.
+1583719482653	addons.xpi	WARN	Add-on langpack-or@firefox.mozilla.org is not correctly signed.
+1583719482655	addons.xpi	WARN	Add-on langpack-or@firefox.mozilla.org is not correctly signed.
+1583719482710	addons.xpi	WARN	Add-on langpack-pa-IN@firefox.mozilla.org is not correctly signed.
+1583719482710	addons.xpi	WARN	Add-on langpack-pa-IN@firefox.mozilla.org is not correctly signed.
+1583719482759	addons.xpi	WARN	Add-on langpack-pa-IN@firefox.mozilla.org is not correctly signed.
+1583719482759	addons.xpi	WARN	Add-on langpack-pa-IN@firefox.mozilla.org is not correctly signed.
+1583719482760	addons.xpi	WARN	File entry /usr/lib64/firefox/distribution/extensions/langpack-pa@firefox.mozilla.org.xpi contains an add-on with an incorrect ID
+1583719482784	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not correctly signed.
+1583719482784	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not correctly signed.
+1583719482834	addons.xpi	WARN	Add-on langpack-pt-BR@firefox.mozilla.org is not correctly signed.
+1583719482834	addons.xpi	WARN	Add-on langpack-pt-BR@firefox.mozilla.org is not correctly signed.
+1583719482885	addons.xpi	WARN	Add-on langpack-pt-PT@firefox.mozilla.org is not correctly signed.
+1583719482886	addons.xpi	WARN	Add-on langpack-pt-PT@firefox.mozilla.org is not correctly signed.
+1583719482937	addons.xpi	WARN	Add-on langpack-pt-PT@firefox.mozilla.org is not correctly signed.
+1583719482937	addons.xpi	WARN	Add-on langpack-pt-PT@firefox.mozilla.org is not correctly signed.
+1583719482937	addons.xpi	WARN	File entry /usr/lib64/firefox/distribution/extensions/langpack-pt@firefox.mozilla.org.xpi contains an add-on with an incorrect ID
+1583719482962	addons.xpi	WARN	Add-on langpack-rm@firefox.mozilla.org is not correctly signed.
+1583719482962	addons.xpi	WARN	Add-on langpack-rm@firefox.mozilla.org is not correctly signed.
+1583719483011	addons.xpi	WARN	Add-on langpack-ro@firefox.mozilla.org is not correctly signed.
+1583719483011	addons.xpi	WARN	Add-on langpack-ro@firefox.mozilla.org is not correctly signed.
+1583719483061	addons.xpi	WARN	Add-on langpack-ru@firefox.mozilla.org is not correctly signed.
+1583719483061	addons.xpi	WARN	Add-on langpack-ru@firefox.mozilla.org is not correctly signed.
+1583719483112	addons.xpi	WARN	Add-on langpack-si@firefox.mozilla.org is not correctly signed.
+1583719483112	addons.xpi	WARN	Add-on langpack-si@firefox.mozilla.org is not correctly signed.
+1583719483162	addons.xpi	WARN	Add-on langpack-sk@firefox.mozilla.org is not correctly signed.
+1583719483162	addons.xpi	WARN	Add-on langpack-sk@firefox.mozilla.org is not correctly signed.
+1583719483218	addons.xpi	WARN	Add-on langpack-sl@firefox.mozilla.org is not correctly signed.
+1583719483219	addons.xpi	WARN	Add-on langpack-sl@firefox.mozilla.org is not correctly signed.
+1583719483271	addons.xpi	WARN	Add-on langpack-son@firefox.mozilla.org is not correctly signed.
+1583719483271	addons.xpi	WARN	Add-on langpack-son@firefox.mozilla.org is not correctly signed.
+1583719483321	addons.xpi	WARN	Add-on langpack-sq@firefox.mozilla.org is not correctly signed.
+1583719483321	addons.xpi	WARN	Add-on langpack-sq@firefox.mozilla.org is not correctly signed.
+1583719483372	addons.xpi	WARN	Add-on langpack-sr@firefox.mozilla.org is not correctly signed.
+1583719483372	addons.xpi	WARN	Add-on langpack-sr@firefox.mozilla.org is not correctly signed.
+1583719483424	addons.xpi	WARN	Add-on langpack-sv-SE@firefox.mozilla.org is not correctly signed.
+1583719483424	addons.xpi	WARN	Add-on langpack-sv-SE@firefox.mozilla.org is not correctly signed.
+1583719483483	addons.xpi	WARN	Add-on langpack-sv-SE@firefox.mozilla.org is not correctly signed.
+1583719483483	addons.xpi	WARN	Add-on langpack-sv-SE@firefox.mozilla.org is not correctly signed.
+1583719483484	addons.xpi	WARN	File entry /usr/lib64/firefox/distribution/extensions/langpack-sv@firefox.mozilla.org.xpi contains an add-on with an incorrect ID
+1583719483514	addons.xpi	WARN	Add-on langpack-ta@firefox.mozilla.org is not correctly signed.
+1583719483515	addons.xpi	WARN	Add-on langpack-ta@firefox.mozilla.org is not correctly signed.
+1583719483569	addons.xpi	WARN	Add-on langpack-te@firefox.mozilla.org is not correctly signed.
+1583719483569	addons.xpi	WARN	Add-on langpack-te@firefox.mozilla.org is not correctly signed.
+1583719483621	addons.xpi	WARN	Add-on langpack-th@firefox.mozilla.org is not correctly signed.
+1583719483622	addons.xpi	WARN	Add-on langpack-th@firefox.mozilla.org is not correctly signed.
+1583719483673	addons.xpi	WARN	Add-on langpack-tr@firefox.mozilla.org is not correctly signed.
+1583719483673	addons.xpi	WARN	Add-on langpack-tr@firefox.mozilla.org is not correctly signed.
+1583719483724	addons.xpi	WARN	Add-on langpack-uk@firefox.mozilla.org is not correctly signed.
+1583719483724	addons.xpi	WARN	Add-on langpack-uk@firefox.mozilla.org is not correctly signed.
+1583719483774	addons.xpi	WARN	Add-on langpack-ur@firefox.mozilla.org is not correctly signed.
+1583719483774	addons.xpi	WARN	Add-on langpack-ur@firefox.mozilla.org is not correctly signed.
+1583719483833	addons.xpi	WARN	Add-on langpack-uz@firefox.mozilla.org is not correctly signed.
+1583719483833	addons.xpi	WARN	Add-on langpack-uz@firefox.mozilla.org is not correctly signed.
+1583719483884	addons.xpi	WARN	Add-on langpack-vi@firefox.mozilla.org is not correctly signed.
+1583719483884	addons.xpi	WARN	Add-on langpack-vi@firefox.mozilla.org is not correctly signed.
+1583719483938	addons.xpi	WARN	Add-on langpack-xh@firefox.mozilla.org is not correctly signed.
+1583719483938	addons.xpi	WARN	Add-on langpack-xh@firefox.mozilla.org is not correctly signed.
+1583719483998	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not correctly signed.
+1583719483998	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not correctly signed.
+1583719484047	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not correctly signed.
+1583719484047	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not correctly signed.
+1583719484096	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not correctly signed.
+1583719484096	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not correctly signed.
+1583719484097	addons.xpi	WARN	File entry /usr/lib64/firefox/distribution/extensions/langpack-zh@firefox.mozilla.org.xpi contains an add-on with an incorrect ID
+1583719484102	addons.xpi	WARN	Add-on langpack-ff@firefox.mozilla.org is not correctly signed.
+1583719484105	addons.xpi	WARN	Add-on langpack-ach@firefox.mozilla.org is not correctly signed.
+1583719484106	addons.xpi	WARN	Add-on langpack-af@firefox.mozilla.org is not correctly signed.
+1583719484107	addons.xpi	WARN	Add-on langpack-he@firefox.mozilla.org is not correctly signed.
+1583719484108	addons.xpi	WARN	Add-on langpack-an@firefox.mozilla.org is not correctly signed.
+1583719484111	addons.xpi	WARN	Add-on langpack-hi-IN@firefox.mozilla.org is not correctly signed.
+1583719484112	addons.xpi	WARN	Add-on langpack-ar@firefox.mozilla.org is not correctly signed.
+1583719484113	addons.xpi	WARN	Add-on langpack-as@firefox.mozilla.org is not correctly signed.
+1583719484113	addons.xpi	WARN	Add-on langpack-fi@firefox.mozilla.org is not correctly signed.
+1583719484114	addons.xpi	WARN	Add-on langpack-ast@firefox.mozilla.org is not correctly signed.
+1583719484115	addons.xpi	WARN	Add-on langpack-ia@firefox.mozilla.org is not correctly signed.
+1583719484117	addons.xpi	WARN	Add-on langpack-az@firefox.mozilla.org is not correctly signed.
+1583719484118	addons.xpi	WARN	Add-on langpack-id@firefox.mozilla.org is not correctly signed.
+1583719484119	addons.xpi	WARN	Add-on langpack-be@firefox.mozilla.org is not correctly signed.
+1583719484119	addons.xpi	WARN	Add-on langpack-is@firefox.mozilla.org is not correctly signed.
+1583719484120	addons.xpi	WARN	Add-on langpack-bg@firefox.mozilla.org is not correctly signed.
+1583719484121	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not correctly signed.
+1583719484121	addons.xpi	WARN	Add-on langpack-bn-BD@firefox.mozilla.org is not correctly signed.
+1583719484122	addons.xpi	WARN	Add-on langpack-fy-NL@firefox.mozilla.org is not correctly signed.
+1583719484123	addons.xpi	WARN	Add-on langpack-bn-IN@firefox.mozilla.org is not correctly signed.
+1583719484123	addons.xpi	WARN	Add-on langpack-it@firefox.mozilla.org is not correctly signed.
+1583719484124	addons.xpi	WARN	Add-on langpack-ja@firefox.mozilla.org is not correctly signed.
+1583719484125	addons.xpi	WARN	Add-on langpack-br@firefox.mozilla.org is not correctly signed.
+1583719484127	addons.xpi	WARN	Add-on langpack-ka@firefox.mozilla.org is not correctly signed.
+1583719484128	addons.xpi	WARN	Add-on langpack-bs@firefox.mozilla.org is not correctly signed.
+1583719484128	addons.xpi	WARN	Add-on langpack-kab@firefox.mozilla.org is not correctly signed.
+1583719484129	addons.xpi	WARN	Add-on langpack-ca@firefox.mozilla.org is not correctly signed.
+1583719484129	addons.xpi	WARN	Add-on langpack-cak@firefox.mozilla.org is not correctly signed.
+1583719484130	addons.xpi	WARN	Add-on langpack-kk@firefox.mozilla.org is not correctly signed.
+1583719484130	addons.xpi	WARN	Add-on langpack-cs@firefox.mozilla.org is not correctly signed.
+1583719484131	addons.xpi	WARN	Add-on langpack-km@firefox.mozilla.org is not correctly signed.
+1583719484131	addons.xpi	WARN	Add-on langpack-cy@firefox.mozilla.org is not correctly signed.
+1583719484132	addons.xpi	WARN	Add-on langpack-kn@firefox.mozilla.org is not correctly signed.
+1583719484133	addons.xpi	WARN	Add-on langpack-da@firefox.mozilla.org is not correctly signed.
+1583719484133	addons.xpi	WARN	Add-on langpack-ko@firefox.mozilla.org is not correctly signed.
+1583719484134	addons.xpi	WARN	Add-on langpack-de@firefox.mozilla.org is not correctly signed.
+1583719484135	addons.xpi	WARN	Add-on langpack-ga-IE@firefox.mozilla.org is not correctly signed.
+1583719484135	addons.xpi	WARN	Add-on langpack-dsb@firefox.mozilla.org is not correctly signed.
+1583719484136	addons.xpi	WARN	Add-on langpack-lij@firefox.mozilla.org is not correctly signed.
+1583719484136	addons.xpi	WARN	Add-on langpack-el@firefox.mozilla.org is not correctly signed.
+1583719484137	addons.xpi	WARN	Add-on langpack-gd@firefox.mozilla.org is not correctly signed.
+1583719484137	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1583719484138	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1583719484139	addons.xpi	WARN	Add-on langpack-lt@firefox.mozilla.org is not correctly signed.
+1583719484139	addons.xpi	WARN	Add-on langpack-eo@firefox.mozilla.org is not correctly signed.
+1583719484140	addons.xpi	WARN	Add-on langpack-gl@firefox.mozilla.org is not correctly signed.
+1583719484141	addons.xpi	WARN	Add-on langpack-es-AR@firefox.mozilla.org is not correctly signed.
+1583719484142	addons.xpi	WARN	Add-on langpack-es-CL@firefox.mozilla.org is not correctly signed.
+1583719484143	addons.xpi	WARN	Add-on langpack-gn@firefox.mozilla.org is not correctly signed.
+1583719484143	addons.xpi	WARN	Add-on langpack-es-ES@firefox.mozilla.org is not correctly signed.
+1583719484145	addons.xpi	WARN	Add-on langpack-gu-IN@firefox.mozilla.org is not correctly signed.
+1583719484146	addons.xpi	WARN	Add-on langpack-es-MX@firefox.mozilla.org is not correctly signed.
+1583719484146	addons.xpi	WARN	Add-on langpack-lv@firefox.mozilla.org is not correctly signed.
+1583719484147	addons.xpi	WARN	Add-on langpack-mai@firefox.mozilla.org is not correctly signed.
+1583719484147	addons.xpi	WARN	Add-on langpack-et@firefox.mozilla.org is not correctly signed.
+1583719484148	addons.xpi	WARN	Add-on langpack-mk@firefox.mozilla.org is not correctly signed.
+1583719484148	addons.xpi	WARN	Add-on langpack-eu@firefox.mozilla.org is not correctly signed.
+1583719484149	addons.xpi	WARN	Add-on langpack-ml@firefox.mozilla.org is not correctly signed.
+1583719484150	addons.xpi	WARN	Add-on langpack-fa@firefox.mozilla.org is not correctly signed.
+1583719484150	addons.xpi	WARN	Add-on langpack-mr@firefox.mozilla.org is not correctly signed.
+1583719484151	addons.xpi	WARN	Add-on langpack-hr@firefox.mozilla.org is not correctly signed.
+1583719484151	addons.xpi	WARN	Add-on langpack-hy-AM@firefox.mozilla.org is not correctly signed.
+1583719484152	addons.xpi	WARN	Add-on langpack-hsb@firefox.mozilla.org is not correctly signed.
+1583719484152	addons.xpi	WARN	Add-on langpack-ms@firefox.mozilla.org is not correctly signed.
+1583719484153	addons.xpi	WARN	Add-on langpack-hu@firefox.mozilla.org is not correctly signed.
+1583719484153	addons.xpi	WARN	Add-on langpack-my@firefox.mozilla.org is not correctly signed.
+1583719484154	addons.xpi	WARN	Add-on langpack-nb-NO@firefox.mozilla.org is not correctly signed.
+1583719484155	addons.xpi	WARN	Add-on langpack-ne-NP@firefox.mozilla.org is not correctly signed.
+1583719484155	addons.xpi	WARN	Add-on langpack-nl@firefox.mozilla.org is not correctly signed.
+1583719484156	addons.xpi	WARN	Add-on langpack-nn-NO@firefox.mozilla.org is not correctly signed.
+1583719484156	addons.xpi	WARN	Add-on langpack-oc@firefox.mozilla.org is not correctly signed.
+1583719484157	addons.xpi	WARN	Add-on langpack-or@firefox.mozilla.org is not correctly signed.
+1583719484157	addons.xpi	WARN	Add-on langpack-pa-IN@firefox.mozilla.org is not correctly signed.
+1583719484158	addons.xpi	WARN	Add-on langpack-pl@firefox.mozilla.org is not correctly signed.
+1583719484158	addons.xpi	WARN	Add-on langpack-pt-BR@firefox.mozilla.org is not correctly signed.
+1583719484159	addons.xpi	WARN	Add-on langpack-pt-PT@firefox.mozilla.org is not correctly signed.
+1583719484159	addons.xpi	WARN	Add-on langpack-rm@firefox.mozilla.org is not correctly signed.
+1583719484160	addons.xpi	WARN	Add-on langpack-ro@firefox.mozilla.org is not correctly signed.
+1583719484160	addons.xpi	WARN	Add-on langpack-ru@firefox.mozilla.org is not correctly signed.
+1583719484161	addons.xpi	WARN	Add-on langpack-si@firefox.mozilla.org is not correctly signed.
+1583719484161	addons.xpi	WARN	Add-on langpack-sk@firefox.mozilla.org is not correctly signed.
+1583719484162	addons.xpi	WARN	Add-on langpack-sl@firefox.mozilla.org is not correctly signed.
+1583719484162	addons.xpi	WARN	Add-on langpack-son@firefox.mozilla.org is not correctly signed.
+1583719484163	addons.xpi	WARN	Add-on langpack-sq@firefox.mozilla.org is not correctly signed.
+1583719484163	addons.xpi	WARN	Add-on langpack-sr@firefox.mozilla.org is not correctly signed.
+1583719484164	addons.xpi	WARN	Add-on langpack-sv-SE@firefox.mozilla.org is not correctly signed.
+1583719484165	addons.xpi	WARN	Add-on langpack-ta@firefox.mozilla.org is not correctly signed.
+1583719484165	addons.xpi	WARN	Add-on langpack-te@firefox.mozilla.org is not correctly signed.
+1583719484166	addons.xpi	WARN	Add-on langpack-th@firefox.mozilla.org is not correctly signed.
+1583719484167	addons.xpi	WARN	Add-on langpack-tr@firefox.mozilla.org is not correctly signed.
+1583719484167	addons.xpi	WARN	Add-on langpack-uk@firefox.mozilla.org is not correctly signed.
+1583719484168	addons.xpi	WARN	Add-on langpack-ur@firefox.mozilla.org is not correctly signed.
+1583719484168	addons.xpi	WARN	Add-on langpack-uz@firefox.mozilla.org is not correctly signed.
+1583719484169	addons.xpi	WARN	Add-on langpack-vi@firefox.mozilla.org is not correctly signed.
+1583719484169	addons.xpi	WARN	Add-on langpack-xh@firefox.mozilla.org is not correctly signed.
+1583719484170	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not correctly signed.
+1583719484170	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not correctly signed.
+1583719484209	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: loadManifestFromFile :: line 925"  data: no] Stack trace: loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:925
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:940
+addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1167
+processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1523
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3304
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2196
+callProvider()@resource://gre/modules/AddonManager.jsm:253
+_startProvider()@resource://gre/modules/AddonManager.jsm:728
+startup()@resource://gre/modules/AddonManager.jsm:892
+startup()@resource://gre/modules/AddonManager.jsm:2976
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:63
+1583719484212	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+[JavaScript Error: "uncaught exception: 2147500036"]
+[JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 159}]
+get data@resource://gre/modules/JSONFile.jsm:159:13
+_get@resource://gre/modules/ExtensionPermissions.jsm:63:9
+observe@resource://gre/modules/AsyncShutdown.jsm:541:9
+
+[JavaScript Error: "Failed to import bookmarks from chrome://browser/locale/bookmarks.html: TypeError: connection not specified or invalid." {file: "resource://gre/modules/BookmarkHTMLUtils.jsm" line: 145}]
+importFromURL@resource://gre/modules/BookmarkHTMLUtils.jsm:145:7
+observe@resource://gre/modules/AsyncShutdown.jsm:541:9
+
+[JavaScript Error: "Bookmarks.html file could be corrupt. TypeError: connection not specified or invalid." {file: "jar:file:///usr/lib64/firefox/browser/omni.ja!/components/nsBrowserGlue.js" line: 1655}]
+BG__initPlaces/<@jar:file:///usr/lib64/firefox/browser/omni.ja!/components/nsBrowserGlue.js:1655:13
+observe@resource://gre/modules/AsyncShutdown.jsm:541:9
+
+[JavaScript Error: "[Exception... "Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]"  nsresult: "0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE)"  location: "JS frame :: resource://gre/modules/XPCOMUtils.jsm :: XPCU_serviceLambda :: line 261"  data: no]"]
+XPCU_serviceLambda@resource://gre/modules/XPCOMUtils.jsm:261:14
+get@resource://gre/modules/XPCOMUtils.jsm:194:21
+ensurePlacesDefaultQueriesInitialized@jar:file:///usr/lib64/firefox/browser/omni.ja!/components/nsBrowserGlue.js:2568:11
+BG__initPlaces/<@jar:file:///usr/lib64/firefox/browser/omni.ja!/components/nsBrowserGlue.js:1663:19
+observe@resource://gre/modules/AsyncShutdown.jsm:541:9
+
+UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1583719485956	Toolkit.Telemetry	WARN	TelemetryEnvironment::registerChangeListener - already shutdown

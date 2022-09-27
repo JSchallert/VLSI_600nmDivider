@@ -1,0 +1,19 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 09/24/2018 21:00 (ip-172-18-22-224) $
+\o Sub version:		sub-version  p015 
+\o Arguments:		-mpssession virtuoso29175 -mpshost Tera.Eng.HMC.Edu 
+\o Working Directory:	Tera.Eng.HMC.Edu:/home/jschallert
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o Log file is "/home/jschallert/libManager.log".
+\o Opening libManager window.
+\a nrSetCurrentWindow(cdsLibManager)
+\o Loading customization file "./cdsLibMgr.il"
+\o Loading NCSU Library Manager customizations...done.
+\a nrResizeWindow(cdsLibManager list(1323 88 500 654))
+\o changeWorkingDir("/home/jschallert") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\o Library Manager customization server connected.
+\o MPS service: shutdown
+\o libManager is exiting.
+\a exit(0)

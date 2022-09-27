@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='L-2016.06 linux64' PARAM_COUNT=0
+.TITLE '* fo4.sp'
+ tpdr             tpdf             tpd              trise           
+ tfall            temper           alter#          
+    failed        -1.448e-03          failed           failed       
+  3.000e-02         70.0000        1               

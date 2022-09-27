@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>HSPICE</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="main.css" />
+
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<h1>What's New in This Release</h1>
+Version L-2016.06, June 2016
+
+<H2>Release Notes</H2>
+<p>The HSPICE® Release Notes provide information on new features,
+enhancements, changes, known issues, and resolved Synopsys Technical
+Action Requests (STARs). To view the release notes, go to
+<a href="https://solvnet.synopsys.com/DownloadCenter/dc/product.jsp">My Product Releases</a>, locate and click HSPICE, and then click the release
+version of interest.</p>
+
+<H2>New Features and Enhancements in HSPICE L-2016.06</H2>
+<H3>Enhancement to Interactive Mode</H3>
+<p>HSPICE supports multiple runs without re-parsing the input netlist, in the interactive mode. For more information, see the <i>Multiple Runs in Interactive Mode</i> topic in the HSPICE help.</p>
+<H3>Output template support for generic MOSFET wrapper</H3>
+<p>In addition to intrinsic MOSFETs, HSPICE now provides output template support for wrapper MOSFETs.</p>
+<H3>Support for AC Noise Output from .TRANNOISE</H3>
+<p>The results of transient noise analysis can be output in terms of a power spectral density (PSD) function. A new keyword <i>PSD</i> to .TRANNOISE allows you to enable PSD calculations in transient noise analysis. A new <i>.OPTION TRNOISESEGMENTS</i> option sets the number of window segments to use for the spectral density estimation algorithm. The PSD output allows the results from transient noise analysis to be easily compared with the results from the frequency domain .NOISE analysis.</p>
+<H3>Model Support</H3>
+<p>HSPICE L-2016.06 supports HICUM/L2 version 2.34 and BSIM-IMG version 102.7 models.</p>
+<H3>Support for MOSRA on BSIM6 Level 77 MOSFET Models</H3>
+<p>HSPICE MOSRA analysis currently supports Level 49, Level 53, Level 54, Level 57, Level 62, Level 66, Level 69, Level 70, Level 71, Level 72, Level 73, Level 76, Level 77, and external CMI MOSFET models.</p>
+<H3>Support for Reading-in Value Change Dump (VCD) Files</H3>
+<p>A new command <i>.VCD</i> to directly read-in VCD files.</p>
+<H3>Change in the Default Random Number Generator (RNG) for Monte Carlo Analysis</H3>
+<p>The default RNG for simple random sampling (SRS) and enhanced SRS based Monte Carlo analysis is changed to <i>MCG</i>. For more information, see the <i>Random Number Generators</i> topic in the HSPICE help.</p>
+</body>
+</html>

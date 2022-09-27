@@ -1,0 +1,15 @@
+cellViewCounterTable = makeTable('cellViewCounterTableType nil)
+cellViewCounterTable['("controller_JS" "nand2_1x" "symbol" )] =  52
+cellViewCounterTable['("controller_JS" "nor2_1x" "symbol" )] =  53
+cellViewCounterTable['("basic" "ipin" "symbol" )] =  19
+cellViewCounterTable['("controller_JS" "nor2_1x" "cmos_sch" )] =  215
+cellViewCounterTable['("basic" "opin" "symbol" )] =  19
+cellViewCounterTable['("controller_JS" "inv_1x" "symbol" )] =  40
+cellViewCounterTable['("controller_JS" "inv_1x" "cmos_sch" )] =  123
+cellViewCounterTable['("UofU_Analog_Parts" "vdd" "symbol" )] =  20
+cellViewCounterTable['("UofU_Analog_Parts" "pmos" "symbol" )] =  43
+cellViewCounterTable['("HMC_Sheets_8ths" "Asize" "symbol" )] =  57
+cellViewCounterTable['("UofU_Analog_Parts" "nmos" "symbol" )] =  42
+cellViewCounterTable['("controller_JS" "aludec" "schematic" )] =  2007
+cellViewCounterTable['("controller_JS" "nand2_1x" "cmos_sch" )] =  212
+cellViewCounterTable['("UofU_Analog_Parts" "gnd" "symbol" )] =  19

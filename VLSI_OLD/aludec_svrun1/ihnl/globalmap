@@ -1,0 +1,13 @@
+CADENCE IHNL11140
+$model
+controller_JS/nor2_1x/cmos_sch controller_JS/nor2_1x/cmos_sch/physConfig_schematic_symbol/controller_JS_nor2_1x_physConfig/1 nor2_1x
+controller_JS/inv_1x/cmos_sch controller_JS/inv_1x/cmos_sch/physConfig_schematic_symbol/controller_JS_inv_1x_physConfig/1 inv_1x
+controller_JS/nand2_1x/cmos_sch controller_JS/nand2_1x/cmos_sch/physConfig_schematic_symbol/controller_JS_nand2_1x_physConfig/1 nand2_1x
+controller_JS/aludec/schematic controller_JS/aludec/schematic/physConfig_schematic_symbol/controller_JS_aludec_physConfig/1 aludec
+$endmodel
+$net
+gnd! cds_globals.gnd_
+vdd! cds_globals.vdd_
+$endnet
+$param
+$endparam
